@@ -1,0 +1,101 @@
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,Lamb of God,Lamb of God,Memento Mori,5I29F9GR0OkaU1nuxp9hU8,0.538,0.984,2,-4.589,1,0.0992,0.787,0.127,0.0494,123.008,348100,4
+1,Until I Wake,Less of Me,Less of Me,61WDqg1dqbGJPs2ALSYhuw,0.456,0.942,4,-2.543,0,0.0751,0.0,0.212,0.381,130.133,212077,4
+2,Slipknot,Vol. 3: The Subliminal Verses,Duality,61mWefnWQOLf90gepjOCb3,0.354,0.982,4,-3.026,0,0.168,0.000294,0.204,0.194,143.772,252613,4
+3,All That Remains,A War You Cannot Win,What If I Was Nothing,28urem2KpSOkljclEk8X8G,0.436,0.772,4,-5.81,1,0.0377,0.0,0.104,0.229,144.015,277347,4
+4,Bullet For My Valentine,Scream Aim Fire Deluxe Edition,Watching Us Die Tonight,6pTIWe9tDXXxURyI6GrHkl,0.554,0.991,0,-4.827,1,0.0753,0.00109,0.285,0.142,117.998,233560,4
+5,The Amity Affliction,Let the Ocean Take Me (Deluxe),The Weigh Down,20MzZ6d2xI7Dgz84zJjDwJ,0.484,0.953,7,-3.602,1,0.107,0.0,0.235,0.249,93.984,211387,4
+6,Falling In Reverse,Popular Monster,Popular Monster,4GssB27iJeqmfGxS94Tfij,0.461,0.897,3,-3.982,0,0.092,0.0,0.0965,0.358,165.107,220537,4
+7,Bury Tomorrow,Earthbound,Cemetery,4HkIolmDnYfLCyh4hXnnul,0.495,0.988,3,-3.258,1,0.0783,1.21e-05,0.441,0.168,119.987,246037,4
+8,Fit For A King,The Path,The Path,1zkdINXJTDhqKaFL0kjIT8,0.481,0.932,8,-4.344,1,0.0434,0.0,0.295,0.416,114.628,247251,4
+9,The Amity Affliction,Let the Ocean Take Me (Deluxe),Pittsburgh (No Intro),2165kdGmY44lcNNdWwSiEI,0.386,0.943,5,-3.033,0,0.185,0.0,0.0928,0.402,148.008,239127,4
+10,Falling In Reverse,Coming Home (Deluxe Edition),Coming Home,4Jk6ZV8QsuWNLVzjX8VeE6,0.219,0.93,11,-3.348,1,0.114,0.0,0.138,0.32,123.511,294039,4
+11,Bury Tomorrow,Cannibal,Better Below,4jEHOygkrspN6MTgYaN4Ex,0.453,0.979,8,-4.695,1,0.146,1.41e-05,0.16,0.484,92.5,192547,4
+12,As I Lay Dying,Shaped by Fire,The Wreckage,4y6uRAPCibOKSSUQPhb9re,0.479,0.966,1,-6.548,1,0.0851,0.00697,0.297,0.0556,119.982,282858,4
+13,The Amity Affliction,Glory Days,15 Pieces of Flare,3LiHmL6BTbAEP5AnVJWk30,0.39,0.87,1,-5.664,0,0.109,0.0,0.173,0.245,161.665,257080,4
+14,Falling In Reverse,Drugs,Drugs,5BkCDt5w0WOGgBgDC7T39i,0.503,0.904,2,-3.895,0,0.048,0.0,0.132,0.384,165.099,231920,4
+15,A Day To Remember,What Separates Me From You,All Signs Point to Lauderdale,15qf0H31MChhqKr2zvejla,0.42,0.983,10,-3.437,1,0.113,0.0,0.114,0.513,149.958,197200,4
+16,Five Finger Death Punch,War is the Answer,My Own Hell,0MfbGGGBbVoku7VDGpxE7E,0.467,0.901,4,-4.175,0,0.0584,9.86e-05,0.107,0.328,170.007,215213,4
+17,Ice Nine Kills,The Silver Scream,A Grave Mistake,2mMNBgFRyEiRoGvrdoONeq,0.36,0.925,6,-3.775,0,0.0719,0.0,0.115,0.446,175.088,184227,3
+18,Falling In Reverse,The Drug In Me Is You,The Drug In Me Is You,1mB7dCUM7sPyNab6R43nlj,0.548,0.855,3,-3.266,1,0.151,0.0,0.127,0.644,145.133,218787,4
+19,Machine Head,Is There Anybody out There?,Is There Anybody out There?,5aeIj88MLdekYvObw5Yisk,0.408,0.953,7,-3.883,1,0.226,0.0,0.338,0.291,177.94,272666,4
+20,Five Finger Death Punch,War is the Answer,Bad Company,1UWGkn34CD31VQfdi4D8Zp,0.557,0.886,11,-4.196,0,0.0498,9.84e-05,0.0904,0.17,114.025,262440,4
+21,Slipknot,.5: The Gray Chapter (Special Edition),If Rain Is What You Want,1JP26wqamuPK9rdwF126rQ,0.62,0.643,7,-5.808,1,0.0348,0.0231,0.15,0.108,124.974,380907,4
+22,Bullet For My Valentine,Venom (Deluxe Edition),No Way Out,6yHx2dNnWb1fEChGoulEVc,0.441,0.994,5,-4.138,1,0.114,9.68e-06,0.368,0.19,140.053,233933,4
+23,I Prevail,TRAUMA,Rise Above It,6QyBWey7P8ILuhS5RO7xYe,0.561,0.786,1,-6.99,1,0.0298,7.05e-05,0.26,0.0907,140.017,184520,4
+24,Siamese,Home (feat. Drew York),Home (feat. Drew York),39kp0jbq52k36Il5Vh5Co6,0.617,0.932,5,-7.039,0,0.0806,1.38e-05,0.114,0.393,139.999,237536,4
+25,Slipknot,We Are Not Your Kind,Solway Firth,6WCkyaVmut83CtBFEUhDo4,0.214,0.969,11,-3.924,1,0.106,0.246,0.138,0.0369,159.948,355540,4
+26,Motionless In White,Reincarnate,Reincarnate,4vVUoi4U6ikqH2wIoE2fmG,0.478,0.992,7,-3.165,1,0.211,0.000206,0.327,0.117,109.969,220040,4
+27,Falling In Reverse,Losing My Life,Losing My Life,6SeFPYWv9lIlSWanyEDYf5,0.446,0.927,2,-3.727,0,0.228,0.0,0.0931,0.274,160.031,299016,4
+28,Wake Up Hate,The Panic,The Panic,3wLY1d3uqyUAyAyetjfCcx,0.431,0.969,11,-4.193,0,0.0728,0.00751,0.21,0.526,175.043,234358,4
+29,Slipknot,Vol. 3: The Subliminal Verses,Scream,1MxB3Qw6wz8IZYSmIPyH6I,0.323,0.982,2,-3.239,1,0.147,2.41e-06,0.301,0.321,124.711,271987,4
+30,As I Lay Dying,Shaped by Fire,My Own Grave,0CcqWuAEJC93K8cBMbAjgI,0.477,0.994,5,-4.953,0,0.241,0.0129,0.0534,0.0397,125.058,253318,4
+31,I Prevail,TRAUMA,Bow Down,5qD3Qv8Wu3r5uRD0DahcZy,0.426,0.959,0,-4.95,1,0.0525,6.54e-06,0.707,0.372,155.01,242680,4
+32,10 Years,Feeding The Wolves (Deluxe Version),One More Day,48PeLxMTu3v0i5o5hX6gjB,0.454,0.688,10,-5.623,0,0.0301,1.55e-06,0.124,0.192,155.957,251533,4
+33,Космонавтов Нет,1+1=11,баночка с окурками,7j6eSKC2Hv3lcElPyR1bP3,0.4,0.878,10,-6.793,1,0.313,0.0167,0.32,0.505,180.037,162810,4
+34,Slipknot,Slipknot (10th Anniversary Edition),Spit It Out,2W2eaLVKv9NObcLXlYRZZo,0.331,0.946,7,-4.599,1,0.0775,5.62e-06,0.254,0.534,139.965,159773,4
+35,Mick Gordon,Doom (Original Game Soundtrack),Bfg Division,4COR2ZPEyUn0lsbAouRWxA,0.284,0.722,7,-8.284,1,0.0559,0.873,0.163,0.0383,116.292,506763,3
+36,Polaris,The Mortal Coil,The Remedy,63GJDO5mxiFP1ZQEpdUWRd,0.356,0.995,4,-3.366,0,0.172,0.000196,0.403,0.167,183.985,243913,4
+37,Caliban,I Am Nemesis,Memorial,23ttPeTdUAaOC9RSXb3Ze6,0.448,0.913,11,-3.094,0,0.0399,1.46e-05,0.236,0.233,92.482,260947,4
+38,Machine Head,Unto the Locust (Special Edition),Locust,2fed1yXI1clOEddfGyKyH2,0.352,0.956,7,-3.634,1,0.149,0.0203,0.125,0.228,122.897,456320,4
+39,Slipknot,.5: The Gray Chapter (Special Edition),AOV,2qfLaOWD7bB4J1Val3vO4K,0.536,0.988,7,-1.777,1,0.0671,6.45e-05,0.366,0.231,130.777,332907,4
+40,Bullet For My Valentine,Fever,Your Betrayal,25GC50HslaaruyrKjdu0lP,0.569,0.883,2,-4.41,0,0.0747,7.74e-05,0.0883,0.373,134.003,291427,4
+41,Bury Tomorrow,Cannibal,Cannibal,0GhZWnjJpFHnujDHFug3Fl,0.534,0.989,8,-5.328,0,0.139,3.8e-06,0.258,0.15,123.029,255547,4
+42,Lamb of God,Lamb of God,Bloodshot Eyes,4Am0goLgxEJpqOAwT466KM,0.538,0.991,7,-3.117,1,0.0699,0.00352,0.337,0.19,116.011,237009,4
+43,Slipknot,We Are Not Your Kind,Unsainted,5mpUKTdskZea0gStWzeHUZ,0.427,0.946,7,-2.188,1,0.0469,0.0253,0.0604,0.237,101.305,260773,4
+44,Five Finger Death Punch,"The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",Wrong Side of Heaven,11Ojp7JniVvwd0gmgvyKkd,0.481,0.932,4,-4.592,0,0.083,0.0,0.337,0.543,149.992,271000,4
+45,Bury Tomorrow,Black Flame (Deluxe),Adrenaline,6Ydkr0CFYnCxr7Nur4MOVQ,0.513,0.918,1,-5.448,1,0.0747,0.00741,0.303,0.5,105.94,163133,4
+46,Ice Nine Kills,Safe Is Just a Shadow (Re-Shadowed and Re-Recorded),Proximity Mines in the Complex,51HmpKczoW7JDoTjP3C7IV,0.433,0.986,4,-4.468,1,0.129,4.13e-05,0.12,0.325,149.933,207203,4
+47,Slipknot,Vol. 3: The Subliminal Verses,Before I Forget,6wqJeItl3Vc3az4ZicSQAB,0.291,0.974,6,-2.997,0,0.171,5.44e-06,0.886,0.348,134.724,278600,4
+48,Horus,Финита,Финита,3Qau5lvZ7tBCJpVUHbWKw4,0.777,0.592,9,-8.118,0,0.0809,0.0713,0.104,0.075,130.001,199385,4
+49,Bury Tomorrow,Cannibal,Cold Sleep,0ECcKYdCcPWLzS7Xs6HZ5t,0.522,0.982,8,-4.306,1,0.15,1.94e-05,0.258,0.274,124.911,219173,4
+50,Bullet For My Valentine,The Poison (Deluxe Version),Her Voice Resides,4nMy2uqHa7VogsuXuVjAYX,0.311,0.984,8,-3.081,1,0.119,1.61e-05,0.373,0.349,95.134,258280,4
+51,Slipknot,Slipknot (10th Anniversary Edition),Surfacing,0iget4icTqUya9wtpvCTF2,0.443,0.993,11,-4.517,0,0.101,0.0437,0.307,0.276,106.875,218093,4
+52,Horus,Дом тысячи сквозняков,Ночь,3etCYUntvgLcNr0rp8hp1Q,0.749,0.723,7,-4.674,1,0.183,0.000916,0.0961,0.239,140.013,192052,4
+53,Bury Tomorrow,Choke,Choke,1BW2QdLe6RtJTMJDSYmg9w,0.503,0.981,1,-5.701,1,0.0936,9.06e-05,0.194,0.34,124.91,227440,4
+54,DevilDriver,Wishing,Wishing,46tOJb6N2bxouL0AtUGaTo,0.251,0.955,2,-6.308,0,0.157,8.16e-05,0.112,0.303,132.431,259930,4
+55,Slipknot,Vol. 3: The Subliminal Verses,Circle,6do7nVH4UOuZlKcA2ZBHbh,0.353,0.76,4,-5.105,0,0.0344,0.0245,0.369,0.273,119.52,262987,4
+56,All That Remains,The Order Of Things,Criticism And Self Realization,1pLrvqCtJjGW6rAC3wrn2J,0.33,0.816,6,-5.36,0,0.0573,1.79e-06,0.113,0.125,139.117,423667,4
+57,Bury Tomorrow,Runes,Garden of Thorns,7yXjjYTdaYZl9MOWWmov4B,0.486,0.969,10,-3.275,0,0.0799,2.86e-05,0.108,0.283,109.997,303827,4
+58,Architects,Holy Hell,Hereafter,3VGheGbJrEnGvwteXNBDNt,0.513,0.973,6,-4.115,0,0.0849,0.00326,0.224,0.159,121.018,255587,4
+59,Slipknot,Vol. 3: The Subliminal Verses,Three Nil,61KpjCXatXtHSv7z9hsv7B,0.311,0.993,7,-2.484,1,0.2,9.78e-06,0.2,0.105,114.273,288320,4
+60,Ice Nine Kills,The Predator Becomes The Prey,What Lies Beneath,6N3ssNOH6rhEEFbVWsmoZp,0.524,0.981,6,-3.616,1,0.0863,0.02,0.121,0.365,139.945,209947,4
+61,All That Remains,Madness,River City,6tt1Gc0npe2h5E9AzIyzJI,0.453,0.843,3,-6.203,0,0.041,9.34e-05,0.225,0.19,158.009,334000,4
+62,Five Finger Death Punch,Got Your Six,Jekyll and Hyde,6efSwlK3LOlWOeKK9xlUKF,0.537,0.964,9,-4.157,1,0.113,1.14e-05,0.0564,0.712,155.017,206903,4
+63,Slipknot,All Hope Is Gone,Dead Memories,01eEGwQ4eZlz6x1V8i2WGP,0.547,0.963,4,-2.337,0,0.0744,0.0251,0.353,0.441,130.061,268587,4
+64,Falling In Reverse,The Drug In Me Is Reimagined,The Drug In Me Is Reimagined,5GIWP2q6p92lFA10KUuL0z,0.498,0.401,0,-7.168,0,0.0287,0.0,0.12,0.114,99.721,340072,4
+65,Bullet For My Valentine,Venom (Deluxe Edition),You Want a Battle? (Here's a War),1KCAEG6JcsTzi8ddZzs0nk,0.295,0.98,2,-4.075,0,0.0854,0.0,0.359,0.283,134.335,254613,4
+66,Ice Nine Kills,The Predator,The Coffin Is Moving,7rIUsl93yY3jAbecG38QsE,0.242,0.995,6,-2.261,0,0.149,0.00101,0.352,0.473,149.907,192207,4
+67,Король и шут,"Лучшее, часть 1",Лесник,5Up1zgINR90lkp1EWx79kF,0.29,0.906,9,-3.767,0,0.076,0.161,0.0543,0.559,172.828,191791,4
+68,Slipknot,All Out Life,All Out Life,6vAQtUlYrzolE6SS9QCTs5,0.499,0.97,0,-2.838,1,0.116,0.136,0.0871,0.0506,106.558,340132,4
+69,Escape the Fate,There's No Sympathy For The Dead,The Guillotine,65zbeiwZapIDMmoXTHTpX6,0.442,0.947,4,-4.817,0,0.181,2.58e-06,0.406,0.0925,100.044,272493,4
+70,Motionless In White,Disguise,Another Life,0YZEYxd1oiqZRFhnnmTKKi,0.39,0.939,4,-3.828,0,0.0787,0.0,0.0968,0.495,161.997,205394,4
+71,Bullet For My Valentine,Scream Aim Fire Deluxe Edition,Road To Nowhere,5GcmJoEmrus69907XfjoTu,0.295,0.562,2,-8.686,1,0.0358,0.0,0.0968,0.514,87.067,259520,4
+72,Horus,Вопрос времени,Око,0RAKaxG7MLwKjjCIfcdolm,0.67,0.782,4,-6.237,0,0.284,4.66e-06,0.111,0.455,159.008,226415,4
+73,LSP,Magic City,Синее,1McP6CZurvxrd0StK2Uigw,0.636,0.497,10,-8.097,0,0.0527,0.0,0.292,0.266,139.984,209267,4
+74,Ice Nine Kills,The Silver Scream (FINAL CUT),Rocking The Boat (feat. Jeremy Schwartz),3vmRM1tPa2Cf29wJtp4q2Z,0.39,0.955,6,-3.591,1,0.112,0.0,0.205,0.365,87.346,246227,4
+75,Falling In Reverse,Losing My Mind,Losing My Mind,1qPlNM2FaEWCMSxpVR5XeH,0.544,0.894,2,-5.193,0,0.0515,0.0,0.365,0.41,148.0,257108,4
+76,Lamb of God,Lamb of God,Reality Bath,0GwyDNEcUavoLYdK0oDDSI,0.404,0.986,2,-3.831,1,0.319,0.558,0.0867,0.122,200.04,272484,4
+77,ATL,Забил,Забил,5JQhVT5B9VTJg8WKoZ980d,0.851,0.677,8,-6.441,1,0.143,0.0,0.105,0.627,119.997,192000,4
+78,Architects,Holy Hell,A Wasted Hymn,7HxPeiu2gKZbGXWJA0bzHn,0.486,0.924,6,-4.436,0,0.0446,0.000389,0.297,0.0896,121.036,274933,4
+79,Falling In Reverse,Coming Home (Deluxe Edition),The Departure,0kTcEzRcDLjCP27TglgeeP,0.495,0.95,5,-4.743,0,0.0995,0.000209,0.0806,0.38,127.963,287923,4
+80,All That Remains,For We Are Many,The Waiting One,4hfVIGsNiEskkK77AfC2lG,0.439,0.762,1,-4.178,0,0.0343,0.0,0.106,0.273,150.106,288187,3
+81,From Ashes to New,Panic,Panic,6MOm4FSE2fk1NFd5fcqoSq,0.529,0.961,5,-3.561,0,0.132,0.0,0.319,0.292,98.067,200800,4
+82,Slipknot,We Are Not Your Kind,Not Long for This World,06AojtTNdRQ1fB80VbB1g2,0.349,0.759,7,-6.579,1,0.0478,0.0569,0.0801,0.0392,138.304,395681,4
+83,Various Artists,Emo Classics,The Kill (Bury Me),54bzhkAeWNCzl6Reh4h8pV,0.179,0.912,4,-3.881,0,0.0791,0.000294,0.582,0.289,182.99,231533,3
+84,Bury Tomorrow,Black Flame (Deluxe),No Less Violent,5vI4vt03I9eLvHlGJaX6rY,0.468,0.975,10,-5.151,0,0.0775,2.03e-05,0.0544,0.461,91.99,209720,4
+85,From Ashes to New,Panic,Bulletproof,71o9vwPjjfGdzlBtEoZcUu,0.635,0.794,11,-6.481,0,0.0637,7.44e-06,0.104,0.269,121.998,207173,4
+86,[Amatory],VII,Падая вниз,4L7zTG5oNWd2jnUoDcYvw7,0.432,0.798,11,-4.525,0,0.04,0.0107,0.122,0.366,119.955,308547,4
+87,10 Years,The Shift,The Shift,6kHDKPCxgANtgHbZ84Lc0B,0.498,0.949,11,-4.367,0,0.0575,0.0232,0.0783,0.517,95.027,180691,3
+88,Bullet For My Valentine,The Poison (Deluxe Version),Suffocating Under Words Of Sorrow (What Can I Do),55L9oL9HCSFY2iiiWgpXSe,0.397,0.978,7,-2.256,0,0.133,1.47e-06,0.212,0.552,93.538,215533,4
+89,Slipknot,Iowa,Left Behind,4l3Vmsw0KO8HJqFtnbqaqu,0.229,0.994,6,-3.431,1,0.22,0.00548,0.318,0.115,156.623,241467,4
+90,All That Remains,A War You Cannot Win,Not Fading,6iuQevObiNVKBfuazOSFHP,0.395,0.91,1,-5.355,1,0.0559,1.93e-05,0.136,0.501,177.976,214453,4
+91,System Of A Down,Protect The Land / Genocidal Humanoidz,Protect The Land,11ajcVj3qSyyMPUpTJUP3y,0.432,0.886,8,-3.991,1,0.0341,4.74e-05,0.338,0.248,76.04,307645,4
+92,Bullet For My Valentine,Scream Aim Fire Deluxe Edition,Deliver Us from Evil,0a6OmwHaHSDEjLefvsyBlW,0.447,0.928,7,-4.191,0,0.0858,3.22e-05,0.0771,0.561,93.615,358280,4
+93,Шоколадный Торт,Россия не для грустных,Россия не для грустных,1ZAznWCIH04I2DLEqlu8Y5,0.566,0.903,6,-3.799,1,0.0433,0.000367,0.258,0.696,139.989,303642,4
+94,Falling In Reverse,Fashionably Late (Deluxe Edition),Goddamn,41z2xWCiwlbJbYuEP3wndP,0.421,0.945,0,-3.083,1,0.0944,0.0,0.198,0.646,200.038,190192,4
+95,Corey Taylor,CMFT,Kansas,7HZZ2rGWbAoUYZdjmjZCS7,0.446,0.989,6,-3.85,1,0.061,0.00129,0.118,0.669,154.036,254088,4
+96,Bury Tomorrow,The Union of Crowns,Kingdom,19EF9PVNPvmcWAgh0rWRnz,0.202,0.883,8,-4.772,1,0.0974,0.0,0.385,0.341,94.847,223280,4
+97,Driveways,Epilogues,Sirens III,35iOMwxz4WnSUgE8WAdCbA,0.363,0.928,6,-4.807,1,0.0684,9.78e-06,0.165,0.263,114.956,200478,4
+98,Falling In Reverse,Fashionably Late (Deluxe Edition),Fuck The Rest,49c89V1h9Mt9OM5sOm82vG,0.507,0.954,2,-3.608,1,0.148,5.89e-06,0.841,0.704,167.309,264998,4
+99,Until I Wake,Self Medicated,Self Medicated,1oKUt7G18Lc187J5BRrdxW,0.428,0.978,5,-2.307,0,0.131,0.0,0.128,0.319,145.052,189103,4
