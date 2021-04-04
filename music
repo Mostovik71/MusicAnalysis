@@ -1,0 +1,1600 @@
+,Unnamed: 0,artist,album,track_name,danceability,energy,valence,popularity,duration_min,user,user_score
+0,0,Asking Alexandria,Like A House On Fire,House On Fire,0.46,0.788,0.233,0.53,3.55545,3.0,2.8
+1,1,Asking Alexandria,Like A House On Fire,They Don't Want What We Want (And They Don't Care),0.558,0.902,0.57,0.6,3.2565166666666667,5.0,4.5
+2,2,Asking Alexandria,Like A House On Fire,Down To Hell,0.578,0.962,0.341,0.58,3.2744,4.0,2.0
+3,3,Asking Alexandria,Like A House On Fire,Antisocialist,0.572,0.852,0.378,0.64,3.60685,2.0,4.6
+4,4,Asking Alexandria,Like A House On Fire,I Don't Need You,0.555,0.472,0.35,0.55,3.713783333333333,4.0,3.7
+5,5,Asking Alexandria,Like A House On Fire,All Due Respect,0.553,0.831,0.367,0.48,3.91925,1.0,1.8
+6,6,Asking Alexandria,Like A House On Fire,Take Some Time,0.26,0.89,0.389,0.45,3.4208166666666666,3.0,4.2
+7,7,Asking Alexandria,Like A House On Fire,One Turns To None,0.518,0.904,0.414,0.45,3.0707,3.0,1.1
+8,8,Asking Alexandria,Like A House On Fire,It's Not Me (It's You),0.498,0.913,0.433,0.43,2.9263,4.0,4.2
+9,9,Asking Alexandria,Like A House On Fire,Here's To Starting Over,0.409,0.793,0.151,0.43,3.2834,3.0,4.1
+10,10,Asking Alexandria,Like A House On Fire,What's Gonna Be,0.523,0.728,0.401,0.45,3.417316666666667,3.0,1.7
+11,11,Asking Alexandria,Like A House On Fire,Give You Up,0.515,0.821,0.492,0.43,3.55475,1.0,4.7
+12,12,Asking Alexandria,Like A House On Fire,In My Blood,0.605,0.702,0.169,0.46,3.5168666666666666,2.0,1.5
+13,13,Asking Alexandria,Like A House On Fire,The Violence,0.646,0.851,0.333,0.6,3.4732666666666665,1.0,4.1
+14,14,Asking Alexandria,Like A House On Fire,Lorazepam,0.591,0.735,0.31,0.44,4.035066666666666,2.0,3.1
+15,15,Asking Alexandria,LP5 DLX,Alone In A Room,0.482,0.946,0.284,0.34,4.097683333333333,5.0,1.1
+16,16,Asking Alexandria,LP5 DLX,Into The Fire,0.384,0.981,0.351,0.32,3.9636666666666662,5.0,4.1
+17,17,Asking Alexandria,LP5 DLX,Hopelessly Hopeful,0.468,0.961,0.37,0.31,3.22475,1.0,2.3
+18,18,Asking Alexandria,LP5 DLX,Where Did It Go?,0.472,0.946,0.21,0.32,3.231533333333333,1.0,4.4
+19,19,Asking Alexandria,LP5 DLX,Rise Up,0.374,0.986,0.0831,0.3,3.1184166666666666,5.0,3.6
+20,20,Asking Alexandria,LP5 DLX,When The Lights Come On,0.493,0.951,0.298,0.3,3.3904666666666667,2.0,4.8
+21,21,Asking Alexandria,LP5 DLX,Under Denver,0.498,0.945,0.409,0.29,4.098066666666667,5.0,3.8
+22,22,Asking Alexandria,LP5 DLX,Vultures,0.394,0.694,0.403,0.3,3.4740333333333333,2.0,3.5
+23,23,Asking Alexandria,LP5 DLX,Eve,0.507,0.972,0.103,0.28,3.9771833333333335,4.0,3.6
+24,24,Asking Alexandria,LP5 DLX,I Am One,0.426,0.984,0.181,0.28,3.541,2.0,4.4
+25,25,Asking Alexandria,LP5 DLX,Empire (feat. Bingx),0.334,0.759,0.249,0.27,4.2770166666666665,1.0,1.2
+26,26,Asking Alexandria,LP5 DLX,Room 138,0.297,0.964,0.0918,0.28,3.73965,5.0,4.3
+27,27,Asking Alexandria,LP5 DLX,Into The Fire (Radio Edit),0.38,0.984,0.366,0.25,3.507033333333333,4.0,3.6
+28,28,Asking Alexandria,LP5 DLX,Vultures - Rock Version,0.45,0.806,0.207,0.32,3.4473666666666665,4.0,4.5
+29,29,Asking Alexandria,LP5 DLX,Where Did It Go? - Hyro Mash Up,0.693,0.905,0.767,0.33,2.2864166666666668,2.0,2.9
+30,30,Asking Alexandria,LP5 DLX,Perfect - Live from SiriusXM,0.507,0.246,0.267,0.4,4.51805,2.0,4.5
+31,31,Asking Alexandria,LP5 DLX,Rise Up - Demo,0.515,0.973,0.0908,0.27,3.3295166666666667,4.0,4.7
+32,32,Asking Alexandria,LP5 DLX,Alone In A Room - Acoustic Version,0.512,0.579,0.358,0.42,4.426983333333333,2.0,1.2
+33,33,Asking Alexandria,LP5 DLX,Alone In A Room - Dex Luthor Remix,0.479,0.55,0.225,0.28,3.296,1.0,3.4
+34,34,Asking Alexandria,The Black,Let It Sleep,0.433,0.985,0.125,0.45,4.0,3.0,1.8
+35,35,Asking Alexandria,The Black,The Black,0.417,0.954,0.146,0.61,4.688883333333333,3.0,2.5
+36,36,Asking Alexandria,The Black,I Won't Give In,0.428,0.914,0.494,0.64,3.826666666666666,1.0,4.0
+37,37,Asking Alexandria,The Black,Sometimes It Ends,0.465,0.947,0.145,0.42,4.7619,5.0,3.5
+38,38,Asking Alexandria,The Black,The Lost Souls,0.336,0.96,0.12,0.45,4.0877,1.0,3.0
+39,39,Asking Alexandria,The Black,Just A Slave To Rock n' Roll,0.347,0.964,0.256,0.4,3.41765,2.0,1.3
+40,40,Asking Alexandria,The Black,Send Me Home,0.437,0.823,0.347,0.45,4.3037,5.0,3.4
+41,41,Asking Alexandria,The Black,We'll Be OK,0.136,0.967,0.185,0.41,3.9652666666666665,2.0,1.3
+42,42,Asking Alexandria,The Black,Here I Am,0.35,0.837,0.0924,0.49,4.327166666666667,1.0,1.2
+43,43,Asking Alexandria,The Black,Gone,0.203,0.387,0.157,0.44,3.2968,4.0,4.6
+44,44,Asking Alexandria,The Black,Undivided,0.39,0.986,0.169,0.42,3.5883333333333334,3.0,3.9
+45,45,Asking Alexandria,The Black,Circled By The Wolves,0.154,0.976,0.256,0.39,3.49915,2.0,1.9
+46,46,Asking Alexandria,From Death To Destiny,Don't Pray For Me,0.549,0.887,0.148,0.48,4.672516666666667,4.0,2.0
+47,47,Asking Alexandria,From Death To Destiny,Killing You,0.354,0.985,0.117,0.53,3.1979166666666665,4.0,1.7
+48,48,Asking Alexandria,From Death To Destiny,The Death Of Me,0.441,0.972,0.235,0.53,4.314983333333333,2.0,2.8
+49,49,Asking Alexandria,From Death To Destiny,Run Free,0.25,0.929,0.107,0.45,4.178583333333333,1.0,3.1
+50,50,Asking Alexandria,From Death To Destiny,Break Down The Walls,0.469,0.916,0.287,0.44,3.523983333333333,4.0,4.3
+51,51,Asking Alexandria,From Death To Destiny,Poison,0.479,0.945,0.281,0.47,3.7750333333333335,4.0,4.7
+52,52,Asking Alexandria,From Death To Destiny,Believe,0.291,0.978,0.265,0.43,4.52165,3.0,1.3
+53,53,Asking Alexandria,From Death To Destiny,Creature,0.476,0.94,0.461,0.41,3.23685,3.0,2.8
+54,54,Asking Alexandria,From Death To Destiny,White Line Fever,0.497,0.984,0.602,0.45,3.72515,3.0,3.1
+55,55,Asking Alexandria,From Death To Destiny,Moving On,0.446,0.761,0.336,0.59,4.043216666666667,5.0,4.8
+56,56,Asking Alexandria,From Death To Destiny,The Road,0.448,0.955,0.429,0.41,3.44795,4.0,3.7
+57,57,Asking Alexandria,From Death To Destiny,Until The End - feat. Howard Jones,0.234,0.885,0.137,0.39,4.509133333333334,2.0,4.2
+58,58,Asking Alexandria,From Death To Destiny,The Death Of Me - Rock Mix,0.383,0.973,0.264,0.44,3.4136333333333333,3.0,4.0
+59,59,The Amity Affliction,Everyone Loves You... Once You Leave Them,Coffin,0.547,0.851,0.0535,0.43,1.9211166666666664,2.0,2.3
+60,60,The Amity Affliction,Everyone Loves You... Once You Leave Them,All My Friends Are Dead,0.382,0.944,0.181,0.48,3.7847,1.0,2.5
+61,61,The Amity Affliction,Everyone Loves You... Once You Leave Them,Soak Me in Bleach,0.185,0.91,0.188,0.6,3.7652666666666663,5.0,2.3
+62,62,The Amity Affliction,Everyone Loves You... Once You Leave Them,All I Do is Sink,0.295,0.939,0.211,0.43,3.5684,1.0,3.9
+63,63,The Amity Affliction,Everyone Loves You... Once You Leave Them,Baltimore Rain,0.451,0.891,0.545,0.41,3.458333333333333,2.0,3.5
+64,64,The Amity Affliction,Everyone Loves You... Once You Leave Them,Aloneliness,0.601,0.758,0.515,0.42,2.7372666666666667,5.0,3.6
+65,65,The Amity Affliction,Everyone Loves You... Once You Leave Them,Forever,0.456,0.951,0.422,0.46,3.175316666666667,1.0,4.5
+66,66,The Amity Affliction,Everyone Loves You... Once You Leave Them,Just Like Me,0.591,0.657,0.488,0.42,3.6226666666666665,3.0,2.5
+67,67,The Amity Affliction,Everyone Loves You... Once You Leave Them,Born to Lose,0.553,0.837,0.349,0.39,3.42235,5.0,4.0
+68,68,The Amity Affliction,Everyone Loves You... Once You Leave Them,Fever Dream,0.52,0.767,0.199,0.4,3.365733333333333,3.0,3.1
+69,69,The Amity Affliction,Everyone Loves You... Once You Leave Them,Catatonia,0.284,0.963,0.21,0.43,3.6119,4.0,1.2
+70,70,The Amity Affliction,Misery,Ivy (Doomsday),0.5,0.833,0.451,0.54,3.574883333333333,1.0,3.2
+71,71,The Amity Affliction,Misery,Feels like I'm Dying,0.453,0.832,0.405,0.56,3.6531166666666666,4.0,4.8
+72,72,The Amity Affliction,Misery,Holier Than Heaven,0.524,0.976,0.473,0.44,4.108666666666666,4.0,2.4
+73,73,The Amity Affliction,Misery,Burn Alive,0.623,0.83,0.345,0.44,3.47355,3.0,4.6
+74,74,The Amity Affliction,Misery,Misery,0.554,0.895,0.695,0.43,3.9006666666666665,1.0,2.1
+75,75,The Amity Affliction,Misery,Kick Rocks,0.541,0.771,0.499,0.44,3.3337833333333333,5.0,3.8
+76,76,The Amity Affliction,Misery,Black Cloud,0.596,0.867,0.647,0.42,3.7891166666666662,5.0,2.4
+77,77,The Amity Affliction,Misery,D.I.E,0.539,0.831,0.172,0.5,3.23355,1.0,5.0
+78,78,The Amity Affliction,Misery,Drag the Lake,0.498,0.904,0.343,0.61,3.525333333333333,3.0,1.0
+79,79,The Amity Affliction,Misery,Beltsville Blues,0.511,0.918,0.827,0.42,3.498,5.0,3.5
+80,80,The Amity Affliction,Misery,Set Me Free,0.468,0.878,0.348,0.47,3.50845,1.0,3.4
+81,81,The Amity Affliction,Misery,The Gifthorse,0.573,0.44,0.251,0.46,3.3697833333333334,5.0,4.3
+82,82,The Amity Affliction,This Could Be Heartbreak,I Bring the Weather with Me,0.283,0.973,0.0962,0.48,4.606883333333333,1.0,2.7
+83,83,The Amity Affliction,This Could Be Heartbreak,This Could Be Heartbreak,0.568,0.99,0.545,0.48,3.896,4.0,2.7
+84,84,The Amity Affliction,This Could Be Heartbreak,Nightmare,0.177,0.991,0.276,0.43,3.7891166666666662,5.0,4.9
+85,85,The Amity Affliction,This Could Be Heartbreak,Tearing Me Apart,0.345,0.983,0.253,0.44,3.798666666666666,4.0,1.1
+86,86,The Amity Affliction,This Could Be Heartbreak,O.M.G.I.M.Y.,0.365,0.965,0.103,0.44,4.854633333333333,2.0,3.5
+87,87,The Amity Affliction,This Could Be Heartbreak,All Fucked Up,0.511,0.876,0.291,0.58,3.8293333333333335,5.0,4.7
+88,88,The Amity Affliction,This Could Be Heartbreak,Fight My Regret,0.247,0.997,0.0331,0.42,3.632216666666667,5.0,3.6
+89,89,The Amity Affliction,This Could Be Heartbreak,Some Friends,0.395,0.987,0.242,0.42,3.57645,5.0,3.4
+90,90,The Amity Affliction,This Could Be Heartbreak,Wishbone,0.459,0.996,0.333,0.38,3.756,3.0,4.4
+91,91,The Amity Affliction,This Could Be Heartbreak,Note to Self,0.46,0.99,0.0805,0.37,3.887333333333333,2.0,1.8
+92,92,The Amity Affliction,This Could Be Heartbreak,Blood In My Mouth,0.428,0.99,0.0395,0.42,5.261116666666667,1.0,1.7
+93,93,The Amity Affliction,Let the Ocean Take Me (Deluxe),Pittsburgh (No Intro),0.386,0.943,0.402,0.44,3.98545,5.0,1.2
+94,94,The Amity Affliction,Let the Ocean Take Me (Deluxe),Lost & Fading,0.454,0.965,0.174,0.42,4.52155,4.0,1.9
+95,95,The Amity Affliction,Let the Ocean Take Me (Deluxe),Don't Lean on Me,0.45,0.986,0.309,0.44,3.56445,2.0,2.4
+96,96,The Amity Affliction,Let the Ocean Take Me (Deluxe),The Weigh Down,0.484,0.953,0.249,0.43,3.5231166666666667,1.0,2.7
+97,97,The Amity Affliction,Let the Ocean Take Me (Deluxe),Never Alone,0.483,0.871,0.376,0.41,5.617333333333334,4.0,3.7
+98,98,The Amity Affliction,Let the Ocean Take Me (Deluxe),Death's Hand,0.35,0.971,0.168,0.44,4.24845,2.0,2.7
+99,99,The Amity Affliction,Let the Ocean Take Me (Deluxe),F.M.L.,0.485,0.966,0.416,0.41,3.43045,4.0,1.6
+0,0,From Ashes to New,Panic,What I Get,0.555,0.838,0.35,0.46,3.05555,4.0,1.7
+1,1,Bad Omens,Finding God Before God Finds Me (Deluxe),Limits,0.312,0.968,0.3,0.57,3.464233333333333,5.0,3.7
+2,2,From Ashes to New,Panic,Panic,0.529,0.961,0.292,0.55,3.3466666666666667,4.0,1.4
+3,3,Bad Omens,Finding God Before God Finds Me (Deluxe),Limits,0.312,0.968,0.3,0.57,3.464233333333333,3.0,4.0
+4,4,I Prevail,POST TRAUMATIC (Live / Deluxe),Every Time You Leave [Feat. Delaney Jane] - Live Acoustic,0.562,0.456,0.407,0.4,3.12355,4.0,1.3
+5,5,I Prevail,TRAUMA,Bow Down,0.426,0.959,0.372,0.68,4.044666666666667,1.0,1.5
+6,6,Bullet For My Valentine,Gravity,Letting You Go,0.459,0.903,0.364,0.6,3.7275833333333335,4.0,2.3
+7,7,Motionless In White,Graveyard Shift,Necessary Evil (feat. Jonathan Davis),0.579,0.946,0.4,0.55,3.800883333333333,1.0,4.3
+8,8,Nothing More,The Stories We Tell Ourselves,Fade In / Fade Out,0.411,0.805,0.238,0.57,6.081783333333333,2.0,2.5
+9,9,blessthefall,Hard Feelings,Wishful Sinking,0.304,0.951,0.395,0.47,4.464433333333333,4.0,2.8
+10,10,Red,Declaration,Sever,0.175,0.893,0.349,0.41,4.033333333333333,4.0,2.2
+11,11,We Are The Flesh,No Love for You,No Love for You,0.619,0.926,0.188,0.18,2.1142833333333333,2.0,2.4
+12,12,Danny Worsnop,Another You,Another You,0.569,0.728,0.531,0.45,3.6363666666666665,3.0,4.7
+13,13,The Word Alive,MONOMANIA,NUMB LOVE (MISERY II),0.422,0.963,0.301,0.37,3.8746666666666663,3.0,3.5
+14,14,Bullet For My Valentine,Gravity,Breathe Underwater,0.384,0.451,0.24,0.45,3.685966666666667,1.0,3.6
+15,15,Kayzo,Unleashed,Alone,0.429,0.952,0.232,0.41,3.099283333333333,5.0,5.0
+16,16,Of Mice & Men,Cold World,Pain,0.581,0.975,0.468,0.44,3.72525,4.0,2.2
+17,17,Bring Me The Horizon,That's The Spirit,Blasphemy,0.409,0.859,0.473,0.63,4.58355,4.0,1.1
+18,18,Alesana,Confessions,Catharsis,0.512,0.979,0.146,0.29,7.273133333333333,5.0,3.2
+19,19,Bring Me The Horizon,Drown (Live from Maida Vale),Drown - Live from Maida Vale,0.363,0.545,0.332,0.45,3.761783333333333,5.0,4.9
+20,20,Danny Worsnop,The Long Road Home,High,0.36,0.436,0.217,0.31,3.84955,2.0,4.2
+21,21,blessthefall,To Those Left Behind,Walk On Water,0.407,0.977,0.215,0.38,3.912,1.0,1.4
+22,22,All That Remains,A War You Cannot Win,What If I Was Nothing,0.436,0.772,0.229,0.62,4.62245,5.0,1.2
+23,23,Make Them Suffer,How To Survive A Funeral,Erase Me,0.488,0.903,0.189,0.55,3.743516666666667,3.0,2.0
+24,24,Polaris,The Death of Me,Masochist,0.49,0.941,0.264,0.56,4.132066666666667,2.0,4.7
+25,25,Polaris,The Death of Me,Masochist,0.49,0.941,0.264,0.56,4.132066666666667,3.0,3.5
+26,26,Our Last Night,Let Light Overcome The Darkness,Lost - New Version,0.508,0.852,0.443,0.39,3.89615,3.0,1.6
+27,27,Beartooth,Disease,Disease,0.525,0.957,0.456,0.63,3.806216666666667,2.0,4.2
+28,28,Beartooth,Disease,Disease,0.525,0.957,0.456,0.63,3.806216666666667,3.0,1.9
+29,29,Being As An Ocean,Waiting for Morning to Come (Deluxe),Alone,0.44,0.873,0.123,0.42,4.409533333333333,1.0,4.4
+30,30,Fit For A King,Dark Skies,When Everything Means Nothing,0.433,0.929,0.504,0.57,3.8598,2.0,4.0
+31,31,Wage War,Gravity (Stripped),Gravity - Stripped,0.331,0.681,0.223,0.45,3.928,2.0,3.8
+32,32,Hellions,Opera Oblivia,Thresher,0.538,0.96,0.569,0.36,3.2583333333333333,3.0,2.9
+33,33,Hellions,Opera Oblivia,Thresher,0.538,0.96,0.569,0.36,3.2583333333333333,5.0,1.4
+34,34,I Prevail,Lifelines,Worst Part Of Me,0.317,0.952,0.146,0.49,3.8706666666666663,4.0,3.1
+35,35,Our Last Night,Selective Hearing,Common Ground,0.476,0.872,0.218,0.5,3.9697,4.0,2.0
+36,36,Escape the Fate,I Am Human,Broken Heart,0.528,0.861,0.591,0.63,3.1228666666666665,4.0,2.9
+37,37,Escape the Fate,Hate Me (Deluxe Version),Remember Every Scar,0.374,0.956,0.43,0.0,4.051116666666666,3.0,3.1
+38,38,Black Veil Brides,Black Veil Brides,Faithless,0.449,0.98,0.173,0.46,4.802883333333333,2.0,4.1
+39,39,sKitz Kraven,#Newmusicmondays (The Collection),That's All,0.73,0.618,0.19,0.58,3.515633333333333,4.0,4.0
+40,40,SayWeCanFly,Heaven Is Hell,Scars,0.58,0.392,0.338,0.39,3.018116666666667,2.0,4.7
+41,41,Escape the Fate,Ungrateful,You're Insane,0.588,0.971,0.564,0.01,3.573783333333333,3.0,3.7
+42,42,Escape the Fate,Ungrateful,One For The Money,0.528,0.962,0.413,0.15,3.332666666666667,3.0,4.4
+43,43,The Ready Set,Feel Good Now,Killer,0.644,0.84,0.935,0.62,3.053333333333333,5.0,4.5
+44,44,SayWeCanFly,Heaven Is Hell,Scars,0.58,0.392,0.338,0.39,3.018116666666667,4.0,4.8
+45,45,Zomboy,Reanimated EP,Raptor,0.409,0.982,0.0614,0.33,4.875,1.0,3.2
+46,46,Escape the Fate,Ungrateful,You're Insane,0.588,0.971,0.564,0.01,3.573783333333333,4.0,4.1
+47,47,Escape the Fate,Ungrateful,One For The Money,0.528,0.962,0.413,0.15,3.332666666666667,2.0,3.8
+48,48,The Ready Set,Feel Good Now,Killer,0.644,0.84,0.935,0.62,3.053333333333333,4.0,2.2
+49,49,SayWeCanFly,Heaven Is Hell,Scars,0.58,0.392,0.338,0.39,3.018116666666667,4.0,1.6
+50,50,Zomboy,Reanimated EP,Raptor,0.409,0.982,0.0614,0.33,4.875,3.0,1.6
+51,51,Escape the Fate,Escape The Fate (Deluxe),Gorgeous Nightmare,0.594,0.865,0.681,0.45,3.268,5.0,1.1
+52,52,Escape the Fate,There's No Sympathy For The Dead,As You're Falling Down,0.5,0.938,0.433,0.39,3.4122166666666667,2.0,3.4
+53,53,Pierce The Veil,Collide With The Sky,King For A Day,0.403,0.965,0.431,0.73,3.9382166666666665,2.0,1.2
+54,54,Pierce The Veil,Collide With The Sky,King For A Day,0.403,0.965,0.431,0.73,3.9382166666666665,2.0,4.6
+55,55,Get Scared,Best Kind Of Mess,Sarcasm,0.387,0.929,0.591,0.69,3.301333333333333,3.0,3.6
+56,56,Escape the Fate,Dying Is Your Latest Fashion,Not Good Enough For Truth In Cliche',0.372,0.904,0.362,0.62,3.85845,4.0,3.4
+57,57,Get Scared,Best Kind Of Mess,Whore,0.527,0.95,0.43,0.47,2.94755,3.0,4.4
+58,58,Escape the Fate,There's No Sympathy For The Dead,As You're Falling Down,0.5,0.938,0.433,0.39,3.4122166666666667,2.0,1.8
+59,59,Crown The Empire,Sudden Sky,Sudden Sky,0.512,0.945,0.249,0.45,4.34615,2.0,1.8
+60,60,I Prevail,TRAUMA,Paranoid,0.558,0.793,0.457,0.63,2.409116666666667,4.0,4.7
+61,61,Sylar,Seasons,All or Nothing,0.461,0.955,0.32,0.53,3.302416666666667,4.0,1.5
+62,62,Crown The Empire,Sudden Sky,what i am,0.49,0.81,0.326,0.54,3.2697333333333334,3.0,2.2
+63,63,Crown The Empire,Sudden Sky,20/20,0.319,0.925,0.492,0.46,4.0203,5.0,5.0
+0,0,From Ashes to New,Panic,What I Get,0.555,0.838,0.35,0.46,3.05555,3.0,1.8
+1,1,Bad Omens,Finding God Before God Finds Me (Deluxe),Limits,0.312,0.968,0.3,0.57,3.464233333333333,4.0,4.5
+2,2,From Ashes to New,Panic,Panic,0.529,0.961,0.292,0.55,3.3466666666666667,4.0,4.1
+3,3,Bad Omens,Finding God Before God Finds Me (Deluxe),Limits,0.312,0.968,0.3,0.57,3.464233333333333,1.0,3.6
+4,4,I Prevail,POST TRAUMATIC (Live / Deluxe),Every Time You Leave [Feat. Delaney Jane] - Live Acoustic,0.562,0.456,0.407,0.4,3.12355,1.0,3.6
+5,5,I Prevail,TRAUMA,Bow Down,0.426,0.959,0.372,0.68,4.044666666666667,2.0,1.8
+6,6,Bullet For My Valentine,Gravity,Letting You Go,0.459,0.903,0.364,0.6,3.7275833333333335,2.0,2.2
+7,7,Motionless In White,Graveyard Shift,Necessary Evil (feat. Jonathan Davis),0.579,0.946,0.4,0.55,3.800883333333333,5.0,2.2
+8,8,Nothing More,The Stories We Tell Ourselves,Fade In / Fade Out,0.411,0.805,0.238,0.57,6.081783333333333,5.0,1.0
+9,9,blessthefall,Hard Feelings,Wishful Sinking,0.304,0.951,0.395,0.47,4.464433333333333,4.0,2.3
+10,10,Red,Declaration,Sever,0.175,0.893,0.349,0.41,4.033333333333333,3.0,4.2
+11,11,We Are The Flesh,No Love for You,No Love for You,0.619,0.926,0.188,0.18,2.1142833333333333,4.0,1.3
+12,12,Danny Worsnop,Another You,Another You,0.569,0.728,0.531,0.45,3.6363666666666665,1.0,1.6
+13,13,The Word Alive,MONOMANIA,NUMB LOVE (MISERY II),0.422,0.963,0.301,0.37,3.8746666666666663,3.0,2.6
+14,14,Bullet For My Valentine,Gravity,Breathe Underwater,0.384,0.451,0.24,0.45,3.685966666666667,5.0,3.9
+15,15,Kayzo,Unleashed,Alone,0.429,0.952,0.232,0.41,3.099283333333333,1.0,1.9
+16,16,Of Mice & Men,Cold World,Pain,0.581,0.975,0.468,0.44,3.72525,2.0,4.8
+17,17,Bring Me The Horizon,That's The Spirit,Blasphemy,0.409,0.859,0.473,0.63,4.58355,5.0,1.7
+18,18,Alesana,Confessions,Catharsis,0.512,0.979,0.146,0.29,7.273133333333333,2.0,1.3
+19,19,Bring Me The Horizon,Drown (Live from Maida Vale),Drown - Live from Maida Vale,0.363,0.545,0.332,0.45,3.761783333333333,5.0,1.3
+20,20,Danny Worsnop,The Long Road Home,High,0.36,0.436,0.217,0.31,3.84955,1.0,1.3
+21,21,blessthefall,To Those Left Behind,Walk On Water,0.407,0.977,0.215,0.38,3.912,2.0,4.3
+22,22,All That Remains,A War You Cannot Win,What If I Was Nothing,0.436,0.772,0.229,0.62,4.62245,5.0,4.6
+23,23,Make Them Suffer,How To Survive A Funeral,Erase Me,0.488,0.903,0.189,0.55,3.743516666666667,1.0,1.4
+24,24,Polaris,The Death of Me,Masochist,0.49,0.941,0.264,0.56,4.132066666666667,2.0,1.8
+25,25,Polaris,The Death of Me,Masochist,0.49,0.941,0.264,0.56,4.132066666666667,1.0,1.9
+26,26,Our Last Night,Let Light Overcome The Darkness,Lost - New Version,0.508,0.852,0.443,0.39,3.89615,2.0,1.6
+27,27,Beartooth,Disease,Disease,0.525,0.957,0.456,0.63,3.806216666666667,4.0,3.1
+28,28,Beartooth,Disease,Disease,0.525,0.957,0.456,0.63,3.806216666666667,1.0,1.8
+29,29,Being As An Ocean,Waiting for Morning to Come (Deluxe),Alone,0.44,0.873,0.123,0.42,4.409533333333333,3.0,2.3
+30,30,Fit For A King,Dark Skies,When Everything Means Nothing,0.433,0.929,0.504,0.57,3.8598,1.0,3.1
+31,31,Wage War,Gravity (Stripped),Gravity - Stripped,0.331,0.681,0.223,0.45,3.928,1.0,2.7
+32,32,Hellions,Opera Oblivia,Thresher,0.538,0.96,0.569,0.36,3.2583333333333333,1.0,2.5
+33,33,Hellions,Opera Oblivia,Thresher,0.538,0.96,0.569,0.36,3.2583333333333333,4.0,5.0
+34,34,I Prevail,Lifelines,Worst Part Of Me,0.317,0.952,0.146,0.49,3.8706666666666663,2.0,1.9
+35,35,Our Last Night,Selective Hearing,Common Ground,0.476,0.872,0.218,0.5,3.9697,2.0,1.1
+36,36,Escape the Fate,I Am Human,Broken Heart,0.528,0.861,0.591,0.63,3.1228666666666665,2.0,3.0
+37,37,Escape the Fate,Hate Me (Deluxe Version),Remember Every Scar,0.374,0.956,0.43,0.0,4.051116666666666,5.0,2.3
+38,38,Black Veil Brides,Black Veil Brides,Faithless,0.449,0.98,0.173,0.46,4.802883333333333,4.0,4.8
+39,39,sKitz Kraven,#Newmusicmondays (The Collection),That's All,0.73,0.618,0.19,0.58,3.515633333333333,2.0,4.3
+40,40,SayWeCanFly,Heaven Is Hell,Scars,0.58,0.392,0.338,0.39,3.018116666666667,2.0,1.1
+41,41,Escape the Fate,Ungrateful,You're Insane,0.588,0.971,0.564,0.01,3.573783333333333,1.0,3.7
+42,42,Escape the Fate,Ungrateful,One For The Money,0.528,0.962,0.413,0.15,3.332666666666667,2.0,1.9
+43,43,The Ready Set,Feel Good Now,Killer,0.644,0.84,0.935,0.62,3.053333333333333,5.0,2.5
+44,44,SayWeCanFly,Heaven Is Hell,Scars,0.58,0.392,0.338,0.39,3.018116666666667,3.0,3.1
+45,45,Zomboy,Reanimated EP,Raptor,0.409,0.982,0.0614,0.33,4.875,5.0,2.0
+46,46,Escape the Fate,Ungrateful,You're Insane,0.588,0.971,0.564,0.01,3.573783333333333,2.0,3.5
+47,47,Escape the Fate,Ungrateful,One For The Money,0.528,0.962,0.413,0.15,3.332666666666667,1.0,1.2
+48,48,The Ready Set,Feel Good Now,Killer,0.644,0.84,0.935,0.62,3.053333333333333,1.0,4.2
+49,49,SayWeCanFly,Heaven Is Hell,Scars,0.58,0.392,0.338,0.39,3.018116666666667,2.0,4.7
+50,50,Zomboy,Reanimated EP,Raptor,0.409,0.982,0.0614,0.33,4.875,5.0,1.3
+51,51,Escape the Fate,Escape The Fate (Deluxe),Gorgeous Nightmare,0.594,0.865,0.681,0.45,3.268,4.0,2.8
+52,52,Escape the Fate,There's No Sympathy For The Dead,As You're Falling Down,0.5,0.938,0.433,0.39,3.4122166666666667,3.0,1.3
+53,53,Pierce The Veil,Collide With The Sky,King For A Day,0.403,0.965,0.431,0.73,3.9382166666666665,1.0,4.8
+54,54,Pierce The Veil,Collide With The Sky,King For A Day,0.403,0.965,0.431,0.73,3.9382166666666665,3.0,3.4
+55,55,Get Scared,Best Kind Of Mess,Sarcasm,0.387,0.929,0.591,0.69,3.301333333333333,4.0,2.2
+56,56,Escape the Fate,Dying Is Your Latest Fashion,Not Good Enough For Truth In Cliche',0.372,0.904,0.362,0.62,3.85845,1.0,3.1
+57,57,Get Scared,Best Kind Of Mess,Whore,0.527,0.95,0.43,0.47,2.94755,2.0,3.7
+58,58,Escape the Fate,There's No Sympathy For The Dead,As You're Falling Down,0.5,0.938,0.433,0.39,3.4122166666666667,5.0,5.0
+59,59,Crown The Empire,Sudden Sky,Sudden Sky,0.512,0.945,0.249,0.45,4.34615,4.0,2.1
+60,60,I Prevail,TRAUMA,Paranoid,0.558,0.793,0.457,0.63,2.409116666666667,3.0,2.1
+61,61,Sylar,Seasons,All or Nothing,0.461,0.955,0.32,0.53,3.302416666666667,3.0,2.9
+62,62,Crown The Empire,Sudden Sky,what i am,0.49,0.81,0.326,0.54,3.2697333333333334,3.0,1.2
+63,63,Crown The Empire,Sudden Sky,20/20,0.319,0.925,0.492,0.46,4.0203,1.0,4.7
+0,0,Fame on Fire,LEVELS,Down,0.542,0.953,0.691,0.46,3.31285,2.0,4.6
+1,1,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,4.0,1.2
+2,2,Bad Wolves,N.A.T.I.O.N.,Learn To Walk Again,0.48,0.913,0.262,0.6,2.797883333333333,2.0,3.3
+3,3,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,1.0,4.3
+4,4,DIAMANTE,Iris,Iris,0.381,0.65,0.152,0.61,3.7476666666666665,3.0,4.3
+5,5,Wage War,Pressure,Low,0.5,0.967,0.498,0.61,3.784883333333333,3.0,2.7
+6,6,Breaking Benjamin,Ember,Blood,0.478,0.971,0.284,0.64,3.152,3.0,4.9
+7,7,Asking Alexandria,Asking Alexandria,Into The Fire,0.375,0.965,0.292,0.62,3.95005,5.0,1.5
+8,8,Badflower,"OK, I'M SICK",Ghost,0.505,0.839,0.326,0.64,4.325333333333333,3.0,3.8
+9,9,The Word Alive,Violent Noise,Red Clouds,0.482,0.949,0.303,0.41,3.8853333333333335,2.0,4.7
+10,10,Breaking Benjamin,Aurora,Red Cold River - Aurora Version,0.313,0.919,0.318,0.48,3.3181333333333334,2.0,3.7
+11,11,Asking Alexandria,LP5 DLX,Where Did It Go? - Hyro Mash Up,0.693,0.905,0.767,0.33,2.2864166666666668,2.0,2.6
+12,12,Asking Alexandria,LP5 DLX,Perfect - Live from SiriusXM,0.507,0.246,0.267,0.4,4.51805,4.0,3.2
+13,13,Framing Hanley,Envy,Bubbles,0.472,0.926,0.468,0.34,3.978066666666667,4.0,1.4
+14,14,Asking Alexandria,LP5 DLX,Alone In A Room - Acoustic Version,0.512,0.579,0.358,0.42,4.426983333333333,2.0,3.0
+15,15,Sullivan King,Save the World,Save the World,0.472,0.995,0.237,0.36,3.466666666666667,3.0,3.3
+16,16,Motionless In White,Graveyard Shift,570,0.287,0.953,0.32,0.49,4.5213833333333335,5.0,1.3
+17,17,This Wild Life,Clouded (Deluxe Edition),Sleepwalking - Live Session,0.581,0.33,0.194,0.5,3.408166666666667,3.0,1.2
+18,18,Asking Alexandria,Into The Fire (Acoustic Version),Into The Fire - Acoustic Version,0.216,0.456,0.156,0.52,3.47935,5.0,2.5
+19,19,We Came As Romans,We Came As Romans,Regenerate,0.558,0.967,0.567,0.34,3.7843333333333335,2.0,3.6
+20,20,Pop Evil,Onyx (Deluxe Edition),Torn to Pieces,0.616,0.664,0.312,0.59,3.270966666666667,2.0,3.9
+21,21,Currents,The Way It Ends,Monsters,0.474,0.977,0.174,0.55,3.538466666666667,2.0,2.0
+22,22,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,2.0,3.6
+23,23,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,2.0,2.5
+24,24,I Prevail,POST TRAUMATIC (Live / Deluxe),Hurricane - Reimagined,0.457,0.459,0.25,0.5,3.2546666666666666,3.0,2.3
+25,25,The Amity Affliction,Misery,Feels like I'm Dying,0.453,0.832,0.405,0.56,3.6531166666666666,1.0,1.8
+26,26,The Amity Affliction,Misery,Feels like I'm Dying,0.453,0.832,0.405,0.56,3.6531166666666666,4.0,2.6
+27,27,Wage War,Pressure,Low,0.5,0.967,0.498,0.61,3.784883333333333,4.0,1.6
+28,28,Cory Wells,The Way We Are,End of a Good Thing,0.536,0.367,0.139,0.29,4.64375,1.0,1.5
+29,29,Luca Brasi,If This Is All We're Going to Be,Anything Near Conviction,0.504,0.961,0.531,0.36,3.79565,3.0,2.3
+30,30,Luca Brasi,If This Is All We're Going to Be,Anything Near Conviction,0.504,0.961,0.531,0.36,3.79565,1.0,2.1
+31,31,Palisades,Palisades,Cold Heart (Warm Blood),0.479,0.9,0.324,0.44,3.094583333333333,3.0,1.6
+32,32,Falling In Reverse,Losing My Mind,Losing My Mind,0.544,0.894,0.41,0.59,4.2851333333333335,5.0,2.6
+33,33,Falling In Reverse,Just Like You (Deluxe Edition),Chemical Prisoner,0.472,0.984,0.265,0.56,4.33945,4.0,1.9
+34,34,Eminem,Relapse: Refill,My Darling,0.511,0.79,0.456,0.57,5.331783333333333,4.0,1.2
+35,35,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,1.0,1.4
+36,36,Falling In Reverse,Fashionably Late (Deluxe Edition),It's Over When It's Over,0.561,0.984,0.584,0.6,3.89945,3.0,4.6
+37,37,Simon Curtis,R∆,Pit Of Vipers,0.731,0.629,0.345,0.57,3.461316666666667,3.0,4.4
+38,38,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,1.0,3.0
+39,39,Eptic,Doom EP,Z,0.546,0.953,0.611,0.25,3.745233333333333,4.0,5.0
+40,40,Falling In Reverse,Fashionably Late (Deluxe Edition),It's Over When It's Over,0.561,0.984,0.584,0.6,3.89945,4.0,1.2
+41,41,Simon Curtis,R∆,Pit Of Vipers,0.731,0.629,0.345,0.57,3.461316666666667,3.0,1.8
+42,42,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,3.0,1.1
+43,43,Eptic,Doom EP,Z,0.546,0.953,0.611,0.25,3.745233333333333,3.0,5.0
+44,44,Falling In Reverse,The Drug In Me Is You,Raised By Wolves,0.368,0.871,0.527,0.6,3.41155,5.0,1.1
+45,45,Sleeping With Sirens,Let's Cheers To This,If You Can't Hang,0.397,0.975,0.451,0.69,4.1706666666666665,1.0,3.4
+46,46,Sleeping With Sirens,Let's Cheers To This,If You Can't Hang,0.397,0.975,0.451,0.69,4.1706666666666665,2.0,4.6
+47,47,Set It Off,Cinematics (Deluxe),I'll Sleep When I'm Dead,0.402,0.924,0.445,0.64,3.4008833333333333,3.0,3.0
+48,48,Hawthorne Heights,The Silence In Black and White - Re-Issue,Ohio Is for Lovers,0.568,0.835,0.625,0.66,4.074666666666666,3.0,3.3
+49,49,Ghost Town,Party In The Graveyard,You're so Creepy,0.501,0.928,0.481,0.49,3.566666666666667,5.0,3.6
+50,50,Bad Omens,Finding God Before God Finds Me,Burning Out,0.452,0.977,0.295,0.48,4.423333333333333,1.0,4.3
+51,51,Palisades,Erase The Pain,Erase The Pain,0.466,0.864,0.481,0.58,3.29725,4.0,2.7
+52,52,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,1.0,3.6
+53,53,The Word Alive,Violent Noise,Why Am I Like This?,0.321,0.949,0.23,0.58,3.22755,1.0,3.7
+54,54,Palisades,Erase The Pain,Fragile Bones,0.378,0.938,0.202,0.41,3.35495,3.0,3.1
+0,0,Fame on Fire,LEVELS,Down,0.542,0.953,0.691,0.46,3.31285,3.0,2.7
+1,1,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,5.0,3.6
+2,2,Bad Wolves,N.A.T.I.O.N.,Learn To Walk Again,0.48,0.913,0.262,0.6,2.797883333333333,3.0,4.3
+3,3,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,3.0,2.2
+4,4,DIAMANTE,Iris,Iris,0.381,0.65,0.152,0.61,3.7476666666666665,1.0,3.4
+5,5,Wage War,Pressure,Low,0.5,0.967,0.498,0.61,3.784883333333333,4.0,1.3
+6,6,Breaking Benjamin,Ember,Blood,0.478,0.971,0.284,0.64,3.152,5.0,4.4
+7,7,Asking Alexandria,Asking Alexandria,Into The Fire,0.375,0.965,0.292,0.62,3.95005,1.0,2.8
+8,8,Badflower,"OK, I'M SICK",Ghost,0.505,0.839,0.326,0.64,4.325333333333333,5.0,2.5
+9,9,The Word Alive,Violent Noise,Red Clouds,0.482,0.949,0.303,0.41,3.8853333333333335,2.0,2.5
+10,10,Breaking Benjamin,Aurora,Red Cold River - Aurora Version,0.313,0.919,0.318,0.48,3.3181333333333334,1.0,2.0
+11,11,Asking Alexandria,LP5 DLX,Where Did It Go? - Hyro Mash Up,0.693,0.905,0.767,0.33,2.2864166666666668,3.0,2.2
+12,12,Asking Alexandria,LP5 DLX,Perfect - Live from SiriusXM,0.507,0.246,0.267,0.4,4.51805,3.0,3.2
+13,13,Framing Hanley,Envy,Bubbles,0.472,0.926,0.468,0.34,3.978066666666667,5.0,4.8
+14,14,Asking Alexandria,LP5 DLX,Alone In A Room - Acoustic Version,0.512,0.579,0.358,0.42,4.426983333333333,5.0,3.9
+15,15,Sullivan King,Save the World,Save the World,0.472,0.995,0.237,0.36,3.466666666666667,3.0,1.9
+16,16,Motionless In White,Graveyard Shift,570,0.287,0.953,0.32,0.49,4.5213833333333335,5.0,5.0
+17,17,This Wild Life,Clouded (Deluxe Edition),Sleepwalking - Live Session,0.581,0.33,0.194,0.5,3.408166666666667,1.0,3.2
+18,18,Asking Alexandria,Into The Fire (Acoustic Version),Into The Fire - Acoustic Version,0.216,0.456,0.156,0.52,3.47935,2.0,2.4
+19,19,We Came As Romans,We Came As Romans,Regenerate,0.558,0.967,0.567,0.34,3.7843333333333335,4.0,1.3
+20,20,Pop Evil,Onyx (Deluxe Edition),Torn to Pieces,0.616,0.664,0.312,0.59,3.270966666666667,5.0,2.4
+21,21,Currents,The Way It Ends,Monsters,0.474,0.977,0.174,0.55,3.538466666666667,5.0,1.9
+22,22,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,3.0,1.6
+23,23,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,5.0,2.2
+24,24,I Prevail,POST TRAUMATIC (Live / Deluxe),Hurricane - Reimagined,0.457,0.459,0.25,0.5,3.2546666666666666,3.0,2.9
+25,25,The Amity Affliction,Misery,Feels like I'm Dying,0.453,0.832,0.405,0.56,3.6531166666666666,4.0,1.9
+26,26,The Amity Affliction,Misery,Feels like I'm Dying,0.453,0.832,0.405,0.56,3.6531166666666666,5.0,4.9
+27,27,Wage War,Pressure,Low,0.5,0.967,0.498,0.61,3.784883333333333,5.0,4.2
+28,28,Cory Wells,The Way We Are,End of a Good Thing,0.536,0.367,0.139,0.29,4.64375,2.0,4.5
+29,29,Luca Brasi,If This Is All We're Going to Be,Anything Near Conviction,0.504,0.961,0.531,0.36,3.79565,2.0,1.8
+30,30,Luca Brasi,If This Is All We're Going to Be,Anything Near Conviction,0.504,0.961,0.531,0.36,3.79565,3.0,2.5
+31,31,Palisades,Palisades,Cold Heart (Warm Blood),0.479,0.9,0.324,0.44,3.094583333333333,4.0,1.2
+32,32,Falling In Reverse,Losing My Mind,Losing My Mind,0.544,0.894,0.41,0.59,4.2851333333333335,5.0,3.6
+33,33,Falling In Reverse,Just Like You (Deluxe Edition),Chemical Prisoner,0.472,0.984,0.265,0.56,4.33945,2.0,4.9
+34,34,Eminem,Relapse: Refill,My Darling,0.511,0.79,0.456,0.57,5.331783333333333,2.0,4.1
+35,35,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,4.0,2.6
+36,36,Falling In Reverse,Fashionably Late (Deluxe Edition),It's Over When It's Over,0.561,0.984,0.584,0.6,3.89945,2.0,1.7
+37,37,Simon Curtis,R∆,Pit Of Vipers,0.731,0.629,0.345,0.57,3.461316666666667,3.0,1.4
+38,38,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,3.0,3.1
+39,39,Eptic,Doom EP,Z,0.546,0.953,0.611,0.25,3.745233333333333,3.0,1.4
+40,40,Falling In Reverse,Fashionably Late (Deluxe Edition),It's Over When It's Over,0.561,0.984,0.584,0.6,3.89945,4.0,2.8
+41,41,Simon Curtis,R∆,Pit Of Vipers,0.731,0.629,0.345,0.57,3.461316666666667,1.0,3.3
+42,42,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,2.0,3.2
+43,43,Eptic,Doom EP,Z,0.546,0.953,0.611,0.25,3.745233333333333,1.0,2.2
+44,44,Falling In Reverse,The Drug In Me Is You,Raised By Wolves,0.368,0.871,0.527,0.6,3.41155,4.0,1.7
+45,45,Sleeping With Sirens,Let's Cheers To This,If You Can't Hang,0.397,0.975,0.451,0.69,4.1706666666666665,3.0,4.9
+46,46,Sleeping With Sirens,Let's Cheers To This,If You Can't Hang,0.397,0.975,0.451,0.69,4.1706666666666665,2.0,3.4
+47,47,Set It Off,Cinematics (Deluxe),I'll Sleep When I'm Dead,0.402,0.924,0.445,0.64,3.4008833333333333,3.0,2.8
+48,48,Hawthorne Heights,The Silence In Black and White - Re-Issue,Ohio Is for Lovers,0.568,0.835,0.625,0.66,4.074666666666666,3.0,2.0
+49,49,Ghost Town,Party In The Graveyard,You're so Creepy,0.501,0.928,0.481,0.49,3.566666666666667,3.0,3.0
+50,50,Bad Omens,Finding God Before God Finds Me,Burning Out,0.452,0.977,0.295,0.48,4.423333333333333,5.0,4.6
+51,51,Palisades,Erase The Pain,Erase The Pain,0.466,0.864,0.481,0.58,3.29725,2.0,1.6
+52,52,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,3.0,3.6
+53,53,The Word Alive,Violent Noise,Why Am I Like This?,0.321,0.949,0.23,0.58,3.22755,3.0,2.8
+54,54,Palisades,Erase The Pain,Fragile Bones,0.378,0.938,0.202,0.41,3.35495,4.0,3.6
+0,0,Fame on Fire,LEVELS,Down,0.542,0.953,0.691,0.46,3.31285,1.0,2.0
+1,1,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,4.0,4.4
+2,2,Bad Wolves,N.A.T.I.O.N.,Learn To Walk Again,0.48,0.913,0.262,0.6,2.797883333333333,4.0,2.5
+3,3,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,3.0,1.5
+4,4,DIAMANTE,Iris,Iris,0.381,0.65,0.152,0.61,3.7476666666666665,2.0,2.0
+5,5,Wage War,Pressure,Low,0.5,0.967,0.498,0.61,3.784883333333333,1.0,1.4
+6,6,Breaking Benjamin,Ember,Blood,0.478,0.971,0.284,0.64,3.152,3.0,1.5
+7,7,Asking Alexandria,Asking Alexandria,Into The Fire,0.375,0.965,0.292,0.62,3.95005,1.0,4.3
+8,8,Badflower,"OK, I'M SICK",Ghost,0.505,0.839,0.326,0.64,4.325333333333333,2.0,4.5
+9,9,The Word Alive,Violent Noise,Red Clouds,0.482,0.949,0.303,0.41,3.8853333333333335,5.0,4.0
+10,10,Breaking Benjamin,Aurora,Red Cold River - Aurora Version,0.313,0.919,0.318,0.48,3.3181333333333334,4.0,4.2
+11,11,Asking Alexandria,LP5 DLX,Where Did It Go? - Hyro Mash Up,0.693,0.905,0.767,0.33,2.2864166666666668,1.0,2.3
+12,12,Asking Alexandria,LP5 DLX,Perfect - Live from SiriusXM,0.507,0.246,0.267,0.4,4.51805,4.0,2.2
+13,13,Framing Hanley,Envy,Bubbles,0.472,0.926,0.468,0.34,3.978066666666667,3.0,2.1
+14,14,Asking Alexandria,LP5 DLX,Alone In A Room - Acoustic Version,0.512,0.579,0.358,0.42,4.426983333333333,3.0,3.1
+15,15,Sullivan King,Save the World,Save the World,0.472,0.995,0.237,0.36,3.466666666666667,1.0,4.8
+16,16,Motionless In White,Graveyard Shift,570,0.287,0.953,0.32,0.49,4.5213833333333335,5.0,3.2
+17,17,This Wild Life,Clouded (Deluxe Edition),Sleepwalking - Live Session,0.581,0.33,0.194,0.5,3.408166666666667,3.0,3.1
+18,18,Asking Alexandria,Into The Fire (Acoustic Version),Into The Fire - Acoustic Version,0.216,0.456,0.156,0.52,3.47935,5.0,4.1
+19,19,We Came As Romans,We Came As Romans,Regenerate,0.558,0.967,0.567,0.34,3.7843333333333335,3.0,4.0
+20,20,Pop Evil,Onyx (Deluxe Edition),Torn to Pieces,0.616,0.664,0.312,0.59,3.270966666666667,3.0,4.8
+21,21,Currents,The Way It Ends,Monsters,0.474,0.977,0.174,0.55,3.538466666666667,4.0,1.5
+22,22,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,1.0,1.2
+23,23,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,1.0,1.4
+24,24,I Prevail,POST TRAUMATIC (Live / Deluxe),Hurricane - Reimagined,0.457,0.459,0.25,0.5,3.2546666666666666,5.0,3.7
+25,25,The Amity Affliction,Misery,Feels like I'm Dying,0.453,0.832,0.405,0.56,3.6531166666666666,3.0,1.3
+26,26,The Amity Affliction,Misery,Feels like I'm Dying,0.453,0.832,0.405,0.56,3.6531166666666666,1.0,3.3
+27,27,Wage War,Pressure,Low,0.5,0.967,0.498,0.61,3.784883333333333,2.0,4.9
+28,28,Cory Wells,The Way We Are,End of a Good Thing,0.536,0.367,0.139,0.29,4.64375,1.0,2.9
+29,29,Luca Brasi,If This Is All We're Going to Be,Anything Near Conviction,0.504,0.961,0.531,0.36,3.79565,5.0,4.6
+30,30,Luca Brasi,If This Is All We're Going to Be,Anything Near Conviction,0.504,0.961,0.531,0.36,3.79565,2.0,3.0
+31,31,Palisades,Palisades,Cold Heart (Warm Blood),0.479,0.9,0.324,0.44,3.094583333333333,1.0,1.1
+32,32,Falling In Reverse,Losing My Mind,Losing My Mind,0.544,0.894,0.41,0.59,4.2851333333333335,4.0,3.6
+33,33,Falling In Reverse,Just Like You (Deluxe Edition),Chemical Prisoner,0.472,0.984,0.265,0.56,4.33945,4.0,2.4
+34,34,Eminem,Relapse: Refill,My Darling,0.511,0.79,0.456,0.57,5.331783333333333,1.0,2.8
+35,35,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,2.0,4.8
+36,36,Falling In Reverse,Fashionably Late (Deluxe Edition),It's Over When It's Over,0.561,0.984,0.584,0.6,3.89945,5.0,3.0
+37,37,Simon Curtis,R∆,Pit Of Vipers,0.731,0.629,0.345,0.57,3.461316666666667,4.0,3.7
+38,38,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,1.0,4.8
+39,39,Eptic,Doom EP,Z,0.546,0.953,0.611,0.25,3.745233333333333,3.0,3.9
+40,40,Falling In Reverse,Fashionably Late (Deluxe Edition),It's Over When It's Over,0.561,0.984,0.584,0.6,3.89945,1.0,4.4
+41,41,Simon Curtis,R∆,Pit Of Vipers,0.731,0.629,0.345,0.57,3.461316666666667,4.0,1.0
+42,42,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,3.0,3.2
+43,43,Eptic,Doom EP,Z,0.546,0.953,0.611,0.25,3.745233333333333,3.0,1.1
+44,44,Falling In Reverse,The Drug In Me Is You,Raised By Wolves,0.368,0.871,0.527,0.6,3.41155,3.0,3.3
+45,45,Sleeping With Sirens,Let's Cheers To This,If You Can't Hang,0.397,0.975,0.451,0.69,4.1706666666666665,2.0,4.1
+46,46,Sleeping With Sirens,Let's Cheers To This,If You Can't Hang,0.397,0.975,0.451,0.69,4.1706666666666665,4.0,1.9
+47,47,Set It Off,Cinematics (Deluxe),I'll Sleep When I'm Dead,0.402,0.924,0.445,0.64,3.4008833333333333,1.0,2.0
+48,48,Hawthorne Heights,The Silence In Black and White - Re-Issue,Ohio Is for Lovers,0.568,0.835,0.625,0.66,4.074666666666666,3.0,3.6
+49,49,Ghost Town,Party In The Graveyard,You're so Creepy,0.501,0.928,0.481,0.49,3.566666666666667,4.0,3.8
+50,50,Bad Omens,Finding God Before God Finds Me,Burning Out,0.452,0.977,0.295,0.48,4.423333333333333,1.0,2.4
+51,51,Palisades,Erase The Pain,Erase The Pain,0.466,0.864,0.481,0.58,3.29725,3.0,5.0
+52,52,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,3.0,4.7
+53,53,The Word Alive,Violent Noise,Why Am I Like This?,0.321,0.949,0.23,0.58,3.22755,2.0,2.7
+54,54,Palisades,Erase The Pain,Fragile Bones,0.378,0.938,0.202,0.41,3.35495,2.0,2.7
+0,0,Slaves,To Better Days,Like I Do,0.58,0.874,0.302,0.5,3.162166666666667,5.0,2.9
+1,1,Bad Omens,Finding God Before God Finds Me (Deluxe),Never Know,0.381,0.921,0.129,0.52,3.5641833333333333,1.0,4.5
+2,2,From Ashes to New,Panic,Panic,0.529,0.961,0.292,0.55,3.3466666666666667,1.0,4.0
+3,3,Bad Omens,Finding God Before God Finds Me (Deluxe),Never Know,0.381,0.921,0.129,0.52,3.5641833333333333,4.0,2.9
+4,4,I Prevail,POST TRAUMATIC (Live / Deluxe),Every Time You Leave [Feat. Delaney Jane] - Live Acoustic,0.562,0.456,0.407,0.4,3.12355,5.0,4.8
+5,5,I Prevail,TRAUMA,Bow Down,0.426,0.959,0.372,0.68,4.044666666666667,4.0,3.0
+6,6,Bad Wolves,Disobey,No Masters,0.495,0.949,0.501,0.54,3.884916666666667,1.0,4.3
+7,7,Motionless In White,Graveyard Shift,Necessary Evil (feat. Jonathan Davis),0.579,0.946,0.4,0.55,3.800883333333333,5.0,3.7
+8,8,The Glorious Sons,Young Beauties and Fools,S.O.S. (Sawed Off Shotgun),0.568,0.961,0.924,0.61,3.252883333333333,5.0,3.3
+9,9,blessthefall,Hard Feelings,Wishful Sinking,0.304,0.951,0.395,0.47,4.464433333333333,5.0,4.3
+10,10,Red,Declaration,Sever,0.175,0.893,0.349,0.41,4.033333333333333,5.0,3.0
+11,11,We Are The Flesh,No Love for You,No Love for You,0.619,0.926,0.188,0.18,2.1142833333333333,2.0,2.4
+12,12,Danny Worsnop,Another You,Another You,0.569,0.728,0.531,0.45,3.6363666666666665,3.0,1.7
+13,13,Picturesque,Do You Feel O.K?,ATTN:,0.546,0.93,0.489,0.4,3.083283333333333,2.0,4.3
+14,14,Bullet For My Valentine,Gravity,Breathe Underwater,0.384,0.451,0.24,0.45,3.685966666666667,2.0,4.6
+15,15,Kayzo,Unleashed,Alone,0.429,0.952,0.232,0.41,3.099283333333333,4.0,3.0
+16,16,Of Mice & Men,Cold World,Pain,0.581,0.975,0.468,0.44,3.72525,4.0,2.6
+17,17,Bring Me The Horizon,Drown (Live from Maida Vale),Drown - Live from Maida Vale,0.363,0.545,0.332,0.45,3.761783333333333,2.0,1.5
+18,18,Stone Sour,Hydrograd (Deluxe Edition),Song #3 - Acoustic,0.602,0.709,0.719,0.5,3.9382166666666665,4.0,1.3
+19,19,blessthefall,To Those Left Behind,Walk On Water,0.407,0.977,0.215,0.38,3.912,2.0,4.8
+20,20,All That Remains,A War You Cannot Win,What If I Was Nothing,0.436,0.772,0.229,0.62,4.62245,1.0,1.2
+21,21,Make Them Suffer,How To Survive A Funeral,Soul Decay,0.417,0.914,0.422,0.49,3.72955,5.0,2.6
+22,22,Polaris,The Death of Me,Masochist,0.49,0.941,0.264,0.56,4.132066666666667,4.0,3.8
+23,23,Polaris,The Death of Me,Masochist,0.49,0.941,0.264,0.56,4.132066666666667,4.0,3.9
+24,24,Our Last Night,Let Light Overcome The Darkness,Lost - New Version,0.508,0.852,0.443,0.39,3.89615,3.0,1.6
+25,25,Beartooth,Disease,Disease,0.525,0.957,0.456,0.63,3.806216666666667,5.0,1.5
+26,26,Beartooth,Disease,Disease,0.525,0.957,0.456,0.63,3.806216666666667,3.0,2.6
+27,27,I Prevail,TRAUMA,Bow Down,0.426,0.959,0.372,0.68,4.044666666666667,4.0,1.8
+28,28,The Plot In You,DISPOSE,THE SOUND,0.523,0.491,0.348,0.42,4.14,1.0,3.5
+29,29,The Hard Aches,Glad That You're Gone,Glad That You're Gone,0.5,0.912,0.605,0.33,3.3057833333333333,3.0,1.1
+30,30,The Hard Aches,Glad That You're Gone,Glad That You're Gone,0.5,0.912,0.605,0.33,3.3057833333333333,1.0,3.9
+31,31,Too Close To Touch,Leave You Lonely,Leave You Lonely,0.449,0.94,0.332,0.44,3.82845,1.0,2.8
+32,32,Escape the Fate,I Am Human,Do You Love Me?,0.523,0.914,0.418,0.45,3.10465,4.0,2.1
+33,33,Escape the Fate,Hate Me (Deluxe Version),Remember Every Scar,0.374,0.956,0.43,0.0,4.051116666666666,5.0,2.3
+34,34,sKitz Kraven,#Newmusicmondays (The Collection),That's All,0.73,0.618,0.19,0.58,3.515633333333333,4.0,1.5
+35,35,SayWeCanFly,Heaven Is Hell,Scars,0.58,0.392,0.338,0.39,3.018116666666667,1.0,2.5
+36,36,Escape the Fate,Ungrateful,One For The Money,0.528,0.962,0.413,0.15,3.332666666666667,4.0,3.3
+37,37,The Ready Set,Feel Good Now,Killer,0.644,0.84,0.935,0.62,3.053333333333333,1.0,2.6
+38,38,SayWeCanFly,Heaven Is Hell,Scars,0.58,0.392,0.338,0.39,3.018116666666667,5.0,4.8
+39,39,Various Artists,"Never Say Die, Vol. 3",Culture,0.585,0.969,0.372,0.18,4.262383333333333,5.0,3.6
+40,40,Escape the Fate,Ungrateful,One For The Money,0.528,0.962,0.413,0.15,3.332666666666667,2.0,2.4
+41,41,The Ready Set,Feel Good Now,Killer,0.644,0.84,0.935,0.62,3.053333333333333,5.0,4.5
+42,42,SayWeCanFly,Heaven Is Hell,Scars,0.58,0.392,0.338,0.39,3.018116666666667,2.0,1.6
+43,43,Various Artists,"Never Say Die, Vol. 3",Culture,0.585,0.969,0.372,0.18,4.262383333333333,4.0,4.0
+44,44,Escape the Fate,Escape The Fate (Deluxe),Gorgeous Nightmare,0.594,0.865,0.681,0.45,3.268,3.0,4.5
+45,45,Pierce The Veil,Selfish Machines,Bulletproof Love,0.452,0.964,0.464,0.65,3.9566666666666666,2.0,1.8
+46,46,Pierce The Veil,Selfish Machines,Bulletproof Love,0.452,0.964,0.464,0.65,3.9566666666666666,5.0,2.0
+47,47,Get Scared,Best Kind Of Mess,Sarcasm,0.387,0.929,0.591,0.69,3.301333333333333,4.0,1.7
+48,48,Taking Back Sunday,Louder Now (Deluxe Edition),MakeDamnSure,0.553,0.837,0.432,0.68,3.4713333333333334,3.0,1.1
+49,49,Get Scared,Cheap Tricks And Theatrics,Setting Yourself Up For Sarcasm,0.255,0.961,0.215,0.49,3.4351166666666666,5.0,3.1
+50,50,Crown The Empire,Sudden Sky,Sudden Sky,0.512,0.945,0.249,0.45,4.34615,5.0,1.2
+51,51,I Prevail,TRAUMA,Paranoid,0.558,0.793,0.457,0.63,2.409116666666667,4.0,3.4
+52,52,Sylar,Seasons,All or Nothing,0.461,0.955,0.32,0.53,3.302416666666667,4.0,5.0
+53,53,Hands Like Houses,Dissonants,Division Symbols,0.452,0.961,0.547,0.51,3.677333333333333,1.0,4.6
+54,54,Crown The Empire,Sudden Sky,20/20,0.319,0.925,0.492,0.46,4.0203,5.0,2.3
+0,0,Picturesque,Do You Feel O.K?,Holding Me Down,0.285,0.728,0.238,0.49,3.4953333333333334,1.0,1.4
+1,1,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,5.0,4.7
+2,2,Bad Wolves,N.A.T.I.O.N.,Learn To Walk Again,0.48,0.913,0.262,0.6,2.797883333333333,1.0,3.8
+3,3,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,1.0,4.6
+4,4,DIAMANTE,Iris,Iris,0.381,0.65,0.152,0.61,3.7476666666666665,3.0,1.4
+5,5,Wage War,Pressure,Low,0.5,0.967,0.498,0.61,3.784883333333333,1.0,3.5
+6,6,Light The Torch,Revival,The Safety of Disbelief,0.389,0.972,0.19,0.54,3.553783333333333,5.0,1.4
+7,7,Asking Alexandria,Asking Alexandria,Into The Fire,0.375,0.965,0.292,0.62,3.95005,2.0,3.3
+8,8,Badflower,"OK, I'M SICK",Ghost,0.505,0.839,0.326,0.64,4.325333333333333,1.0,3.7
+9,9,The Word Alive,Violent Noise,Red Clouds,0.482,0.949,0.303,0.41,3.8853333333333335,4.0,3.9
+10,10,Breaking Benjamin,Aurora,Red Cold River - Aurora Version,0.313,0.919,0.318,0.48,3.3181333333333334,2.0,3.2
+11,11,Asking Alexandria,LP5 DLX,Where Did It Go? - Hyro Mash Up,0.693,0.905,0.767,0.33,2.2864166666666668,3.0,4.3
+12,12,Asking Alexandria,LP5 DLX,Perfect - Live from SiriusXM,0.507,0.246,0.267,0.4,4.51805,2.0,2.5
+13,13,Hands Like Houses,Headrush,Headrush,0.517,0.964,0.598,0.41,3.8157833333333335,2.0,4.3
+14,14,Asking Alexandria,LP5 DLX,Alone In A Room - Acoustic Version,0.512,0.579,0.358,0.42,4.426983333333333,1.0,2.8
+15,15,Sullivan King,Save the World,Save the World,0.472,0.995,0.237,0.36,3.466666666666667,5.0,2.1
+16,16,Motionless In White,Graveyard Shift,570,0.287,0.953,0.32,0.49,4.5213833333333335,4.0,2.0
+17,17,This Wild Life,Clouded (Deluxe Edition),Sleepwalking - Live Session,0.581,0.33,0.194,0.5,3.408166666666667,4.0,2.5
+18,18,Shinedown,How Did You Love,How Did You Love - Acoustic,0.52,0.457,0.61,0.55,3.09925,5.0,3.1
+19,19,We Came As Romans,We Came As Romans,Regenerate,0.558,0.967,0.567,0.34,3.7843333333333335,2.0,1.7
+20,20,Pop Evil,Onyx (Deluxe Edition),Torn to Pieces,0.616,0.664,0.312,0.59,3.270966666666667,1.0,1.4
+21,21,Currents,The Way It Ends,Monsters,0.474,0.977,0.174,0.55,3.538466666666667,1.0,2.0
+22,22,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,4.0,3.8
+23,23,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,1.0,1.5
+24,24,I Prevail,POST TRAUMATIC (Live / Deluxe),Hurricane - Reimagined,0.457,0.459,0.25,0.5,3.2546666666666666,2.0,4.0
+25,25,The Amity Affliction,Misery,Feels like I'm Dying,0.453,0.832,0.405,0.56,3.6531166666666666,1.0,4.6
+26,26,The Amity Affliction,Misery,Feels like I'm Dying,0.453,0.832,0.405,0.56,3.6531166666666666,1.0,3.9
+27,27,Wage War,Pressure,Low,0.5,0.967,0.498,0.61,3.784883333333333,1.0,3.9
+28,28,Cory Wells,The Way We Are,End of a Good Thing,0.536,0.367,0.139,0.29,4.64375,5.0,4.1
+29,29,Luca Brasi,If This Is All We're Going to Be,Anything Near Conviction,0.504,0.961,0.531,0.36,3.79565,5.0,1.6
+30,30,Luca Brasi,If This Is All We're Going to Be,Anything Near Conviction,0.504,0.961,0.531,0.36,3.79565,4.0,5.0
+31,31,Slaves,Beautiful Death,True Colors,0.387,0.803,0.156,0.49,3.50445,4.0,2.5
+32,32,Falling In Reverse,Losing My Mind,Losing My Mind,0.544,0.894,0.41,0.59,4.2851333333333335,1.0,3.7
+33,33,Falling In Reverse,Just Like You (Deluxe Edition),Chemical Prisoner,0.472,0.984,0.265,0.56,4.33945,3.0,3.8
+34,34,Eminem,Relapse: Refill,My Darling,0.511,0.79,0.456,0.57,5.331783333333333,2.0,3.7
+35,35,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,5.0,2.5
+36,36,Falling In Reverse,Fashionably Late (Deluxe Edition),It's Over When It's Over,0.561,0.984,0.584,0.6,3.89945,5.0,1.5
+37,37,Simon Curtis,R∆,Pit Of Vipers,0.731,0.629,0.345,0.57,3.461316666666667,5.0,3.6
+38,38,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,1.0,5.0
+39,39,Eptic,Doom EP,Z,0.546,0.953,0.611,0.25,3.745233333333333,5.0,4.0
+40,40,Falling In Reverse,Fashionably Late (Deluxe Edition),It's Over When It's Over,0.561,0.984,0.584,0.6,3.89945,1.0,1.5
+41,41,Simon Curtis,R∆,Pit Of Vipers,0.731,0.629,0.345,0.57,3.461316666666667,3.0,2.2
+42,42,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,2.0,1.1
+43,43,Eptic,Doom EP,Z,0.546,0.953,0.611,0.25,3.745233333333333,3.0,3.6
+44,44,Falling In Reverse,The Drug In Me Is You,Raised By Wolves,0.368,0.871,0.527,0.6,3.41155,3.0,1.4
+45,45,Sleeping With Sirens,Let's Cheers To This,If You Can't Hang,0.397,0.975,0.451,0.69,4.1706666666666665,2.0,4.3
+46,46,Sleeping With Sirens,Let's Cheers To This,If You Can't Hang,0.397,0.975,0.451,0.69,4.1706666666666665,3.0,1.8
+47,47,Set It Off,Cinematics (Deluxe),I'll Sleep When I'm Dead,0.402,0.924,0.445,0.64,3.4008833333333333,2.0,1.6
+48,48,The Used,The Used,The Taste of Ink,0.541,0.904,0.541,0.67,3.4782166666666665,3.0,2.2
+49,49,Set It Off,Cinematics (Deluxe),I'll Sleep When I'm Dead,0.402,0.924,0.445,0.64,3.4008833333333333,3.0,1.4
+50,50,Bad Omens,Finding God Before God Finds Me,Burning Out,0.452,0.977,0.295,0.48,4.423333333333333,1.0,4.7
+51,51,Palisades,Erase The Pain,Erase The Pain,0.466,0.864,0.481,0.58,3.29725,4.0,3.2
+52,52,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,4.0,2.3
+53,53,The Word Alive,Violent Noise,Why Am I Like This?,0.321,0.949,0.23,0.58,3.22755,5.0,1.8
+54,54,Palisades,Erase The Pain,Fragile Bones,0.378,0.938,0.202,0.41,3.35495,1.0,1.8
+0,0,Picturesque,Do You Feel O.K?,Holding Me Down,0.285,0.728,0.238,0.49,3.4953333333333334,5.0,4.2
+1,1,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,4.0,3.6
+2,2,Bad Wolves,N.A.T.I.O.N.,Learn To Walk Again,0.48,0.913,0.262,0.6,2.797883333333333,4.0,3.7
+3,3,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,5.0,2.7
+4,4,DIAMANTE,Iris,Iris,0.381,0.65,0.152,0.61,3.7476666666666665,1.0,1.6
+5,5,Wage War,Pressure,Low,0.5,0.967,0.498,0.61,3.784883333333333,2.0,4.3
+6,6,Light The Torch,Revival,The Safety of Disbelief,0.389,0.972,0.19,0.54,3.553783333333333,5.0,4.6
+7,7,Asking Alexandria,Asking Alexandria,Into The Fire,0.375,0.965,0.292,0.62,3.95005,3.0,2.9
+8,8,Badflower,"OK, I'M SICK",Ghost,0.505,0.839,0.326,0.64,4.325333333333333,5.0,3.2
+9,9,The Word Alive,Violent Noise,Red Clouds,0.482,0.949,0.303,0.41,3.8853333333333335,3.0,1.2
+10,10,Breaking Benjamin,Aurora,Red Cold River - Aurora Version,0.313,0.919,0.318,0.48,3.3181333333333334,4.0,3.9
+11,11,Asking Alexandria,LP5 DLX,Where Did It Go? - Hyro Mash Up,0.693,0.905,0.767,0.33,2.2864166666666668,1.0,4.8
+12,12,Asking Alexandria,LP5 DLX,Perfect - Live from SiriusXM,0.507,0.246,0.267,0.4,4.51805,2.0,3.0
+13,13,Hands Like Houses,Headrush,Headrush,0.517,0.964,0.598,0.41,3.8157833333333335,3.0,3.7
+14,14,Asking Alexandria,LP5 DLX,Alone In A Room - Acoustic Version,0.512,0.579,0.358,0.42,4.426983333333333,2.0,1.8
+15,15,Sullivan King,Save the World,Save the World,0.472,0.995,0.237,0.36,3.466666666666667,1.0,1.2
+16,16,Motionless In White,Graveyard Shift,570,0.287,0.953,0.32,0.49,4.5213833333333335,4.0,2.6
+17,17,This Wild Life,Clouded (Deluxe Edition),Sleepwalking - Live Session,0.581,0.33,0.194,0.5,3.408166666666667,4.0,2.2
+18,18,Shinedown,How Did You Love,How Did You Love - Acoustic,0.52,0.457,0.61,0.55,3.09925,2.0,3.5
+19,19,We Came As Romans,We Came As Romans,Regenerate,0.558,0.967,0.567,0.34,3.7843333333333335,2.0,3.2
+20,20,Pop Evil,Onyx (Deluxe Edition),Torn to Pieces,0.616,0.664,0.312,0.59,3.270966666666667,1.0,4.3
+21,21,Currents,The Way It Ends,Monsters,0.474,0.977,0.174,0.55,3.538466666666667,2.0,2.1
+22,22,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,5.0,1.5
+23,23,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,5.0,4.3
+24,24,I Prevail,POST TRAUMATIC (Live / Deluxe),Hurricane - Reimagined,0.457,0.459,0.25,0.5,3.2546666666666666,4.0,4.1
+25,25,The Amity Affliction,Misery,Feels like I'm Dying,0.453,0.832,0.405,0.56,3.6531166666666666,2.0,2.8
+26,26,The Amity Affliction,Misery,Feels like I'm Dying,0.453,0.832,0.405,0.56,3.6531166666666666,5.0,2.1
+27,27,Wage War,Pressure,Low,0.5,0.967,0.498,0.61,3.784883333333333,2.0,3.2
+28,28,Cory Wells,The Way We Are,End of a Good Thing,0.536,0.367,0.139,0.29,4.64375,2.0,4.7
+29,29,Luca Brasi,If This Is All We're Going to Be,Anything Near Conviction,0.504,0.961,0.531,0.36,3.79565,5.0,3.9
+30,30,Luca Brasi,If This Is All We're Going to Be,Anything Near Conviction,0.504,0.961,0.531,0.36,3.79565,3.0,2.3
+31,31,Slaves,Beautiful Death,True Colors,0.387,0.803,0.156,0.49,3.50445,2.0,1.6
+32,32,Falling In Reverse,Losing My Mind,Losing My Mind,0.544,0.894,0.41,0.59,4.2851333333333335,2.0,3.6
+33,33,Falling In Reverse,Just Like You (Deluxe Edition),Chemical Prisoner,0.472,0.984,0.265,0.56,4.33945,5.0,2.0
+34,34,Eminem,Relapse: Refill,My Darling,0.511,0.79,0.456,0.57,5.331783333333333,5.0,1.5
+35,35,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,4.0,4.5
+36,36,Falling In Reverse,Fashionably Late (Deluxe Edition),It's Over When It's Over,0.561,0.984,0.584,0.6,3.89945,3.0,2.5
+37,37,Simon Curtis,R∆,Pit Of Vipers,0.731,0.629,0.345,0.57,3.461316666666667,1.0,1.2
+38,38,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,5.0,4.1
+39,39,Eptic,Doom EP,Z,0.546,0.953,0.611,0.25,3.745233333333333,2.0,2.4
+40,40,Falling In Reverse,Fashionably Late (Deluxe Edition),It's Over When It's Over,0.561,0.984,0.584,0.6,3.89945,5.0,1.4
+41,41,Simon Curtis,R∆,Pit Of Vipers,0.731,0.629,0.345,0.57,3.461316666666667,5.0,2.5
+42,42,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,4.0,3.6
+43,43,Eptic,Doom EP,Z,0.546,0.953,0.611,0.25,3.745233333333333,4.0,2.0
+44,44,Falling In Reverse,The Drug In Me Is You,Raised By Wolves,0.368,0.871,0.527,0.6,3.41155,1.0,2.4
+45,45,Sleeping With Sirens,Let's Cheers To This,If You Can't Hang,0.397,0.975,0.451,0.69,4.1706666666666665,5.0,4.2
+46,46,Sleeping With Sirens,Let's Cheers To This,If You Can't Hang,0.397,0.975,0.451,0.69,4.1706666666666665,2.0,3.6
+47,47,Set It Off,Cinematics (Deluxe),I'll Sleep When I'm Dead,0.402,0.924,0.445,0.64,3.4008833333333333,3.0,1.7
+48,48,The Used,The Used,The Taste of Ink,0.541,0.904,0.541,0.67,3.4782166666666665,4.0,4.9
+49,49,Set It Off,Cinematics (Deluxe),I'll Sleep When I'm Dead,0.402,0.924,0.445,0.64,3.4008833333333333,1.0,1.4
+50,50,Bad Omens,Finding God Before God Finds Me,Burning Out,0.452,0.977,0.295,0.48,4.423333333333333,3.0,4.3
+51,51,Palisades,Erase The Pain,Erase The Pain,0.466,0.864,0.481,0.58,3.29725,1.0,1.5
+52,52,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,1.0,1.5
+53,53,The Word Alive,Violent Noise,Why Am I Like This?,0.321,0.949,0.23,0.58,3.22755,4.0,3.4
+54,54,Palisades,Erase The Pain,Fragile Bones,0.378,0.938,0.202,0.41,3.35495,4.0,4.1
+0,0,Picturesque,Do You Feel O.K?,Holding Me Down,0.285,0.728,0.238,0.49,3.4953333333333334,3.0,4.0
+1,1,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,4.0,4.3
+2,2,Bad Wolves,N.A.T.I.O.N.,Learn To Walk Again,0.48,0.913,0.262,0.6,2.797883333333333,1.0,4.8
+3,3,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,1.0,3.5
+4,4,DIAMANTE,Iris,Iris,0.381,0.65,0.152,0.61,3.7476666666666665,2.0,4.1
+5,5,Wage War,Pressure,Low,0.5,0.967,0.498,0.61,3.784883333333333,5.0,4.7
+6,6,Light The Torch,Revival,The Safety of Disbelief,0.389,0.972,0.19,0.54,3.553783333333333,2.0,2.5
+7,7,Asking Alexandria,Asking Alexandria,Into The Fire,0.375,0.965,0.292,0.62,3.95005,5.0,2.5
+8,8,Badflower,"OK, I'M SICK",Ghost,0.505,0.839,0.326,0.64,4.325333333333333,1.0,4.7
+9,9,The Word Alive,Violent Noise,Red Clouds,0.482,0.949,0.303,0.41,3.8853333333333335,3.0,2.2
+10,10,Breaking Benjamin,Aurora,Red Cold River - Aurora Version,0.313,0.919,0.318,0.49,3.3181333333333334,3.0,4.6
+11,11,Asking Alexandria,LP5 DLX,Where Did It Go? - Hyro Mash Up,0.693,0.905,0.767,0.33,2.2864166666666668,2.0,3.8
+12,12,Asking Alexandria,LP5 DLX,Perfect - Live from SiriusXM,0.507,0.246,0.267,0.4,4.51805,4.0,4.2
+13,13,Hands Like Houses,Headrush,Headrush,0.517,0.964,0.598,0.41,3.8157833333333335,3.0,2.0
+14,14,Asking Alexandria,LP5 DLX,Alone In A Room - Acoustic Version,0.512,0.579,0.358,0.42,4.426983333333333,1.0,2.4
+15,15,Sullivan King,Save the World,Save the World,0.472,0.995,0.237,0.36,3.466666666666667,1.0,1.4
+16,16,Motionless In White,Graveyard Shift,570,0.287,0.953,0.32,0.49,4.5213833333333335,4.0,4.2
+17,17,This Wild Life,Clouded (Deluxe Edition),Sleepwalking - Live Session,0.581,0.33,0.194,0.5,3.408166666666667,2.0,1.4
+18,18,Shinedown,How Did You Love,How Did You Love - Acoustic,0.52,0.457,0.61,0.55,3.09925,3.0,2.6
+19,19,We Came As Romans,We Came As Romans,Regenerate,0.558,0.967,0.567,0.34,3.7843333333333335,2.0,2.1
+20,20,Pop Evil,Onyx (Deluxe Edition),Torn to Pieces,0.616,0.664,0.312,0.59,3.270966666666667,3.0,1.0
+21,21,Currents,The Way It Ends,Monsters,0.474,0.977,0.174,0.55,3.538466666666667,3.0,3.7
+22,22,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,5.0,3.6
+23,23,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,3.0,3.0
+24,24,I Prevail,POST TRAUMATIC (Live / Deluxe),Hurricane - Reimagined,0.457,0.459,0.25,0.5,3.2546666666666666,4.0,3.3
+25,25,The Amity Affliction,Misery,Feels like I'm Dying,0.453,0.832,0.405,0.56,3.6531166666666666,5.0,4.9
+26,26,The Amity Affliction,Misery,Feels like I'm Dying,0.453,0.832,0.405,0.56,3.6531166666666666,2.0,4.0
+27,27,Wage War,Pressure,Low,0.5,0.967,0.498,0.61,3.784883333333333,1.0,2.4
+28,28,Cory Wells,The Way We Are,End of a Good Thing,0.536,0.367,0.139,0.29,4.64375,2.0,4.9
+29,29,Luca Brasi,If This Is All We're Going to Be,Anything Near Conviction,0.504,0.961,0.531,0.36,3.79565,4.0,1.3
+30,30,Luca Brasi,If This Is All We're Going to Be,Anything Near Conviction,0.504,0.961,0.531,0.36,3.79565,4.0,1.7
+31,31,Slaves,Beautiful Death,True Colors,0.387,0.803,0.156,0.49,3.50445,2.0,3.8
+32,32,Falling In Reverse,Losing My Mind,Losing My Mind,0.544,0.894,0.41,0.59,4.2851333333333335,2.0,3.7
+33,33,Falling In Reverse,Just Like You (Deluxe Edition),Chemical Prisoner,0.472,0.984,0.265,0.56,4.33945,4.0,1.5
+34,34,Eminem,Relapse: Refill,My Darling,0.511,0.79,0.456,0.57,5.331783333333333,4.0,2.2
+35,35,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,4.0,3.2
+36,36,Falling In Reverse,Fashionably Late (Deluxe Edition),It's Over When It's Over,0.561,0.984,0.584,0.6,3.89945,1.0,1.2
+37,37,Simon Curtis,R∆,Pit Of Vipers,0.731,0.629,0.345,0.57,3.461316666666667,2.0,3.6
+38,38,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,3.0,1.2
+39,39,Eptic,Doom EP,Z,0.546,0.953,0.611,0.25,3.745233333333333,5.0,2.3
+40,40,Falling In Reverse,Fashionably Late (Deluxe Edition),It's Over When It's Over,0.561,0.984,0.584,0.6,3.89945,4.0,3.1
+41,41,Simon Curtis,R∆,Pit Of Vipers,0.731,0.629,0.345,0.57,3.461316666666667,1.0,3.9
+42,42,Jamestown Story,The Spotify Collection,Goodbye I'm Sorry,0.654,0.318,0.401,0.41,4.385783333333333,4.0,2.3
+43,43,Eptic,Doom EP,Z,0.546,0.953,0.611,0.25,3.745233333333333,4.0,2.0
+44,44,Falling In Reverse,The Drug In Me Is You,Raised By Wolves,0.368,0.871,0.527,0.6,3.41155,2.0,3.8
+45,45,Sleeping With Sirens,Let's Cheers To This,If You Can't Hang,0.397,0.975,0.451,0.69,4.1706666666666665,5.0,1.2
+46,46,Sleeping With Sirens,Let's Cheers To This,If You Can't Hang,0.397,0.975,0.451,0.69,4.1706666666666665,2.0,4.6
+47,47,Set It Off,Cinematics (Deluxe),I'll Sleep When I'm Dead,0.402,0.924,0.445,0.64,3.4008833333333333,4.0,2.8
+48,48,The Used,The Used,The Taste of Ink,0.541,0.904,0.541,0.67,3.4782166666666665,4.0,3.3
+49,49,Set It Off,Cinematics (Deluxe),I'll Sleep When I'm Dead,0.402,0.924,0.445,0.64,3.4008833333333333,5.0,3.8
+50,50,Bad Omens,Finding God Before God Finds Me,Burning Out,0.452,0.977,0.295,0.48,4.423333333333333,1.0,1.9
+51,51,Palisades,Erase The Pain,Erase The Pain,0.466,0.864,0.481,0.58,3.29725,3.0,1.4
+52,52,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,1.0,4.9
+53,53,The Word Alive,Violent Noise,Why Am I Like This?,0.321,0.949,0.23,0.58,3.22755,1.0,2.1
+54,54,Palisades,Erase The Pain,Fragile Bones,0.378,0.938,0.202,0.41,3.35495,2.0,3.4
+0,0,Slaves,To Better Days,Like I Do,0.58,0.874,0.302,0.5,3.162166666666667,5.0,1.1
+1,1,Bad Omens,Finding God Before God Finds Me (Deluxe),Never Know,0.381,0.921,0.129,0.52,3.5641833333333333,4.0,2.5
+2,2,From Ashes to New,Panic,Panic,0.529,0.961,0.292,0.55,3.3466666666666667,4.0,2.2
+3,3,Bad Omens,Finding God Before God Finds Me (Deluxe),Never Know,0.381,0.921,0.129,0.52,3.5641833333333333,5.0,3.4
+4,4,I Prevail,POST TRAUMATIC (Live / Deluxe),Every Time You Leave [Feat. Delaney Jane] - Live Acoustic,0.562,0.456,0.407,0.4,3.12355,1.0,1.1
+5,5,I Prevail,TRAUMA,Bow Down,0.426,0.959,0.372,0.68,4.044666666666667,4.0,4.4
+6,6,Bad Wolves,Disobey,No Masters,0.495,0.949,0.501,0.54,3.884916666666667,4.0,1.9
+7,7,Motionless In White,Graveyard Shift,Necessary Evil (feat. Jonathan Davis),0.579,0.946,0.4,0.55,3.800883333333333,5.0,2.8
+8,8,The Glorious Sons,Young Beauties and Fools,S.O.S. (Sawed Off Shotgun),0.568,0.961,0.924,0.61,3.252883333333333,3.0,1.8
+9,9,blessthefall,Hard Feelings,Wishful Sinking,0.304,0.951,0.395,0.47,4.464433333333333,4.0,4.4
+10,10,Red,Declaration,Sever,0.175,0.893,0.349,0.41,4.033333333333333,3.0,3.9
+11,11,We Are The Flesh,No Love for You,No Love for You,0.619,0.926,0.188,0.18,2.1142833333333333,3.0,4.6
+12,12,Danny Worsnop,Another You,Another You,0.569,0.728,0.531,0.45,3.6363666666666665,1.0,4.4
+13,13,Picturesque,Do You Feel O.K?,ATTN:,0.546,0.93,0.489,0.4,3.083283333333333,2.0,3.9
+14,14,Bullet For My Valentine,Gravity,Breathe Underwater,0.384,0.451,0.24,0.45,3.685966666666667,4.0,3.9
+15,15,Kayzo,Unleashed,Alone,0.429,0.952,0.232,0.41,3.099283333333333,5.0,3.3
+16,16,Of Mice & Men,Cold World,Pain,0.581,0.975,0.468,0.44,3.72525,1.0,1.9
+17,17,Bring Me The Horizon,Drown (Live from Maida Vale),Drown - Live from Maida Vale,0.363,0.545,0.332,0.45,3.761783333333333,1.0,4.5
+18,18,Stone Sour,Hydrograd (Deluxe Edition),Song #3 - Acoustic,0.602,0.709,0.719,0.5,3.9382166666666665,5.0,1.5
+19,19,blessthefall,To Those Left Behind,Walk On Water,0.407,0.977,0.215,0.38,3.912,3.0,4.4
+20,20,All That Remains,A War You Cannot Win,What If I Was Nothing,0.436,0.772,0.229,0.62,4.62245,3.0,1.0
+21,21,Make Them Suffer,How To Survive A Funeral,Soul Decay,0.417,0.914,0.422,0.49,3.72955,4.0,4.2
+22,22,Polaris,The Death of Me,Masochist,0.49,0.941,0.264,0.56,4.132066666666667,5.0,1.4
+23,23,Polaris,The Death of Me,Masochist,0.49,0.941,0.264,0.56,4.132066666666667,1.0,1.6
+24,24,Our Last Night,Let Light Overcome The Darkness,Lost - New Version,0.508,0.852,0.443,0.39,3.89615,1.0,1.0
+25,25,Beartooth,Disease,Disease,0.525,0.957,0.456,0.63,3.806216666666667,2.0,2.6
+26,26,Beartooth,Disease,Disease,0.525,0.957,0.456,0.63,3.806216666666667,1.0,1.4
+27,27,I Prevail,TRAUMA,Bow Down,0.426,0.959,0.372,0.68,4.044666666666667,2.0,1.3
+28,28,The Plot In You,DISPOSE,THE SOUND,0.523,0.491,0.348,0.42,4.14,1.0,1.7
+29,29,The Hard Aches,Glad That You're Gone,Glad That You're Gone,0.5,0.912,0.605,0.33,3.3057833333333333,2.0,3.0
+30,30,The Hard Aches,Glad That You're Gone,Glad That You're Gone,0.5,0.912,0.605,0.33,3.3057833333333333,4.0,3.3
+31,31,Too Close To Touch,Leave You Lonely,Leave You Lonely,0.449,0.94,0.332,0.44,3.82845,4.0,1.9
+32,32,Escape the Fate,I Am Human,Do You Love Me?,0.523,0.914,0.418,0.45,3.10465,1.0,2.5
+33,33,Escape the Fate,Hate Me (Deluxe Version),Remember Every Scar,0.374,0.956,0.43,0.0,4.051116666666666,4.0,4.8
+34,34,sKitz Kraven,#Newmusicmondays (The Collection),That's All,0.73,0.618,0.19,0.58,3.515633333333333,2.0,3.2
+35,35,SayWeCanFly,Heaven Is Hell,Scars,0.58,0.392,0.338,0.39,3.018116666666667,3.0,2.0
+36,36,Escape the Fate,Ungrateful,One For The Money,0.528,0.962,0.413,0.15,3.332666666666667,1.0,3.2
+37,37,The Ready Set,Feel Good Now,Killer,0.644,0.84,0.935,0.62,3.053333333333333,2.0,3.7
+38,38,SayWeCanFly,Heaven Is Hell,Scars,0.58,0.392,0.338,0.39,3.018116666666667,3.0,3.0
+39,39,Various Artists,"Never Say Die, Vol. 3",Culture,0.585,0.969,0.372,0.18,4.262383333333333,4.0,3.7
+40,40,Escape the Fate,Ungrateful,One For The Money,0.528,0.962,0.413,0.15,3.332666666666667,4.0,1.3
+41,41,The Ready Set,Feel Good Now,Killer,0.644,0.84,0.935,0.62,3.053333333333333,4.0,3.7
+42,42,SayWeCanFly,Heaven Is Hell,Scars,0.58,0.392,0.338,0.39,3.018116666666667,1.0,3.2
+43,43,Various Artists,"Never Say Die, Vol. 3",Culture,0.585,0.969,0.372,0.18,4.262383333333333,3.0,4.6
+44,44,Escape the Fate,Escape The Fate (Deluxe),Gorgeous Nightmare,0.594,0.865,0.681,0.45,3.268,1.0,2.1
+45,45,Pierce The Veil,Selfish Machines,Bulletproof Love,0.452,0.964,0.464,0.65,3.9566666666666666,4.0,3.7
+46,46,Pierce The Veil,Selfish Machines,Bulletproof Love,0.452,0.964,0.464,0.65,3.9566666666666666,2.0,2.8
+47,47,Get Scared,Best Kind Of Mess,Sarcasm,0.387,0.929,0.591,0.69,3.301333333333333,1.0,4.2
+48,48,Taking Back Sunday,Louder Now (Deluxe Edition),MakeDamnSure,0.553,0.837,0.432,0.68,3.4713333333333334,1.0,4.3
+49,49,Get Scared,Cheap Tricks And Theatrics,Setting Yourself Up For Sarcasm,0.255,0.961,0.215,0.49,3.4351166666666666,2.0,2.5
+50,50,Crown The Empire,Sudden Sky,Sudden Sky,0.512,0.945,0.249,0.45,4.34615,5.0,1.9
+51,51,I Prevail,TRAUMA,Paranoid,0.558,0.793,0.457,0.63,2.409116666666667,4.0,1.7
+52,52,Sylar,Seasons,All or Nothing,0.461,0.955,0.32,0.53,3.302416666666667,5.0,1.1
+53,53,Hands Like Houses,Dissonants,Division Symbols,0.452,0.961,0.547,0.51,3.677333333333333,5.0,3.8
+54,54,Crown The Empire,Sudden Sky,20/20,0.319,0.925,0.492,0.46,4.0203,1.0,2.1
+0,0,The Unguided,Father Shadow,Crown Prince Syndrome,0.528,0.986,0.291,0.23,3.784,1.0,4.6
+1,1,Bleed From Within,Fracture,The End of All We Know,0.359,0.979,0.303,0.51,4.20555,2.0,2.3
+2,2,Hatebreed,The Concrete Confessional,Looking Down the Barrel of Today,0.486,0.986,0.501,0.62,2.693783333333333,2.0,3.2
+3,3,Bring Me The Horizon,amo,wonderful life (feat. Dani Filth),0.406,0.964,0.406,0.6,4.573383333333333,3.0,4.6
+4,4,Stigmata,Конвейер снов,Желчь,0.446,0.918,0.353,0.14,3.35645,5.0,4.8
+5,5,Stigmata,Stigmata,Лёд,0.547,0.854,0.33,0.33,3.588,5.0,1.9
+6,6,Trivium,Silence in the Snow,Until the World Goes Cold,0.517,0.887,0.531,0.51,5.3527,1.0,1.7
+7,7,Shinedown,Threat to Survival,Cut the Cord,0.447,0.966,0.533,0.69,3.743283333333333,4.0,3.1
+8,8,Atreyu,Long Live,Long Live,0.526,0.971,0.265,0.32,3.4802166666666667,5.0,1.7
+9,9,Outline In Color,Ghost of You,Ghost of You,0.463,0.922,0.227,0.49,3.63,1.0,3.5
+10,10,Fit For A King,Dark Skies,The Price of Agony,0.349,0.95,0.401,0.56,4.7999833333333335,2.0,4.3
+11,11,While She Sleeps,FAKERS PLAGUE,FAKERS PLAGUE,0.42,0.876,0.117,0.55,5.896766666666666,4.0,1.2
+12,12,Bleed From Within,Fracture,Night Crossing,0.228,0.971,0.202,0.39,4.058216666666667,5.0,2.4
+13,13,While She Sleeps,SLEEPS SOCIETY,SLEEPS SOCIETY,0.219,0.947,0.319,0.62,3.3542,5.0,1.9
+14,14,Fit For A King,The Path,Breaking the Mirror,0.34,0.963,0.432,0.53,3.570183333333333,3.0,2.0
+15,15,Point Break Candy,Hole In The Sun (feat. COS & Conway) [From Cyberpunk 2077],Hole In The Sun (feat. COS & Conway) [From Cyberpunk 2077],0.621,0.906,0.644,0.52,3.467783333333333,5.0,1.8
+16,16,Machine Head,My Hands Are Empty,My Hands Are Empty,0.229,0.956,0.11,0.54,5.520083333333333,5.0,4.8
+17,17,Machine Head,Circle the Drain,Circle the Drain,0.442,0.932,0.303,0.55,4.085616666666667,2.0,4.5
+18,18,Polaris,The Death of Me,Vagabond,0.502,0.969,0.439,0.46,4.279166666666667,2.0,4.4
+19,19,Bury Tomorrow,Cannibal,Choke,0.503,0.981,0.34,0.55,3.790666666666666,3.0,4.8
+20,20,Sylar,Seasons,All or Nothing,0.461,0.955,0.32,0.53,3.302416666666667,5.0,1.7
+21,21,Kim Dracula,Paparazzi,Paparazzi,0.677,0.685,0.177,0.82,3.205966666666667,3.0,2.2
+22,22,Korn,The Nothing,You'll Never Find Me,0.581,0.903,0.177,0.62,3.68135,1.0,4.8
+23,23,Avenged Sevenfold,City of Evil,Blinded in Chains,0.245,0.961,0.574,0.58,6.57445,1.0,1.6
+24,24,Mark Morton,Anesthetic,Cross Off,0.532,0.935,0.325,0.51,4.2241,4.0,4.7
+25,25,Between Oceans,Oxymoron,Lost or Found,0.473,0.916,0.312,0.25,4.362216666666667,5.0,1.1
+26,26,The Five Hundred,Black Dogs,Black Dogs,0.484,0.994,0.267,0.36,3.4566166666666667,2.0,2.6
+27,27,Heaven Shall Burn,Iconoclast (Pt. 1: The Final Resistance),Endzeit,0.165,0.971,0.0773,0.49,4.298,3.0,2.5
+28,28,Nothing More,Nothing More,This Is The Time (Ballast),0.52,0.98,0.467,0.04,3.67355,3.0,1.0
+29,29,Through Fire,Breathe,Where You Lie,0.527,0.932,0.774,0.39,3.282,5.0,1.2
+30,30,We Butter The Bread With Butter,Klicks. Likes. Fame. Geil!,Klicks. Likes. Fame. Geil!,0.552,0.978,0.213,0.44,3.7239,2.0,1.7
+31,31,Heaven Shall Burn,Wanderer,Bring the War Home,0.396,0.993,0.0722,0.33,4.347416666666667,3.0,2.5
+32,32,Killswitch Engage,Incarnate,Hate by Design,0.384,0.979,0.303,0.54,3.7797833333333335,1.0,4.9
+33,33,Mastodon,Medium Rarities,Fallen Torches,0.348,0.937,0.194,0.46,4.379733333333333,4.0,1.1
+34,34,Tetrarch,I'm Not Right,I'm Not Right,0.307,0.946,0.321,0.38,3.781733333333333,5.0,2.2
+35,35,Equilibrium,One Folk,One Folk,0.209,0.951,0.147,0.51,4.623616666666667,1.0,1.5
+36,36,Dead by April,Bulletproof,Bulletproof,0.495,0.96,0.169,0.53,3.803916666666667,5.0,3.3
+37,37,Bad Wolves,N.A.T.I.O.N.,Killing Me Slowly,0.345,0.89,0.276,0.65,3.9510833333333335,4.0,3.3
+38,38,Rob Zombie,The Lunar Injection Kool Aid Eclipse Conspiracy,The Triumph of King Freak (A Crypt of Preservation and Superstition),0.546,0.919,0.383,0.55,4.117333333333334,2.0,4.0
+39,39,Dark Tranquillity,Moment,Identical to None,0.412,0.977,0.545,0.45,3.696,2.0,1.4
+40,40,TrueShot,"Find Me, I'm Missing","Find Me, I'm Missing",0.413,0.96,0.244,0.27,3.8914333333333335,3.0,4.2
+41,41,Light the Fire,The Void,The Void,0.49,0.933,0.261,0.26,3.6976166666666663,2.0,2.9
+42,42,Soil,Scars,Halo,0.532,0.918,0.442,0.4,3.274016666666667,2.0,3.3
+43,43,Lindemann,F & M (Deluxe),Steh auf,0.396,0.956,0.445,0.6,3.068,1.0,1.6
+44,44,LANDMVRKS,Hollow,Winter (feat. Mattéo Gelsomino),0.276,0.958,0.285,0.4,3.81965,3.0,1.9
+45,45,SayMaxWell,The Only Thing They Fear Is You (Remix),The Only Thing They Fear Is You - Remix,0.704,0.868,0.0325,0.44,3.0,3.0,1.9
+46,46,Andrey Avkhimovich,Doom Soundtrack Rebuild,At Doom's Gate,0.558,0.911,0.647,0.52,1.769116666666667,2.0,2.5
+47,47,Of Mice & Men,Timeless,Timeless,0.529,0.944,0.133,0.58,4.108333333333333,1.0,5.0
+48,48,"Our Hollow, Our Home",Overcast,Overcast,0.39,0.977,0.127,0.47,3.7059166666666665,4.0,2.9
+49,49,Of Mice & Men,Timeless,Anchor,0.452,0.873,0.226,0.61,3.9791666666666665,2.0,1.2
+50,50,Killswitch Engage,Atonement,The Signal Fire (feat. Howard Jones),0.493,0.984,0.192,0.54,3.08445,4.0,2.9
+51,51,Currents,The Way It Ends,Monsters,0.474,0.977,0.174,0.55,3.538466666666667,5.0,4.4
+52,52,[Amatory],Книга мертвых,Эффект бабочки,0.465,0.981,0.398,0.28,4.202216666666667,1.0,1.2
+53,53,Upon A Burning Body,Southern Hostility,All Pride No Pain,0.594,0.933,0.159,0.53,3.45665,1.0,2.5
+54,54,Born Of Osiris,White Nile,White Nile,0.492,0.944,0.386,0.55,3.8173666666666666,1.0,4.9
+55,55,Horizon Ignited,After the Storm,Leviathan,0.398,0.9,0.249,0.36,5.1059,4.0,2.9
+56,56,Machine Head,My Hands Are Empty,My Hands Are Empty,0.229,0.956,0.11,0.54,5.520083333333333,4.0,5.0
+57,57,Lamb of God,Lamb of God (Deluxe Version),Ghost Shaped People,0.236,0.988,0.2,0.35,4.0991333333333335,1.0,1.5
+58,58,Ghost Iris,Paper Tiger,Paper Tiger,0.492,0.992,0.198,0.37,3.2149,1.0,1.4
+59,59,Machine Head,Burn My Eyes,Davidian,0.278,0.937,0.29,0.59,4.943783333333333,1.0,4.4
+60,60,Balance Breach,Dead End Diaries,November,0.463,0.961,0.506,0.15,4.103,2.0,1.3
+0,0,dEMOTIONAL,Cornered,Cornered,0.465,0.973,0.252,0.41,3.6714166666666666,4.0,3.1
+1,1,Trivium,What The Dead Men Say,Catastrophist,0.263,0.965,0.488,0.63,6.46725,1.0,2.8
+2,2,Machine Head,Is There Anybody out There?,Is There Anybody out There?,0.408,0.953,0.291,0.64,4.544433333333333,5.0,4.9
+3,3,Architects,Holy Hell,Hereafter,0.513,0.973,0.159,0.6,4.259783333333333,1.0,2.9
+4,4,Origami,Никто другой,На пороге новых открытий,0.463,0.98,0.504,0.04,3.30025,2.0,3.1
+5,5,Origami,И ангелы ошибаются,Без лишних слов,0.492,0.971,0.329,0.34,3.875266666666666,1.0,4.3
+6,6,Bullet For My Valentine,Venom (Deluxe Edition),You Want a Battle? (Here's a War),0.295,0.98,0.283,0.64,4.24355,3.0,4.4
+7,7,Pop Evil,UP,Footsteps,0.632,0.72,0.749,0.62,4.36845,4.0,3.6
+8,8,We Came As Romans,We Came As Romans,Regenerate,0.558,0.967,0.567,0.34,3.7843333333333335,2.0,2.4
+9,9,Versus Me,Violence,Violence,0.515,0.958,0.265,0.4,3.69565,3.0,1.4
+10,10,As I Lay Dying,Shaped by Fire,My Own Grave,0.477,0.994,0.0397,0.63,4.221966666666667,4.0,3.2
+11,11,Bury Tomorrow,Cannibal,Cannibal,0.534,0.989,0.15,0.53,4.259116666666666,2.0,1.2
+12,12,As I Lay Dying,Destruction or Strength,Destruction or Strength,0.436,0.973,0.0394,0.49,4.260416666666667,4.0,1.2
+13,13,Architects,For Those That Wish To Exist,Black Lungs,0.462,0.932,0.46,0.64,3.8527,3.0,1.9
+14,14,As I Lay Dying,Destruction or Strength,Destruction or Strength,0.436,0.973,0.0394,0.49,4.260416666666667,3.0,1.2
+15,15,Various Artists,"Cyberpunk 2077: Radio, Vol. 1 (Original Soundtrack)",Kill Kill,0.502,0.877,0.196,0.49,3.37,3.0,1.1
+16,16,DevilDriver,Dealing with Demons I,Wishing,0.252,0.956,0.3,0.43,4.332166666666667,3.0,1.1
+17,17,Trivium,What The Dead Men Say,Catastrophist,0.263,0.965,0.488,0.63,6.46725,5.0,3.0
+18,18,In Hearts Wake,Kaliyuga,Hellbringer,0.487,0.996,0.0759,0.42,3.375,4.0,2.2
+19,19,Bleed From Within,Fracture,Into Nothing,0.461,0.959,0.362,0.5,4.707116666666667,1.0,2.8
+20,20,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,4.0,2.5
+21,21,The Prophet,Wanna Play?,Wanna Play?,0.569,0.996,0.461,0.67,3.357533333333333,5.0,1.7
+22,22,Slipknot,We Are Not Your Kind,Solway Firth,0.214,0.969,0.0369,0.64,5.925666666666666,5.0,1.6
+23,23,Disturbed,Ten Thousand Fists,Decadence,0.454,0.968,0.291,0.61,3.413116666666667,3.0,3.8
+24,24,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,1.0,4.3
+25,25,Awake the Dreamer,Believe,Believe,0.484,0.953,0.199,0.27,3.8264,1.0,3.0
+26,26,Night Fiends,Lost Without a Trace,Lost Without a Trace,0.437,0.949,0.566,0.36,3.1013333333333333,4.0,3.5
+27,27,Caliban,I Am Nemesis,Memorial,0.448,0.913,0.233,0.45,4.349116666666666,2.0,4.0
+28,28,Gemini Syndrome,Lux,Stardust,0.453,0.982,0.424,0.53,3.812133333333333,1.0,4.2
+29,29,Gemini Syndrome,Memento Mori,Remember We Die,0.497,0.978,0.69,0.56,3.754383333333333,5.0,3.6
+30,30,Eskimo Callboy,The Scene,Back in the Bizz,0.53,0.965,0.572,0.46,3.126,3.0,1.6
+31,31,Gojira,Another World,Another World,0.351,0.877,0.238,0.62,4.415783333333334,2.0,4.6
+32,32,Pop Evil,Let The Chaos Reign,Let The Chaos Reign,0.489,0.948,0.549,0.61,3.3092,2.0,4.8
+33,33,Orden Ogan,Final Days,In the Dawn of the AI,0.477,0.981,0.242,0.44,6.100766666666667,3.0,1.4
+34,34,dEMOTIONAL,Don't Wake Me Up,Don't Wake Me Up,0.428,0.97,0.374,0.42,3.1066666666666665,5.0,4.3
+35,35,Fire From The Gods,American Sun,Right Now,0.494,0.916,0.433,0.58,3.7504333333333335,4.0,4.8
+36,36,Avatar,Hunter Gatherer,Colossus,0.607,0.72,0.315,0.51,4.028966666666666,2.0,4.7
+37,37,Mors Principium Est,Seven (Japan Edition),A Day For Redemption,0.38,0.995,0.159,0.07,5.057333333333333,1.0,2.5
+38,38,Path to Oblivion,A Man of Defeat,A Man of Defeat,0.26,0.976,0.289,0.21,3.1310333333333333,1.0,3.2
+39,39,InVisions,Never Nothing,Purge,0.493,0.943,0.156,0.26,3.76,1.0,3.6
+40,40,Spineshank,The Height of Callousness,New Disease,0.566,0.909,0.275,0.56,3.24555,3.0,4.8
+41,41,Rammstein,RAMMSTEIN,AUSLÄNDER,0.681,0.912,0.479,0.71,3.86005,4.0,2.2
+42,42,Imminence,Turn The Light On,The Sickness,0.329,0.988,0.159,0.03,4.058366666666666,4.0,4.2
+43,43,FamilyJules,E1M1 at Doom's Gate,E1M1 at Doom's Gate,0.396,0.957,0.12,0.38,3.14805,1.0,2.1
+44,44,Daniel Tidwell,At Doom's Gate (DOOM E1M1),At Doom's Gate (DOOM E1M1),0.553,0.93,0.895,0.57,3.2973666666666666,3.0,3.2
+45,45,While She Sleeps,YOU ARE ALL YOU NEED,YOU ARE ALL YOU NEED,0.505,0.961,0.2,0.6,3.4728833333333333,3.0,1.3
+46,46,LANDMVRKS,Lost in the Waves,Tired of It All,0.318,0.957,0.482,0.53,3.622733333333333,5.0,1.8
+47,47,Beartooth,The Past Is Dead,The Past Is Dead,0.44,0.95,0.51,0.63,3.59875,3.0,2.0
+48,48,As I Lay Dying,Shaped by Fire,Blinded,0.332,0.972,0.122,0.59,3.3693,3.0,3.4
+49,49,Make Them Suffer,How To Survive A Funeral,Soul Decay,0.417,0.914,0.422,0.49,3.72955,4.0,4.4
+50,50,Stigmata,Stigmata,Бог меня простит,0.487,0.891,0.151,0.3,3.884,3.0,4.4
+51,51,HELLYEAH,Welcome Home,Oh My God,0.307,0.973,0.349,0.48,4.211483333333334,3.0,3.6
+52,52,Veil Of Maya,Viscera,Viscera,0.537,0.96,0.382,0.6,3.6666666666666665,1.0,2.9
+53,53,Shadow Domain,Digital Divide,Turbogenerator,0.469,0.944,0.307,0.35,5.195833333333334,4.0,3.6
+54,54,DevilDriver,Dealing with Demons I,Wishing,0.252,0.956,0.3,0.43,4.332166666666667,1.0,4.4
+55,55,Sylosis,Worship Decay,Worship Decay,0.381,0.972,0.291,0.54,4.286666666666667,1.0,3.6
+56,56,Aviana,Retaliation,Retaliation,0.194,0.994,0.0767,0.43,2.5016666666666665,4.0,1.5
+57,57,Fear Factory,Demanufacture [Special Edition],Replica,0.574,0.943,0.72,0.54,3.956,5.0,3.9
+58,58,Agonize The Serpent,Through the Eyes of a Serpent,Blind,0.436,0.999,0.0378,0.22,3.5601166666666666,1.0,1.5
+0,0,dEMOTIONAL,Cornered,Cornered,0.465,0.973,0.252,0.41,3.6714166666666666,2.0,1.3
+1,1,Trivium,What The Dead Men Say,Catastrophist,0.263,0.965,0.488,0.63,6.46725,1.0,4.1
+2,2,Machine Head,Is There Anybody out There?,Is There Anybody out There?,0.408,0.953,0.291,0.64,4.544433333333333,3.0,4.6
+3,3,Architects,Holy Hell,Hereafter,0.513,0.973,0.159,0.6,4.259783333333333,2.0,1.6
+4,4,Origami,Никто другой,На пороге новых открытий,0.463,0.98,0.504,0.04,3.30025,3.0,1.9
+5,5,Origami,И ангелы ошибаются,Без лишних слов,0.492,0.971,0.329,0.34,3.875266666666666,3.0,1.8
+6,6,Bullet For My Valentine,Venom (Deluxe Edition),You Want a Battle? (Here's a War),0.295,0.98,0.283,0.64,4.24355,5.0,2.1
+7,7,Pop Evil,UP,Footsteps,0.632,0.72,0.749,0.62,4.36845,3.0,3.3
+8,8,We Came As Romans,We Came As Romans,Regenerate,0.558,0.967,0.567,0.34,3.7843333333333335,1.0,2.1
+9,9,Versus Me,Violence,Violence,0.515,0.958,0.265,0.4,3.69565,2.0,1.8
+10,10,As I Lay Dying,Shaped by Fire,My Own Grave,0.477,0.994,0.0397,0.63,4.221966666666667,2.0,1.1
+11,11,Bury Tomorrow,Cannibal,Cannibal,0.534,0.989,0.15,0.53,4.259116666666666,1.0,4.5
+12,12,As I Lay Dying,Destruction or Strength,Destruction or Strength,0.436,0.973,0.0394,0.49,4.260416666666667,3.0,4.3
+13,13,Architects,For Those That Wish To Exist,Black Lungs,0.462,0.932,0.46,0.64,3.8527,2.0,3.2
+14,14,As I Lay Dying,Destruction or Strength,Destruction or Strength,0.436,0.973,0.0394,0.49,4.260416666666667,3.0,2.4
+15,15,Various Artists,"Cyberpunk 2077: Radio, Vol. 1 (Original Soundtrack)",Kill Kill,0.502,0.877,0.196,0.49,3.37,3.0,1.9
+16,16,DevilDriver,Dealing with Demons I,Wishing,0.252,0.956,0.3,0.43,4.332166666666667,2.0,1.5
+17,17,Trivium,What The Dead Men Say,Catastrophist,0.263,0.965,0.488,0.63,6.46725,2.0,2.9
+18,18,In Hearts Wake,Kaliyuga,Hellbringer,0.487,0.996,0.0759,0.42,3.375,4.0,3.8
+19,19,Bleed From Within,Fracture,Into Nothing,0.461,0.959,0.362,0.5,4.707116666666667,1.0,3.8
+20,20,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,2.0,4.1
+21,21,The Prophet,Wanna Play?,Wanna Play?,0.569,0.996,0.461,0.67,3.357533333333333,4.0,1.2
+22,22,Slipknot,We Are Not Your Kind,Solway Firth,0.214,0.969,0.0369,0.64,5.925666666666666,5.0,3.2
+23,23,Disturbed,Ten Thousand Fists,Decadence,0.454,0.968,0.291,0.61,3.413116666666667,2.0,2.6
+24,24,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,4.0,2.6
+25,25,Awake the Dreamer,Believe,Believe,0.484,0.953,0.199,0.27,3.8264,5.0,3.3
+26,26,Night Fiends,Lost Without a Trace,Lost Without a Trace,0.437,0.949,0.566,0.36,3.1013333333333333,1.0,2.8
+27,27,Caliban,I Am Nemesis,Memorial,0.448,0.913,0.233,0.45,4.349116666666666,4.0,3.5
+28,28,Gemini Syndrome,Lux,Stardust,0.453,0.982,0.424,0.53,3.812133333333333,4.0,1.7
+29,29,Gemini Syndrome,Memento Mori,Remember We Die,0.497,0.978,0.69,0.56,3.754383333333333,4.0,4.1
+30,30,Eskimo Callboy,The Scene,Back in the Bizz,0.53,0.965,0.572,0.46,3.126,5.0,4.7
+31,31,Gojira,Another World,Another World,0.351,0.877,0.238,0.62,4.415783333333334,5.0,3.5
+32,32,Pop Evil,Let The Chaos Reign,Let The Chaos Reign,0.489,0.948,0.549,0.61,3.3092,3.0,4.6
+33,33,Orden Ogan,Final Days,In the Dawn of the AI,0.477,0.981,0.242,0.44,6.100766666666667,1.0,4.3
+34,34,dEMOTIONAL,Don't Wake Me Up,Don't Wake Me Up,0.428,0.97,0.374,0.42,3.1066666666666665,4.0,4.3
+35,35,Fire From The Gods,American Sun,Right Now,0.494,0.916,0.433,0.58,3.7504333333333335,5.0,4.8
+36,36,Avatar,Hunter Gatherer,Colossus,0.607,0.72,0.315,0.51,4.028966666666666,5.0,1.4
+37,37,Mors Principium Est,Seven (Japan Edition),A Day For Redemption,0.38,0.995,0.159,0.07,5.057333333333333,5.0,2.9
+38,38,Path to Oblivion,A Man of Defeat,A Man of Defeat,0.26,0.976,0.289,0.21,3.1310333333333333,5.0,4.2
+39,39,InVisions,Never Nothing,Purge,0.493,0.943,0.156,0.26,3.76,5.0,1.0
+40,40,Spineshank,The Height of Callousness,New Disease,0.566,0.909,0.275,0.56,3.24555,1.0,1.5
+41,41,Rammstein,RAMMSTEIN,AUSLÄNDER,0.681,0.912,0.479,0.71,3.86005,4.0,3.6
+42,42,Imminence,Turn The Light On,The Sickness,0.329,0.988,0.159,0.03,4.058366666666666,3.0,3.2
+43,43,FamilyJules,E1M1 at Doom's Gate,E1M1 at Doom's Gate,0.396,0.957,0.12,0.38,3.14805,2.0,2.9
+44,44,Daniel Tidwell,At Doom's Gate (DOOM E1M1),At Doom's Gate (DOOM E1M1),0.553,0.93,0.895,0.57,3.2973666666666666,3.0,3.0
+45,45,While She Sleeps,YOU ARE ALL YOU NEED,YOU ARE ALL YOU NEED,0.505,0.961,0.2,0.6,3.4728833333333333,5.0,3.6
+46,46,LANDMVRKS,Lost in the Waves,Tired of It All,0.318,0.957,0.482,0.53,3.622733333333333,1.0,2.9
+47,47,Beartooth,The Past Is Dead,The Past Is Dead,0.44,0.95,0.51,0.63,3.59875,3.0,1.5
+48,48,As I Lay Dying,Shaped by Fire,Blinded,0.332,0.972,0.122,0.59,3.3693,4.0,4.6
+49,49,Make Them Suffer,How To Survive A Funeral,Soul Decay,0.417,0.914,0.422,0.49,3.72955,2.0,4.2
+50,50,Stigmata,Stigmata,Бог меня простит,0.487,0.891,0.151,0.3,3.884,4.0,4.6
+51,51,HELLYEAH,Welcome Home,Oh My God,0.307,0.973,0.349,0.48,4.211483333333334,2.0,1.3
+52,52,Veil Of Maya,Viscera,Viscera,0.537,0.96,0.382,0.6,3.6666666666666665,3.0,1.1
+53,53,Shadow Domain,Digital Divide,Turbogenerator,0.469,0.944,0.307,0.35,5.195833333333334,1.0,3.3
+54,54,DevilDriver,Dealing with Demons I,Wishing,0.252,0.956,0.3,0.43,4.332166666666667,4.0,1.6
+55,55,Sylosis,Worship Decay,Worship Decay,0.381,0.972,0.291,0.54,4.286666666666667,3.0,2.1
+56,56,Aviana,Retaliation,Retaliation,0.194,0.994,0.0767,0.43,2.5016666666666665,4.0,2.0
+57,57,Fear Factory,Demanufacture [Special Edition],Replica,0.574,0.943,0.72,0.54,3.956,1.0,1.4
+58,58,Agonize The Serpent,Through the Eyes of a Serpent,Blind,0.436,0.999,0.0378,0.22,3.5601166666666666,1.0,3.0
+0,0,dEMOTIONAL,Cornered,Cornered,0.465,0.973,0.252,0.41,3.6714166666666666,4.0,2.7
+1,1,Trivium,What The Dead Men Say,Catastrophist,0.263,0.965,0.488,0.63,6.46725,3.0,4.3
+2,2,Machine Head,Is There Anybody out There?,Is There Anybody out There?,0.408,0.953,0.291,0.64,4.544433333333333,5.0,4.5
+3,3,Architects,Holy Hell,Hereafter,0.513,0.973,0.159,0.6,4.259783333333333,1.0,4.8
+4,4,Origami,Никто другой,На пороге новых открытий,0.463,0.98,0.504,0.04,3.30025,1.0,3.3
+5,5,Origami,И ангелы ошибаются,Без лишних слов,0.492,0.971,0.329,0.34,3.875266666666666,2.0,1.6
+6,6,Bullet For My Valentine,Venom (Deluxe Edition),You Want a Battle? (Here's a War),0.295,0.98,0.283,0.64,4.24355,5.0,4.1
+7,7,Pop Evil,UP,Footsteps,0.632,0.72,0.749,0.62,4.36845,1.0,1.5
+8,8,We Came As Romans,We Came As Romans,Regenerate,0.558,0.967,0.567,0.34,3.7843333333333335,4.0,3.1
+9,9,Versus Me,Violence,Violence,0.515,0.958,0.265,0.4,3.69565,4.0,2.7
+10,10,As I Lay Dying,Shaped by Fire,My Own Grave,0.477,0.994,0.0397,0.63,4.221966666666667,2.0,4.9
+11,11,Bury Tomorrow,Cannibal,Cannibal,0.534,0.989,0.15,0.53,4.259116666666666,1.0,2.4
+12,12,As I Lay Dying,Destruction or Strength,Destruction or Strength,0.436,0.973,0.0394,0.49,4.260416666666667,3.0,2.7
+13,13,Architects,For Those That Wish To Exist,Black Lungs,0.462,0.932,0.46,0.64,3.8527,5.0,4.6
+14,14,As I Lay Dying,Destruction or Strength,Destruction or Strength,0.436,0.973,0.0394,0.49,4.260416666666667,5.0,4.8
+15,15,Various Artists,"Cyberpunk 2077: Radio, Vol. 1 (Original Soundtrack)",Kill Kill,0.502,0.877,0.196,0.49,3.37,2.0,3.5
+16,16,DevilDriver,Dealing with Demons I,Wishing,0.252,0.956,0.3,0.43,4.332166666666667,1.0,2.6
+17,17,Trivium,What The Dead Men Say,Catastrophist,0.263,0.965,0.488,0.63,6.46725,5.0,4.8
+18,18,In Hearts Wake,Kaliyuga,Hellbringer,0.487,0.996,0.0759,0.42,3.375,2.0,2.0
+19,19,Bleed From Within,Fracture,Into Nothing,0.461,0.959,0.362,0.5,4.707116666666667,2.0,2.4
+20,20,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,1.0,1.7
+21,21,The Prophet,Wanna Play?,Wanna Play?,0.569,0.996,0.461,0.67,3.357533333333333,4.0,3.8
+22,22,Slipknot,We Are Not Your Kind,Solway Firth,0.214,0.969,0.0369,0.64,5.925666666666666,5.0,3.0
+23,23,Disturbed,Ten Thousand Fists,Decadence,0.454,0.968,0.291,0.61,3.413116666666667,2.0,2.2
+24,24,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,4.0,2.5
+25,25,Awake the Dreamer,Believe,Believe,0.484,0.953,0.199,0.27,3.8264,5.0,2.7
+26,26,Night Fiends,Lost Without a Trace,Lost Without a Trace,0.437,0.949,0.566,0.36,3.1013333333333333,2.0,4.3
+27,27,Caliban,I Am Nemesis,Memorial,0.448,0.913,0.233,0.45,4.349116666666666,3.0,4.3
+28,28,Gemini Syndrome,Lux,Stardust,0.453,0.982,0.424,0.53,3.812133333333333,2.0,5.0
+29,29,Gemini Syndrome,Memento Mori,Remember We Die,0.497,0.978,0.69,0.56,3.754383333333333,3.0,3.0
+30,30,Eskimo Callboy,The Scene,Back in the Bizz,0.53,0.965,0.572,0.46,3.126,5.0,3.7
+31,31,Gojira,Another World,Another World,0.351,0.877,0.238,0.62,4.415783333333334,4.0,2.5
+32,32,Pop Evil,Let The Chaos Reign,Let The Chaos Reign,0.489,0.948,0.549,0.61,3.3092,4.0,1.3
+33,33,Orden Ogan,Final Days,In the Dawn of the AI,0.477,0.981,0.242,0.44,6.100766666666667,1.0,4.6
+34,34,dEMOTIONAL,Don't Wake Me Up,Don't Wake Me Up,0.428,0.97,0.374,0.42,3.1066666666666665,2.0,1.7
+35,35,Fire From The Gods,American Sun,Right Now,0.494,0.916,0.433,0.58,3.7504333333333335,5.0,1.2
+36,36,Avatar,Hunter Gatherer,Colossus,0.607,0.72,0.315,0.51,4.028966666666666,4.0,5.0
+37,37,Mors Principium Est,Seven (Japan Edition),A Day For Redemption,0.38,0.995,0.159,0.07,5.057333333333333,3.0,1.9
+38,38,Path to Oblivion,A Man of Defeat,A Man of Defeat,0.26,0.976,0.289,0.21,3.1310333333333333,2.0,4.1
+39,39,InVisions,Never Nothing,Purge,0.493,0.943,0.156,0.26,3.76,2.0,2.4
+40,40,Spineshank,The Height of Callousness,New Disease,0.566,0.909,0.275,0.56,3.24555,1.0,3.9
+41,41,Rammstein,RAMMSTEIN,AUSLÄNDER,0.681,0.912,0.479,0.71,3.86005,3.0,2.4
+42,42,Imminence,Turn The Light On,The Sickness,0.329,0.988,0.159,0.03,4.058366666666666,2.0,3.7
+43,43,FamilyJules,E1M1 at Doom's Gate,E1M1 at Doom's Gate,0.396,0.957,0.12,0.38,3.14805,5.0,2.4
+44,44,Daniel Tidwell,At Doom's Gate (DOOM E1M1),At Doom's Gate (DOOM E1M1),0.553,0.93,0.895,0.57,3.2973666666666666,2.0,3.3
+45,45,While She Sleeps,YOU ARE ALL YOU NEED,YOU ARE ALL YOU NEED,0.505,0.961,0.2,0.6,3.4728833333333333,4.0,1.1
+46,46,LANDMVRKS,Lost in the Waves,Tired of It All,0.318,0.957,0.482,0.53,3.622733333333333,2.0,1.2
+47,47,Beartooth,The Past Is Dead,The Past Is Dead,0.44,0.95,0.51,0.63,3.59875,2.0,4.9
+48,48,As I Lay Dying,Shaped by Fire,Blinded,0.332,0.972,0.122,0.59,3.3693,4.0,3.8
+49,49,Make Them Suffer,How To Survive A Funeral,Soul Decay,0.417,0.914,0.422,0.49,3.72955,4.0,2.6
+50,50,Stigmata,Stigmata,Бог меня простит,0.487,0.891,0.151,0.3,3.884,3.0,3.8
+51,51,HELLYEAH,Welcome Home,Oh My God,0.307,0.973,0.349,0.48,4.211483333333334,1.0,2.1
+52,52,Veil Of Maya,Viscera,Viscera,0.537,0.96,0.382,0.6,3.6666666666666665,5.0,4.6
+53,53,Shadow Domain,Digital Divide,Turbogenerator,0.469,0.944,0.307,0.35,5.195833333333334,2.0,1.6
+54,54,DevilDriver,Dealing with Demons I,Wishing,0.252,0.956,0.3,0.43,4.332166666666667,4.0,4.4
+55,55,Sylosis,Worship Decay,Worship Decay,0.381,0.972,0.291,0.54,4.286666666666667,2.0,3.1
+56,56,Aviana,Retaliation,Retaliation,0.194,0.994,0.0767,0.43,2.5016666666666665,5.0,4.4
+57,57,Fear Factory,Demanufacture [Special Edition],Replica,0.574,0.943,0.72,0.54,3.956,1.0,4.6
+58,58,Agonize The Serpent,Through the Eyes of a Serpent,Blind,0.436,0.999,0.0378,0.22,3.5601166666666666,5.0,2.3
+0,0,dEMOTIONAL,Cornered,Cornered,0.465,0.973,0.252,0.41,3.6714166666666666,5.0,3.6
+1,1,Trivium,What The Dead Men Say,Catastrophist,0.263,0.965,0.488,0.63,6.46725,5.0,3.7
+2,2,Machine Head,Is There Anybody out There?,Is There Anybody out There?,0.408,0.953,0.291,0.64,4.544433333333333,5.0,3.9
+3,3,Architects,Holy Hell,Hereafter,0.513,0.973,0.159,0.6,4.259783333333333,4.0,4.0
+4,4,Origami,Никто другой,На пороге новых открытий,0.463,0.98,0.504,0.04,3.30025,1.0,4.0
+5,5,Origami,И ангелы ошибаются,Без лишних слов,0.492,0.971,0.329,0.34,3.875266666666666,1.0,3.7
+6,6,Bullet For My Valentine,Venom (Deluxe Edition),You Want a Battle? (Here's a War),0.295,0.98,0.283,0.64,4.24355,4.0,1.1
+7,7,Pop Evil,UP,Footsteps,0.632,0.72,0.749,0.62,4.36845,3.0,3.4
+8,8,We Came As Romans,We Came As Romans,Regenerate,0.558,0.967,0.567,0.34,3.7843333333333335,4.0,2.0
+9,9,Versus Me,Violence,Violence,0.515,0.958,0.265,0.4,3.69565,2.0,1.0
+10,10,As I Lay Dying,Shaped by Fire,My Own Grave,0.477,0.994,0.0397,0.63,4.221966666666667,5.0,2.6
+11,11,Bury Tomorrow,Cannibal,Cannibal,0.534,0.989,0.15,0.53,4.259116666666666,1.0,2.5
+12,12,As I Lay Dying,Destruction or Strength,Destruction or Strength,0.436,0.973,0.0394,0.49,4.260416666666667,2.0,4.0
+13,13,Architects,For Those That Wish To Exist,Black Lungs,0.462,0.932,0.46,0.64,3.8527,3.0,2.6
+14,14,As I Lay Dying,Destruction or Strength,Destruction or Strength,0.436,0.973,0.0394,0.49,4.260416666666667,2.0,1.6
+15,15,Various Artists,"Cyberpunk 2077: Radio, Vol. 1 (Original Soundtrack)",Kill Kill,0.502,0.877,0.196,0.49,3.37,5.0,1.1
+16,16,DevilDriver,Dealing with Demons I,Wishing,0.252,0.956,0.3,0.43,4.332166666666667,4.0,3.5
+17,17,Trivium,What The Dead Men Say,Catastrophist,0.263,0.965,0.488,0.63,6.46725,1.0,4.9
+18,18,In Hearts Wake,Kaliyuga,Hellbringer,0.487,0.996,0.0759,0.42,3.375,1.0,4.8
+19,19,Bleed From Within,Fracture,Into Nothing,0.461,0.959,0.362,0.5,4.707116666666667,5.0,1.5
+20,20,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,2.0,3.0
+21,21,The Prophet,Wanna Play?,Wanna Play?,0.569,0.996,0.461,0.67,3.357533333333333,3.0,1.1
+22,22,Slipknot,We Are Not Your Kind,Solway Firth,0.214,0.969,0.0369,0.64,5.925666666666666,4.0,1.1
+23,23,Disturbed,Ten Thousand Fists,Decadence,0.454,0.968,0.291,0.61,3.413116666666667,3.0,1.4
+24,24,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,3.0,4.4
+25,25,Awake the Dreamer,Believe,Believe,0.484,0.953,0.199,0.27,3.8264,3.0,2.7
+26,26,Night Fiends,Lost Without a Trace,Lost Without a Trace,0.437,0.949,0.566,0.36,3.1013333333333333,4.0,4.1
+27,27,Caliban,I Am Nemesis,Memorial,0.448,0.913,0.233,0.45,4.349116666666666,2.0,2.3
+28,28,Gemini Syndrome,Lux,Stardust,0.453,0.982,0.424,0.53,3.812133333333333,4.0,2.9
+29,29,Gemini Syndrome,Memento Mori,Remember We Die,0.497,0.978,0.69,0.56,3.754383333333333,3.0,1.2
+30,30,Eskimo Callboy,The Scene,Back in the Bizz,0.53,0.965,0.572,0.46,3.126,1.0,2.2
+31,31,Gojira,Another World,Another World,0.351,0.877,0.238,0.62,4.415783333333334,4.0,1.3
+32,32,Pop Evil,Let The Chaos Reign,Let The Chaos Reign,0.489,0.948,0.549,0.61,3.3092,1.0,1.1
+33,33,Orden Ogan,Final Days,In the Dawn of the AI,0.477,0.981,0.242,0.44,6.100766666666667,3.0,3.9
+34,34,dEMOTIONAL,Don't Wake Me Up,Don't Wake Me Up,0.428,0.97,0.374,0.42,3.1066666666666665,2.0,1.6
+35,35,Fire From The Gods,American Sun,Right Now,0.494,0.916,0.433,0.58,3.7504333333333335,3.0,4.7
+36,36,Avatar,Hunter Gatherer,Colossus,0.607,0.72,0.315,0.51,4.028966666666666,3.0,4.3
+37,37,Mors Principium Est,Seven (Japan Edition),A Day For Redemption,0.38,0.995,0.159,0.07,5.057333333333333,3.0,4.6
+38,38,Path to Oblivion,A Man of Defeat,A Man of Defeat,0.26,0.976,0.289,0.21,3.1310333333333333,3.0,2.2
+39,39,InVisions,Never Nothing,Purge,0.493,0.943,0.156,0.26,3.76,1.0,1.9
+40,40,Spineshank,The Height of Callousness,New Disease,0.566,0.909,0.275,0.56,3.24555,4.0,3.2
+41,41,Rammstein,RAMMSTEIN,AUSLÄNDER,0.681,0.912,0.479,0.71,3.86005,5.0,2.9
+42,42,Imminence,Turn The Light On,The Sickness,0.329,0.988,0.159,0.03,4.058366666666666,4.0,3.7
+43,43,FamilyJules,E1M1 at Doom's Gate,E1M1 at Doom's Gate,0.396,0.957,0.12,0.38,3.14805,4.0,3.3
+44,44,Daniel Tidwell,At Doom's Gate (DOOM E1M1),At Doom's Gate (DOOM E1M1),0.553,0.93,0.895,0.57,3.2973666666666666,4.0,3.2
+45,45,While She Sleeps,YOU ARE ALL YOU NEED,YOU ARE ALL YOU NEED,0.505,0.961,0.2,0.6,3.4728833333333333,4.0,1.5
+46,46,LANDMVRKS,Lost in the Waves,Tired of It All,0.318,0.957,0.482,0.53,3.622733333333333,3.0,2.2
+47,47,Beartooth,The Past Is Dead,The Past Is Dead,0.44,0.95,0.51,0.63,3.59875,3.0,4.2
+48,48,As I Lay Dying,Shaped by Fire,Blinded,0.332,0.972,0.122,0.59,3.3693,3.0,3.5
+49,49,Make Them Suffer,How To Survive A Funeral,Soul Decay,0.417,0.914,0.422,0.49,3.72955,2.0,4.8
+50,50,Stigmata,Stigmata,Бог меня простит,0.487,0.891,0.151,0.3,3.884,2.0,1.6
+51,51,HELLYEAH,Welcome Home,Oh My God,0.307,0.973,0.349,0.48,4.211483333333334,2.0,2.4
+52,52,Veil Of Maya,Viscera,Viscera,0.537,0.96,0.382,0.6,3.6666666666666665,5.0,1.5
+53,53,Shadow Domain,Digital Divide,Turbogenerator,0.469,0.944,0.307,0.35,5.195833333333334,2.0,3.7
+54,54,DevilDriver,Dealing with Demons I,Wishing,0.252,0.956,0.3,0.43,4.332166666666667,3.0,2.9
+55,55,Sylosis,Worship Decay,Worship Decay,0.381,0.972,0.291,0.54,4.286666666666667,2.0,2.3
+56,56,Aviana,Retaliation,Retaliation,0.194,0.994,0.0767,0.43,2.5016666666666665,4.0,4.6
+57,57,Fear Factory,Demanufacture [Special Edition],Replica,0.574,0.943,0.72,0.54,3.956,5.0,3.5
+58,58,Agonize The Serpent,Through the Eyes of a Serpent,Blind,0.436,0.999,0.0378,0.22,3.5601166666666666,1.0,2.2
+0,0,dEMOTIONAL,Cornered,Cornered,0.465,0.973,0.252,0.41,3.6714166666666666,2.0,2.0
+1,1,Trivium,What The Dead Men Say,Catastrophist,0.263,0.965,0.488,0.63,6.46725,3.0,3.2
+2,2,Machine Head,Is There Anybody out There?,Is There Anybody out There?,0.408,0.953,0.291,0.64,4.544433333333333,2.0,3.4
+3,3,Architects,Holy Hell,Hereafter,0.513,0.973,0.159,0.6,4.259783333333333,5.0,1.4
+4,4,Origami,Никто другой,На пороге новых открытий,0.463,0.98,0.504,0.04,3.30025,2.0,4.6
+5,5,Origami,И ангелы ошибаются,Без лишних слов,0.492,0.971,0.329,0.34,3.875266666666666,4.0,1.4
+6,6,Bullet For My Valentine,Venom (Deluxe Edition),You Want a Battle? (Here's a War),0.295,0.98,0.283,0.64,4.24355,3.0,4.2
+7,7,Pop Evil,UP,Footsteps,0.632,0.72,0.749,0.62,4.36845,5.0,2.6
+8,8,We Came As Romans,We Came As Romans,Regenerate,0.558,0.967,0.567,0.34,3.7843333333333335,5.0,4.9
+9,9,Versus Me,Violence,Violence,0.515,0.958,0.265,0.4,3.69565,2.0,4.4
+10,10,As I Lay Dying,Shaped by Fire,My Own Grave,0.477,0.994,0.0397,0.63,4.221966666666667,3.0,3.0
+11,11,Bury Tomorrow,Cannibal,Cannibal,0.534,0.989,0.15,0.53,4.259116666666666,2.0,4.7
+12,12,As I Lay Dying,Destruction or Strength,Destruction or Strength,0.436,0.973,0.0394,0.49,4.260416666666667,1.0,3.8
+13,13,Architects,For Those That Wish To Exist,Black Lungs,0.462,0.932,0.46,0.64,3.8527,5.0,2.1
+14,14,As I Lay Dying,Destruction or Strength,Destruction or Strength,0.436,0.973,0.0394,0.49,4.260416666666667,5.0,1.9
+15,15,Various Artists,"Cyberpunk 2077: Radio, Vol. 1 (Original Soundtrack)",Kill Kill,0.502,0.877,0.196,0.49,3.37,1.0,4.2
+16,16,DevilDriver,Dealing with Demons I,Wishing,0.252,0.956,0.3,0.43,4.332166666666667,5.0,3.3
+17,17,Trivium,What The Dead Men Say,Catastrophist,0.263,0.965,0.488,0.63,6.46725,3.0,2.6
+18,18,In Hearts Wake,Kaliyuga,Hellbringer,0.487,0.996,0.0759,0.42,3.375,1.0,3.5
+19,19,Bleed From Within,Fracture,Into Nothing,0.461,0.959,0.362,0.5,4.707116666666667,1.0,3.9
+20,20,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,3.0,3.4
+21,21,The Prophet,Wanna Play?,Wanna Play?,0.569,0.996,0.461,0.67,3.357533333333333,5.0,4.6
+22,22,Slipknot,We Are Not Your Kind,Solway Firth,0.214,0.969,0.0369,0.64,5.925666666666666,4.0,1.2
+23,23,Disturbed,Ten Thousand Fists,Decadence,0.454,0.968,0.291,0.61,3.413116666666667,5.0,3.5
+24,24,Palisades,Erase The Pain,War,0.439,0.958,0.254,0.51,2.97075,2.0,4.3
+25,25,Awake the Dreamer,Believe,Believe,0.484,0.953,0.199,0.27,3.8264,2.0,1.8
+26,26,Night Fiends,Lost Without a Trace,Lost Without a Trace,0.437,0.949,0.566,0.36,3.1013333333333333,4.0,1.6
+27,27,Caliban,I Am Nemesis,Memorial,0.448,0.913,0.233,0.45,4.349116666666666,2.0,2.6
+28,28,Gemini Syndrome,Lux,Stardust,0.453,0.982,0.424,0.53,3.812133333333333,4.0,4.2
+29,29,Gemini Syndrome,Memento Mori,Remember We Die,0.497,0.978,0.69,0.56,3.754383333333333,1.0,3.2
+30,30,Eskimo Callboy,The Scene,Back in the Bizz,0.53,0.965,0.572,0.46,3.126,5.0,4.1
+31,31,Gojira,Another World,Another World,0.351,0.877,0.238,0.62,4.415783333333334,5.0,4.3
+32,32,Pop Evil,Let The Chaos Reign,Let The Chaos Reign,0.489,0.948,0.549,0.61,3.3092,2.0,4.3
+33,33,Orden Ogan,Final Days,In the Dawn of the AI,0.477,0.981,0.242,0.44,6.100766666666667,1.0,4.4
+34,34,dEMOTIONAL,Don't Wake Me Up,Don't Wake Me Up,0.428,0.97,0.374,0.42,3.1066666666666665,4.0,2.5
+35,35,Fire From The Gods,American Sun,Right Now,0.494,0.916,0.433,0.58,3.7504333333333335,4.0,1.6
+36,36,Avatar,Hunter Gatherer,Colossus,0.607,0.72,0.315,0.51,4.028966666666666,1.0,4.4
+37,37,Mors Principium Est,Seven (Japan Edition),A Day For Redemption,0.38,0.995,0.159,0.07,5.057333333333333,1.0,3.7
+38,38,Path to Oblivion,A Man of Defeat,A Man of Defeat,0.26,0.976,0.289,0.21,3.1310333333333333,5.0,4.5
+39,39,InVisions,Never Nothing,Purge,0.493,0.943,0.156,0.26,3.76,1.0,1.4
+40,40,Spineshank,The Height of Callousness,New Disease,0.566,0.909,0.275,0.56,3.24555,1.0,1.9
+41,41,Rammstein,RAMMSTEIN,AUSLÄNDER,0.681,0.912,0.479,0.71,3.86005,5.0,5.0
+42,42,Imminence,Turn The Light On,The Sickness,0.329,0.988,0.159,0.03,4.058366666666666,4.0,4.3
+43,43,FamilyJules,E1M1 at Doom's Gate,E1M1 at Doom's Gate,0.396,0.957,0.12,0.38,3.14805,5.0,4.9
+44,44,Daniel Tidwell,At Doom's Gate (DOOM E1M1),At Doom's Gate (DOOM E1M1),0.553,0.93,0.895,0.57,3.2973666666666666,1.0,2.3
+45,45,While She Sleeps,YOU ARE ALL YOU NEED,YOU ARE ALL YOU NEED,0.505,0.961,0.2,0.6,3.4728833333333333,5.0,3.4
+46,46,LANDMVRKS,Lost in the Waves,Tired of It All,0.318,0.957,0.482,0.53,3.622733333333333,4.0,4.2
+47,47,Beartooth,The Past Is Dead,The Past Is Dead,0.44,0.95,0.51,0.63,3.59875,2.0,4.2
+48,48,As I Lay Dying,Shaped by Fire,Blinded,0.332,0.972,0.122,0.59,3.3693,3.0,3.5
+49,49,Make Them Suffer,How To Survive A Funeral,Soul Decay,0.417,0.914,0.422,0.49,3.72955,4.0,3.7
+50,50,Stigmata,Stigmata,Бог меня простит,0.487,0.891,0.151,0.3,3.884,4.0,1.3
+51,51,HELLYEAH,Welcome Home,Oh My God,0.307,0.973,0.349,0.48,4.211483333333334,1.0,4.8
+52,52,Veil Of Maya,Viscera,Viscera,0.537,0.96,0.382,0.6,3.6666666666666665,5.0,1.6
+53,53,Shadow Domain,Digital Divide,Turbogenerator,0.469,0.944,0.307,0.35,5.195833333333334,3.0,1.0
+54,54,DevilDriver,Dealing with Demons I,Wishing,0.252,0.956,0.3,0.43,4.332166666666667,4.0,1.4
+55,55,Sylosis,Worship Decay,Worship Decay,0.381,0.972,0.291,0.54,4.286666666666667,4.0,4.7
+56,56,Aviana,Retaliation,Retaliation,0.194,0.994,0.0767,0.43,2.5016666666666665,1.0,3.7
+57,57,Fear Factory,Demanufacture [Special Edition],Replica,0.574,0.943,0.72,0.54,3.956,3.0,1.7
+58,58,Agonize The Serpent,Through the Eyes of a Serpent,Blind,0.436,0.999,0.0378,0.22,3.5601166666666666,1.0,3.5
+0,0,The Unguided,Father Shadow,Crown Prince Syndrome,0.528,0.986,0.291,0.23,3.784,3.0,3.1
+1,1,Bleed From Within,Fracture,The End of All We Know,0.359,0.979,0.303,0.51,4.20555,3.0,3.9
+2,2,Hatebreed,The Concrete Confessional,Looking Down the Barrel of Today,0.486,0.986,0.501,0.62,2.693783333333333,4.0,2.0
+3,3,Bring Me The Horizon,amo,wonderful life (feat. Dani Filth),0.406,0.964,0.406,0.6,4.573383333333333,2.0,4.1
+4,4,Stigmata,Конвейер снов,Желчь,0.446,0.918,0.353,0.14,3.35645,1.0,4.8
+5,5,NEONATE,В маске,Это просто дождь...,0.571,0.879,0.147,0.27,4.78555,2.0,1.0
+6,6,Trivium,Silence in the Snow,Until the World Goes Cold,0.517,0.887,0.531,0.51,5.3527,3.0,4.1
+7,7,Shinedown,Threat to Survival,Cut the Cord,0.447,0.966,0.533,0.69,3.743283333333333,1.0,1.2
+8,8,blessthefall,To Those Left Behind,Walk On Water,0.407,0.977,0.215,0.38,3.912,2.0,4.2
+9,9,Wake Up Hate,The Panic,The Panic,0.431,0.969,0.526,0.46,3.9059666666666666,1.0,3.5
+10,10,Fit For A King,Dark Skies,The Price of Agony,0.349,0.95,0.401,0.56,4.7999833333333335,1.0,2.8
+11,11,While She Sleeps,FAKERS PLAGUE,FAKERS PLAGUE,0.42,0.876,0.117,0.55,5.896766666666666,4.0,4.3
+12,12,Fit For A King,The Path,Breaking the Mirror,0.34,0.963,0.432,0.53,3.570183333333333,4.0,4.6
+13,13,While She Sleeps,SLEEPS SOCIETY,SLEEPS SOCIETY,0.219,0.947,0.319,0.62,3.3542,2.0,4.8
+14,14,Fit For A King,The Path,Breaking the Mirror,0.34,0.963,0.432,0.53,3.570183333333333,2.0,4.4
+15,15,Point Break Candy,Hole In The Sun (feat. COS & Conway) [From Cyberpunk 2077],Hole In The Sun (feat. COS & Conway) [From Cyberpunk 2077],0.621,0.906,0.644,0.52,3.467783333333333,4.0,3.2
+16,16,Machine Head,My Hands Are Empty,My Hands Are Empty,0.229,0.956,0.11,0.54,5.520083333333333,1.0,2.0
+17,17,Bleed From Within,Fracture,The End of All We Know,0.359,0.979,0.303,0.51,4.20555,5.0,1.1
+18,18,Polaris,The Death of Me,Vagabond,0.502,0.969,0.439,0.46,4.279166666666667,1.0,4.7
+19,19,Bury Tomorrow,Cannibal,Choke,0.503,0.981,0.34,0.55,3.790666666666666,4.0,2.5
+20,20,Sylar,Seasons,All or Nothing,0.461,0.955,0.32,0.53,3.302416666666667,1.0,3.9
+21,21,Killshot,The Remix EP,Beastmode - GPF's Greaze Mode Remix,0.557,0.971,0.226,0.47,2.909466666666667,1.0,4.3
+22,22,Korn,The Nothing,You'll Never Find Me,0.581,0.903,0.177,0.62,3.68135,5.0,1.6
+23,23,Celldweller,Celldweller (Deluxe Edition),Shapeshifter - feat. Styles Of Beyond,0.622,0.956,0.557,0.57,3.620433333333333,5.0,2.3
+24,24,Sylar,Seasons,All or Nothing,0.461,0.955,0.32,0.53,3.302416666666667,1.0,2.7
+25,25,Light the Fire,Compassion in Unlikely Places,Carry On,0.538,0.928,0.546,0.21,3.6066666666666665,4.0,2.3
+26,26,Relentless 3,Line in the Sand,Line in the Sand,0.526,0.955,0.194,0.37,4.628466666666666,2.0,1.0
+27,27,Heaven Shall Burn,Iconoclast (Pt. 1: The Final Resistance),Endzeit,0.165,0.971,0.0773,0.49,4.298,4.0,3.5
+28,28,Nothing More,Nothing More,This Is The Time (Ballast),0.52,0.98,0.467,0.04,3.67355,4.0,2.5
+29,29,All That Remains,Madness,Madness,0.365,0.877,0.385,0.49,3.3966666666666665,3.0,3.0
+30,30,We Butter The Bread With Butter,Klicks. Likes. Fame. Geil!,Klicks. Likes. Fame. Geil!,0.552,0.978,0.213,0.44,3.7239,2.0,3.2
+31,31,Mastodon,Medium Rarities,Fallen Torches,0.348,0.937,0.194,0.46,4.379733333333333,2.0,1.6
+32,32,Tetrarch,I'm Not Right,I'm Not Right,0.307,0.946,0.321,0.38,3.781733333333333,5.0,2.9
+33,33,Equilibrium,One Folk,One Folk,0.209,0.951,0.147,0.51,4.623616666666667,2.0,4.8
+34,34,Dead by April,Bulletproof,Bulletproof,0.495,0.96,0.169,0.53,3.803916666666667,1.0,3.0
+35,35,Bad Wolves,N.A.T.I.O.N.,Killing Me Slowly,0.345,0.89,0.276,0.65,3.9510833333333335,5.0,4.8
+36,36,Rob Zombie,The Lunar Injection Kool Aid Eclipse Conspiracy,The Triumph of King Freak (A Crypt of Preservation and Superstition),0.546,0.919,0.383,0.55,4.117333333333334,1.0,4.0
+37,37,Dark Tranquillity,Moment,Phantom Days,0.288,0.99,0.146,0.46,3.9904166666666665,4.0,3.8
+38,38,TrueShot,"Find Me, I'm Missing","Find Me, I'm Missing",0.413,0.96,0.244,0.27,3.8914333333333335,5.0,1.7
+39,39,Light the Fire,The Void,The Void,0.49,0.933,0.261,0.26,3.6976166666666663,3.0,3.7
+40,40,American Head Charge,The War Of Art,Just So You Know,0.499,0.794,0.212,0.51,5.526666666666666,5.0,2.3
+41,41,Lindemann,F & M (Deluxe),Steh auf,0.396,0.956,0.445,0.61,3.068,4.0,1.2
+42,42,LANDMVRKS,Hollow,Winter (feat. Mattéo Gelsomino),0.276,0.958,0.285,0.4,3.81965,4.0,2.0
+43,43,RichaadEB,Plantera,Plantera,0.309,0.945,0.172,0.31,2.68,5.0,4.1
+44,44,Andrey Avkhimovich,Doom Soundtrack Rebuild,At Doom's Gate,0.558,0.911,0.647,0.52,1.769116666666667,5.0,1.4
+45,45,Architects,For Those That Wish To Exist,Giving Blood,0.448,0.877,0.199,0.64,3.5344,1.0,1.6
+46,46,"Our Hollow, Our Home",Overcast,Overcast,0.39,0.977,0.127,0.47,3.7059166666666665,2.0,2.6
+47,47,Of Mice & Men,Timeless,Anchor,0.452,0.873,0.226,0.61,3.9791666666666665,4.0,1.3
+48,48,Killswitch Engage,Atonement,The Signal Fire (feat. Howard Jones),0.493,0.984,0.192,0.54,3.08445,4.0,4.4
+49,49,Currents,The Way It Ends,Monsters,0.474,0.977,0.174,0.55,3.538466666666667,4.0,4.1
+50,50,[Amatory],Книга мертвых,Снег в аду,0.48,0.96,0.533,0.3,3.421116666666667,4.0,3.7
+51,51,Saul,Rise As Equals,Brother,0.483,0.979,0.165,0.45,4.330216666666667,3.0,4.0
+52,52,Born Of Osiris,White Nile,White Nile,0.492,0.944,0.386,0.56,3.8173666666666666,5.0,3.0
+53,53,Horizon Ignited,After the Storm,Leviathan,0.398,0.9,0.249,0.36,5.1059,5.0,1.4
+54,54,Machine Head,My Hands Are Empty,My Hands Are Empty,0.229,0.956,0.11,0.54,5.520083333333333,3.0,2.5
+55,55,Machine Head,My Hands Are Empty,My Hands Are Empty,0.229,0.956,0.11,0.54,5.520083333333333,2.0,2.7
+56,56,"Our Hollow, Our Home",Remember Me,Remember Me,0.433,0.97,0.249,0.48,3.5140166666666666,5.0,4.1
+57,57,Machine Head,Burn My Eyes,Davidian,0.278,0.937,0.29,0.59,4.943783333333333,4.0,1.9
+58,58,We Blame The Empire,Aero,Updraft,0.456,0.984,0.144,0.15,4.098883333333333,4.0,2.8
+0,0,The Unguided,Father Shadow,Crown Prince Syndrome,0.528,0.986,0.291,0.23,3.784,4.0,2.9
+1,1,Bleed From Within,Fracture,The End of All We Know,0.359,0.979,0.303,0.51,4.20555,2.0,3.1
+2,2,Hatebreed,The Concrete Confessional,Looking Down the Barrel of Today,0.486,0.986,0.501,0.62,2.693783333333333,2.0,2.9
+3,3,Bring Me The Horizon,amo,wonderful life (feat. Dani Filth),0.406,0.964,0.406,0.6,4.573383333333333,3.0,4.4
+4,4,Stigmata,Конвейер снов,Желчь,0.446,0.918,0.353,0.14,3.35645,1.0,3.2
+5,5,NEONATE,В маске,Это просто дождь...,0.571,0.879,0.147,0.27,4.78555,3.0,4.5
+6,6,Trivium,Silence in the Snow,Until the World Goes Cold,0.517,0.887,0.531,0.51,5.3527,2.0,4.5
+7,7,Shinedown,Threat to Survival,Cut the Cord,0.447,0.966,0.533,0.69,3.743283333333333,2.0,2.7
+8,8,blessthefall,To Those Left Behind,Walk On Water,0.407,0.977,0.215,0.38,3.912,2.0,3.1
+9,9,Wake Up Hate,The Panic,The Panic,0.431,0.969,0.526,0.46,3.9059666666666666,4.0,2.8
+10,10,Fit For A King,Dark Skies,The Price of Agony,0.349,0.95,0.401,0.56,4.7999833333333335,3.0,3.2
+11,11,While She Sleeps,FAKERS PLAGUE,FAKERS PLAGUE,0.42,0.876,0.117,0.55,5.896766666666666,2.0,4.2
+12,12,Fit For A King,The Path,Breaking the Mirror,0.34,0.963,0.432,0.53,3.570183333333333,3.0,2.9
+13,13,While She Sleeps,SLEEPS SOCIETY,SLEEPS SOCIETY,0.219,0.947,0.319,0.62,3.3542,5.0,2.3
+14,14,Fit For A King,The Path,Breaking the Mirror,0.34,0.963,0.432,0.53,3.570183333333333,1.0,4.5
+15,15,Point Break Candy,Hole In The Sun (feat. COS & Conway) [From Cyberpunk 2077],Hole In The Sun (feat. COS & Conway) [From Cyberpunk 2077],0.621,0.906,0.644,0.52,3.467783333333333,1.0,1.9
+16,16,Machine Head,My Hands Are Empty,My Hands Are Empty,0.229,0.956,0.11,0.54,5.520083333333333,3.0,4.0
+17,17,Bleed From Within,Fracture,The End of All We Know,0.359,0.979,0.303,0.51,4.20555,1.0,2.3
+18,18,Polaris,The Death of Me,Vagabond,0.502,0.969,0.439,0.46,4.279166666666667,2.0,1.4
+19,19,Bury Tomorrow,Cannibal,Choke,0.503,0.981,0.34,0.55,3.790666666666666,5.0,2.4
+20,20,Sylar,Seasons,All or Nothing,0.461,0.955,0.32,0.53,3.302416666666667,3.0,3.2
+21,21,Killshot,The Remix EP,Beastmode - GPF's Greaze Mode Remix,0.557,0.971,0.226,0.47,2.909466666666667,1.0,4.5
+22,22,Korn,The Nothing,You'll Never Find Me,0.581,0.903,0.177,0.62,3.68135,5.0,3.4
+23,23,Celldweller,Celldweller (Deluxe Edition),Shapeshifter - feat. Styles Of Beyond,0.622,0.956,0.557,0.57,3.620433333333333,4.0,4.3
+24,24,Sylar,Seasons,All or Nothing,0.461,0.955,0.32,0.53,3.302416666666667,4.0,2.6
+25,25,Light the Fire,Compassion in Unlikely Places,Carry On,0.538,0.928,0.546,0.21,3.6066666666666665,4.0,2.8
+26,26,Relentless 3,Line in the Sand,Line in the Sand,0.526,0.955,0.194,0.37,4.628466666666666,2.0,4.6
+27,27,Heaven Shall Burn,Iconoclast (Pt. 1: The Final Resistance),Endzeit,0.165,0.971,0.0773,0.49,4.298,3.0,3.1
+28,28,Nothing More,Nothing More,This Is The Time (Ballast),0.52,0.98,0.467,0.04,3.67355,3.0,1.6
+29,29,All That Remains,Madness,Madness,0.365,0.877,0.385,0.49,3.3966666666666665,2.0,1.4
+30,30,We Butter The Bread With Butter,Klicks. Likes. Fame. Geil!,Klicks. Likes. Fame. Geil!,0.552,0.978,0.213,0.44,3.7239,4.0,1.6
+31,31,Mastodon,Medium Rarities,Fallen Torches,0.348,0.937,0.194,0.46,4.379733333333333,2.0,3.0
+32,32,Tetrarch,I'm Not Right,I'm Not Right,0.307,0.946,0.321,0.38,3.781733333333333,3.0,2.6
+33,33,Equilibrium,One Folk,One Folk,0.209,0.951,0.147,0.51,4.623616666666667,1.0,2.1
+34,34,Dead by April,Bulletproof,Bulletproof,0.495,0.96,0.169,0.53,3.803916666666667,5.0,3.7
+35,35,Bad Wolves,N.A.T.I.O.N.,Killing Me Slowly,0.345,0.89,0.276,0.65,3.9510833333333335,4.0,1.8
+36,36,Rob Zombie,The Lunar Injection Kool Aid Eclipse Conspiracy,The Triumph of King Freak (A Crypt of Preservation and Superstition),0.546,0.919,0.383,0.55,4.117333333333334,3.0,2.4
+37,37,Dark Tranquillity,Moment,Phantom Days,0.288,0.99,0.146,0.46,3.9904166666666665,4.0,1.0
+38,38,TrueShot,"Find Me, I'm Missing","Find Me, I'm Missing",0.413,0.96,0.244,0.27,3.8914333333333335,1.0,3.0
+39,39,Light the Fire,The Void,The Void,0.49,0.933,0.261,0.26,3.6976166666666663,4.0,2.7
+40,40,American Head Charge,The War Of Art,Just So You Know,0.499,0.794,0.212,0.51,5.526666666666666,4.0,1.1
+41,41,Lindemann,F & M (Deluxe),Steh auf,0.396,0.956,0.445,0.61,3.068,5.0,1.3
+42,42,LANDMVRKS,Hollow,Winter (feat. Mattéo Gelsomino),0.276,0.958,0.285,0.4,3.81965,2.0,3.6
+43,43,RichaadEB,Plantera,Plantera,0.309,0.945,0.172,0.31,2.68,4.0,2.1
+44,44,Andrey Avkhimovich,Doom Soundtrack Rebuild,At Doom's Gate,0.558,0.911,0.647,0.52,1.769116666666667,2.0,1.9
+45,45,Architects,For Those That Wish To Exist,Giving Blood,0.448,0.877,0.199,0.64,3.5344,4.0,1.3
+46,46,"Our Hollow, Our Home",Overcast,Overcast,0.39,0.977,0.127,0.47,3.7059166666666665,5.0,3.7
+47,47,Of Mice & Men,Timeless,Anchor,0.452,0.873,0.226,0.61,3.9791666666666665,2.0,2.0
+48,48,Killswitch Engage,Atonement,The Signal Fire (feat. Howard Jones),0.493,0.984,0.192,0.54,3.08445,4.0,2.2
+49,49,Currents,The Way It Ends,Monsters,0.474,0.977,0.174,0.55,3.538466666666667,5.0,1.1
+50,50,[Amatory],Книга мертвых,Снег в аду,0.48,0.96,0.533,0.3,3.421116666666667,3.0,1.9
+51,51,Saul,Rise As Equals,Brother,0.483,0.979,0.165,0.45,4.330216666666667,1.0,1.8
+52,52,Born Of Osiris,White Nile,White Nile,0.492,0.944,0.386,0.56,3.8173666666666666,3.0,4.6
+53,53,Horizon Ignited,After the Storm,Leviathan,0.398,0.9,0.249,0.36,5.1059,4.0,4.4
+54,54,Machine Head,My Hands Are Empty,My Hands Are Empty,0.229,0.956,0.11,0.54,5.520083333333333,5.0,4.8
+55,55,Machine Head,My Hands Are Empty,My Hands Are Empty,0.229,0.956,0.11,0.54,5.520083333333333,4.0,4.0
+56,56,"Our Hollow, Our Home",Remember Me,Remember Me,0.433,0.97,0.249,0.48,3.5140166666666666,1.0,4.0
+57,57,Machine Head,Burn My Eyes,Davidian,0.278,0.937,0.29,0.59,4.943783333333333,4.0,1.9
+58,58,We Blame The Empire,Aero,Updraft,0.456,0.984,0.144,0.15,4.098883333333333,2.0,3.2
+0,0,Too Close To Touch,Haven't Been Myself,Miss Your Face,0.273,0.878,0.288,0.46,3.74845,4.0,4.5
+1,1,LANDMVRKS,Fantasy,Scars,0.445,0.984,0.178,0.52,4.2153833333333335,3.0,3.7
+2,2,Wage War,Pressure,Low,0.5,0.967,0.498,0.61,3.784883333333333,1.0,3.4
+3,3,Sleeping With Sirens,Let's Cheers To This,If You Can't Hang,0.397,0.975,0.451,0.69,4.1706666666666665,1.0,3.6
+4,4,Kingdom Of Giants,All the Hell You've Got to Spare,Damaged Goods,0.499,0.998,0.054,0.46,3.7517833333333335,1.0,3.5
+5,5,Fit For A King,Deathgrip,Deathgrip,0.407,0.947,0.245,0.5,4.249966666666666,4.0,1.8
+6,6,Kygo,Remind Me to Forget (Remixes),Remind Me to Forget - Syn Cole Remix,0.766,0.79,0.382,0.42,3.14645,5.0,2.8
+7,7,Fivefold,The Story,The Story (Acoustic),0.437,0.424,0.178,0.32,4.2008833333333335,5.0,3.8
+8,8,LANDMVRKS,Lost in the Waves,Tired of It All,0.318,0.957,0.482,0.53,3.622733333333333,3.0,1.2
+9,9,While She Sleeps,YOU ARE ALL YOU NEED,YOU ARE ALL YOU NEED,0.505,0.961,0.2,0.6,3.4728833333333333,5.0,2.2
+10,10,With Confidence,Love and Loathing,That Something,0.517,0.896,0.539,0.44,2.800666666666667,3.0,3.9
+11,11,Slaves,Beautiful Death,I'd Rather See Your Star Explode,0.322,0.92,0.324,0.56,3.741116666666666,4.0,2.9
+12,12,Too Close To Touch,Haven't Been Myself,Crooked Smile,0.482,0.946,0.523,0.42,3.60955,5.0,1.1
+13,13,Ultra-Violence,The Storm,The Storm,0.502,0.871,0.324,0.37,4.27335,2.0,1.6
+14,14,Now And On Earth,Blacked Out,All On You,0.362,0.987,0.182,0.25,4.983383333333333,2.0,4.2
+15,15,Evanescence,Fallen,Bring Me To Life,0.331,0.943,0.296,0.81,3.93155,5.0,2.2
+16,16,While She Sleeps,YOU ARE ALL YOU NEED,YOU ARE ALL YOU NEED,0.505,0.961,0.2,0.6,3.4728833333333333,4.0,4.2
+17,17,While She Sleeps,YOU ARE ALL YOU NEED,YOU ARE ALL YOU NEED,0.505,0.961,0.2,0.6,3.4728833333333333,2.0,1.0
+18,18,Fight The Fade,Cut & Run,Cut & Run,0.354,0.877,0.29,0.56,3.248483333333333,2.0,4.9
+19,19,I Prevail,TRAUMA,Paranoid,0.558,0.793,0.457,0.63,2.409116666666667,4.0,4.6
+20,20,Shrezzers,Demure,Demure,0.365,0.94,0.318,0.48,4.205,5.0,3.3
+21,21,Everyone Dies In Utah,Everyone Dies in Utah,Dying Light,0.397,0.931,0.106,0.18,4.55185,3.0,2.4
+22,22,Storm The Sky,Permanence,Alive,0.455,0.916,0.281,0.38,4.097666666666667,1.0,2.7
+23,23,Villain of the Story,Bloodshot,Bloodshot,0.485,0.96,0.42,0.45,4.180183333333333,2.0,4.0
+24,24,Of Mice & Men,EARTHANDSKY,Taste of Regret,0.58,0.981,0.39,0.51,3.4712,4.0,1.8
+25,25,You Me At Six,SUCKAPUNCH,Beautiful Way,0.384,0.921,0.446,0.25,3.763116666666667,3.0,2.4
+26,26,October Ends,Lucid Dreams,Lucid Dreams,0.242,0.849,0.25,0.35,3.120033333333333,5.0,2.5
+27,27,Outline In Color,Learn to Let Go,Learn to Let Go,0.377,0.96,0.586,0.38,3.640183333333333,5.0,1.1
+28,28,Raizer,Speed,Speed,0.399,0.984,0.426,0.33,4.13715,2.0,3.0
+29,29,Nomy,The end of the world,House of the rising sun,0.491,0.891,0.152,0.4,4.84,3.0,1.4
+30,30,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,2.0,4.3
+31,31,The Offspring,"Rise And Fall, Rage And Grace","You're Gonna Go Far, Kid",0.55,0.917,0.601,0.81,2.963783333333333,3.0,2.4
+32,32,Like Moths To Flames,No Eternity In Gold,Selective Sacrifice,0.419,0.991,0.407,0.44,3.7093666666666665,2.0,2.1
+33,33,From Ashes to New,Scars That I'm Hiding (feat. Anders Fridén of In Flames),Scars That I'm Hiding (feat. Anders Fridén of In Flames),0.492,0.93,0.431,0.62,2.926716666666666,4.0,2.8
+34,34,Kingdom Of Giants,Passenger,Wayfinder,0.38,0.98,0.513,0.54,4.473983333333333,5.0,2.4
+35,35,Alazka,Dead End,Dead End,0.437,0.969,0.131,0.39,4.235083333333334,1.0,3.5
+36,36,Awaken I Am,Roses,Roses,0.525,0.931,0.394,0.52,3.2218166666666668,4.0,2.9
+37,37,Punk Goes,"Punk Goes Pop, Vol. 3",Airplanes,0.735,0.797,0.76,0.45,2.630216666666666,3.0,4.1
+38,38,Punk Goes,"Punk Goes Pop, Vol. 3",Airplanes,0.735,0.797,0.76,0.45,2.630216666666666,4.0,2.9
+39,39,Escape the Fate,I Am Human,Do You Love Me?,0.523,0.914,0.418,0.45,3.10465,1.0,3.7
+40,40,Escape the Fate,Walk On,Walk On,0.519,0.772,0.355,0.48,3.5696833333333333,2.0,1.9
+41,41,Polaris,The Death of Me,Masochist,0.49,0.941,0.264,0.57,4.132066666666667,5.0,3.9
+42,42,Bad Wolves,N.A.T.I.O.N.,Killing Me Slowly,0.345,0.89,0.276,0.65,3.9510833333333335,3.0,3.9
+43,43,Our Last Night,you broke me first,you broke me first,0.515,0.949,0.308,0.64,2.802416666666667,4.0,2.7
+44,44,A Day To Remember,You're Welcome,Resentment,0.496,0.955,0.143,0.63,3.7877833333333335,5.0,3.7
+45,45,dEMOTIONAL,Boiling Point,Boiling Point,0.514,0.942,0.477,0.53,2.9166666666666665,2.0,3.8
+46,46,Happy Hour,What You Need,What You Need,0.45,0.745,0.305,0.36,3.7,2.0,2.1
+47,47,Saliva,Your Disease (2021 Version),Your Disease - 2021 Version,0.367,0.941,0.678,0.49,4.00775,5.0,2.7
+48,48,Lumen,Без консервантов,Sid & Nancy,0.572,0.783,0.328,0.54,3.1382166666666667,1.0,4.6
+49,49,"Fear, and Loathing in Las Vegas",Shape of Trust,Shape of Trust,0.224,0.973,0.31,0.41,3.705766666666667,2.0,4.9
+50,50,[Amatory],Книга мертвых,Снег в аду,0.48,0.96,0.533,0.3,3.421116666666667,3.0,4.9
+51,51,dEMOTIONAL,Boiling Point,Boiling Point,0.514,0.942,0.477,0.53,2.9166666666666665,4.0,4.8
+52,52,Attack Attack!,All My Life,All My Life,0.467,0.911,0.315,0.58,3.071433333333333,1.0,4.3
+53,53,Pop Evil,Pop Evil,Waking Lions,0.507,0.973,0.706,0.62,3.86605,1.0,4.6
+54,54,Of Mice & Men,Timeless,Anchor,0.452,0.873,0.226,0.61,3.9791666666666665,2.0,3.8
+55,55,Motionless In White,Graveyard Shift,Voices,0.499,0.937,0.569,0.66,3.733333333333333,4.0,4.7
+56,56,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,5.0,3.9
+57,57,Bad Omens,Finding God Before God Finds Me (Deluxe),Limits,0.312,0.968,0.3,0.57,3.464233333333333,2.0,4.4
+58,58,Deform,Мёртвая романтика,Мёртвая романтика,0.143,0.873,0.0608,0.2,6.502283333333334,5.0,3.2
+59,59,Five Finger Death Punch,And Justice for None (Deluxe),Trouble,0.413,0.99,0.363,0.52,3.203133333333333,5.0,1.7
+60,60,Days Of Jupiter,Secrets Brought To Life,Bleed,0.495,0.949,0.398,0.29,3.123333333333333,5.0,4.8
+61,61,Living in Fiction,Mine,Mine,0.521,0.828,0.441,0.25,2.083916666666666,4.0,4.5
+62,62,HAWK,Tolerance's Paradox,Alibi,0.386,0.964,0.494,0.35,3.6176,4.0,4.5
+63,63,Bury Tomorrow,Cannibal,Cannibal,0.534,0.989,0.15,0.53,4.259116666666666,4.0,1.6
+64,64,Motionless In White,Graveyard Shift,Necessary Evil (feat. Jonathan Davis),0.579,0.946,0.4,0.55,3.800883333333333,1.0,3.1
+65,65,Annisokay,Aurora,Bonfire of the Millennials,0.469,0.849,0.263,0.45,3.7570833333333336,2.0,2.9
+66,66,Hyro The Hero,Flagged Channel,Live Your Fuckin Life,0.584,0.741,0.334,0.4,2.994666666666667,4.0,1.1
+67,67,Fit For A King,Dark Skies,The Price of Agony,0.349,0.95,0.401,0.56,4.7999833333333335,4.0,4.0
+68,68,Hollow Front,Wearing Thin,Wearing Thin,0.531,0.897,0.0678,0.53,4.369933333333333,1.0,3.9
+69,69,Élan Vital,Unravel,Unravel,0.462,0.871,0.362,0.34,3.9259333333333335,2.0,4.3
+70,70,Bring Me The Horizon,POST HUMAN: SURVIVAL HORROR,Teardrops,0.497,0.916,0.401,0.7,3.5834,5.0,1.2
+71,71,Spiritbox,Holy Roller (feat. Ryo Kinoshita),Holy Roller (feat. Ryo Kinoshita),0.438,0.967,0.132,0.55,2.886233333333333,4.0,2.0
+72,72,Fear Culture,Fake It,Fake It,0.524,0.955,0.334,0.28,3.288133333333333,2.0,3.3
+0,0,Picturesque,Back to Beautiful,Fake Fiction,0.289,0.948,0.529,0.43,3.64445,3.0,2.9
+1,1,Annisokay,Arms,Coma Blue,0.414,0.983,0.141,0.46,3.38385,3.0,1.1
+2,2,I Prevail,TRAUMA,Bow Down,0.426,0.959,0.372,0.68,4.044666666666667,4.0,1.2
+3,3,Pierce The Veil,Selfish Machines,Bulletproof Love,0.452,0.964,0.464,0.65,3.9566666666666666,1.0,5.0
+4,4,"Our Hollow, Our Home",Hartsick,Loneshark,0.363,0.988,0.0857,0.48,3.725116666666666,4.0,2.6
+5,5,Wage War,Deadweight,Don't Let Me Fade Away,0.538,0.955,0.467,0.54,4.084216666666666,5.0,3.3
+6,6,Ed Sheeran,Happier (Tiësto’s AFTR:HRS Remix),Happier - Tiësto’s AFTR:HRS Remix,0.684,0.823,0.384,0.49,3.6,2.0,1.7
+7,7,Throw The Fight,Transmissions,Passing Ships,0.388,0.391,0.222,0.4,4.2625,3.0,3.4
+8,8,"Our Hollow, Our Home",Overcast,Overcast,0.39,0.977,0.127,0.47,3.7059166666666665,1.0,2.5
+9,9,Architects,For Those That Wish To Exist,Giving Blood,0.448,0.877,0.199,0.64,3.5344,4.0,2.2
+10,10,State Champs,Living Proof,Criminal,0.52,0.956,0.402,0.26,3.37895,1.0,3.6
+11,11,Too Close To Touch,Haven't Been Myself,Sympathy,0.382,0.799,0.244,0.55,3.602,1.0,2.7
+12,12,Palisades,Palisades,Better Chemicals,0.553,0.916,0.34,0.41,3.1044,4.0,2.9
+13,13,Elyne,Wounds Are Gold,Wounds Are Gold,0.345,0.969,0.289,0.34,3.06945,2.0,2.2
+14,14,Annisokay,Enigmatic Smile,Snowblind,0.385,0.995,0.0391,0.29,3.512,1.0,3.6
+15,15,Linkin Park,Hybrid Theory (Bonus Edition),In the End,0.556,0.864,0.4,0.85,3.6146666666666665,1.0,2.3
+16,16,Architects,For Those That Wish To Exist,Giving Blood,0.448,0.877,0.199,0.64,3.5344,3.0,3.1
+17,17,Architects,For Those That Wish To Exist,Giving Blood,0.448,0.877,0.199,0.64,3.5344,5.0,4.4
+18,18,Annisokay,Aurora,Under Your Tattoos,0.469,0.961,0.157,0.56,4.2045,3.0,3.0
+19,19,Palisades,Erase The Pain,Erase The Pain,0.466,0.864,0.481,0.58,3.29725,5.0,1.3
+20,20,Outline In Color,Goodbye to My Friends,Goodbye to My Friends,0.443,0.83,0.186,0.41,2.94,4.0,3.4
+21,21,The New Age,Think Too Much; Feel Too Little,This Life,0.189,0.961,0.142,0.3,5.077766666666666,2.0,2.6
+22,22,Ghost Atlas,Gold Soul Coma,Sacred Organs,0.418,0.945,0.283,0.44,5.56075,3.0,3.5
+23,23,ENMY,Demon Eyes,Demon Eyes,0.41,0.935,0.503,0.48,2.862633333333333,1.0,3.9
+24,24,Wage War,Pressure,Who I Am,0.502,0.968,0.209,0.55,3.696,5.0,2.6
+25,25,The Hunna,I'd Rather Die Than Let You In,Young & Faded,0.614,0.825,0.168,0.41,2.858216666666667,5.0,5.0
+26,26,Flight Paths,Lucid Dreams,Lucid Dreams,0.507,0.82,0.642,0.4,3.66965,4.0,4.1
+27,27,Picturesque,Back to Beautiful,Monstrous Things,0.36,0.968,0.391,0.34,3.5933333333333333,4.0,2.9
+28,28,Wind Walkers,The Lost Boys,New England Palm Trees,0.244,0.943,0.274,0.45,3.51875,2.0,1.9
+29,29,Soul Extract,Centigrade,Centigrade,0.322,0.854,0.15,0.41,5.754716666666667,1.0,2.8
+30,30,Bullet For My Valentine,Gravity (Deluxe Edition),Radioactive,0.527,0.695,0.271,0.61,3.218,3.0,2.6
+31,31,Bad Omens,Finding God Before God Finds Me (Deluxe),Never Know,0.381,0.921,0.129,0.52,3.5641833333333333,2.0,2.2
+32,32,Rise Against,Appeal To Reason,Savior,0.554,0.932,0.478,0.76,4.038,3.0,4.5
+33,33,Kingdom Of Giants,Passenger,Night Shift,0.524,0.972,0.265,0.48,3.95165,3.0,3.2
+34,34,Adelitas Way,Shine On,All In,0.431,0.96,0.41,0.5,2.91665,2.0,4.0
+35,35,Siamese,Home (feat. Drew York),Home (feat. Drew York),0.617,0.932,0.393,0.48,3.958933333333333,5.0,2.0
+36,36,Being As An Ocean,PROXY: An A.N.I.M.O. Story,Play Pretend,0.404,0.905,0.296,0.44,4.038733333333333,2.0,2.3
+37,37,Picturesque,Do You Feel O.K?,Holding Me Down,0.285,0.728,0.238,0.49,3.4953333333333334,5.0,1.3
+38,38,Punk Goes,"Punk Goes Pop, Vol. 4",Super Bass,0.644,0.923,0.431,0.44,3.62845,4.0,4.5
+39,39,Punk Goes,"Punk Goes Pop, Vol. 4",Super Bass,0.644,0.923,0.431,0.44,3.62845,4.0,4.2
+40,40,Falling In Reverse,Losing My Mind,Losing My Mind,0.544,0.894,0.41,0.59,4.2851333333333335,2.0,1.3
+41,41,Our Last Night,Ignorance Is Bliss,Ignorance Is Bliss,0.598,0.895,0.512,0.44,3.419566666666667,4.0,4.4
+42,42,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,3.0,4.1
+43,43,Fire From The Gods,American Sun,Right Now,0.494,0.916,0.433,0.58,3.7504333333333335,1.0,2.8
+44,44,Escape the Fate,Not My Problem (feat. Travis Barker),Not My Problem (feat. Travis Barker),0.565,0.94,0.68,0.62,3.4320666666666666,3.0,1.8
+45,45,I Prevail,TRAUMA,Hurricane,0.389,0.885,0.187,0.71,3.71955,1.0,3.4
+46,46,Dead by April,Heartbeat Failing,Heartbeat Failing,0.422,0.919,0.279,0.6,4.06,1.0,4.7
+47,47,Miss Fortune,The Day The Sun Died,The Day The Sun Died,0.313,0.929,0.256,0.42,3.6580666666666666,4.0,4.2
+48,48,Pop Evil,Set Me Free,Set Me Free,0.472,0.941,0.295,0.53,3.499283333333333,3.0,3.8
+49,49,Animal DzhaZ,Legendy russkogo roka: Animal DzhaZ,Tri poloski,0.548,0.622,0.184,0.4,4.355783333333333,5.0,2.2
+50,50,HYDE,DEFEAT,DEFEAT,0.46,0.963,0.206,0.44,3.4980333333333333,4.0,4.2
+51,51,Stigmata,Stigmata,Бог меня простит,0.487,0.891,0.151,0.3,3.884,1.0,4.5
+52,52,Dead by April,Heartbeat Failing,Heartbeat Failing,0.422,0.919,0.279,0.6,4.06,4.0,4.8
+53,53,Of Mice & Men,Obsolete,Obsolete,0.407,0.95,0.246,0.63,4.429166666666666,5.0,4.7
+54,54,Nothing More,The Stories We Tell Ourselves,Do You Really Want It,0.223,0.891,0.558,0.56,3.888883333333333,4.0,2.7
+55,55,Beartooth,The Past Is Dead,The Past Is Dead,0.44,0.95,0.51,0.63,3.59875,5.0,3.8
+56,56,Falling In Reverse,Losing My Life,Losing My Life,0.446,0.927,0.274,0.62,4.9836,4.0,2.3
+57,57,Bad Omens,Finding God Before God Finds Me (Deluxe),Never Know,0.381,0.921,0.129,0.52,3.5641833333333333,2.0,3.0
+58,58,Asking Alexandria,Like A House On Fire,They Don't Want What We Want (And They Don't Care),0.558,0.902,0.57,0.6,3.2565166666666667,4.0,1.7
+59,59,Evil Not Alone,V (Пятый),Весна в большом городе,0.54,0.96,0.538,0.14,3.78905,3.0,4.4
+60,60,Hollywood Undead,Five,California Dreaming,0.503,0.967,0.254,0.58,3.912916666666667,3.0,2.7
+61,61,The Raven Age,The Raven Age,Angel In Disgrace,0.433,0.996,0.063,0.47,5.466666666666667,4.0,4.0
+62,62,Flight Paths,Without Me,Without Me,0.516,0.92,0.444,0.35,3.5441166666666666,5.0,2.8
+63,63,Until I Wake,Sinking Under,Sinking Under,0.4,0.978,0.317,0.4,3.4429333333333334,3.0,1.3
+64,64,While She Sleeps,FAKERS PLAGUE,FAKERS PLAGUE,0.42,0.876,0.117,0.55,5.896766666666666,2.0,1.3
+65,65,Asking Alexandria,Asking Alexandria,Into The Fire,0.375,0.965,0.292,0.62,3.95005,5.0,4.5
+66,66,Imminence,Turn the Light On (Deluxe Edition),To the Light - Japanese Bonus Track,0.356,0.953,0.205,0.45,3.6381833333333335,2.0,1.3
+67,67,Dropout Kings,AudioDope,Going Rogue (feat. Landon Tewers),0.632,0.893,0.444,0.37,3.1416666666666666,1.0,1.2
+68,68,As I Lay Dying,Shaped by Fire,My Own Grave,0.477,0.994,0.0397,0.63,4.221966666666667,5.0,2.3
+69,69,Novelists FR,Lost Cause,Lost Cause,0.423,0.926,0.221,0.55,4.808333333333334,5.0,4.7
+70,70,Concepts,Simple and Clean,Simple and Clean,0.424,0.925,0.415,0.3,2.435483333333333,4.0,5.0
+71,71,Architects,For Those That Wish To Exist,Animals,0.532,0.759,0.293,0.65,4.07275,2.0,1.2
+72,72,ERRA,ERRA,Snowblood,0.529,0.983,0.359,0.55,4.228,5.0,2.6
+73,73,Bury the Darkness,Gone But Not Forgotten,Gone But Not Forgotten,0.395,0.978,0.367,0.31,3.533333333333333,5.0,4.6
+0,0,Too Close To Touch,Haven't Been Myself,Miss Your Face,0.273,0.878,0.288,0.46,3.74845,4.0,2.6
+1,1,Bury Tomorrow,Black Flame,Black Flame,0.41,0.938,0.163,0.51,5.310666666666667,3.0,3.6
+2,2,Wage War,Pressure,Low,0.5,0.967,0.498,0.61,3.784883333333333,5.0,2.2
+3,3,Sleeping With Sirens,Let's Cheers To This,If You Can't Hang,0.397,0.975,0.451,0.69,4.1706666666666665,3.0,2.9
+4,4,Kingdom Of Giants,All the Hell You've Got to Spare,Damaged Goods,0.499,0.998,0.054,0.46,3.7517833333333335,3.0,2.8
+5,5,Fit For A King,Deathgrip,Deathgrip,0.407,0.947,0.245,0.5,4.249966666666666,3.0,3.6
+6,6,Kygo,Born To Be Yours,Born To Be Yours,0.688,0.688,0.451,0.71,3.2220166666666668,5.0,1.5
+7,7,Dangerkids,blacklist_,Invincible Summer,0.494,0.458,0.208,0.41,4.97535,3.0,2.6
+8,8,LANDMVRKS,Lost in the Waves,Tired of It All,0.318,0.957,0.482,0.53,3.622733333333333,4.0,4.3
+9,9,While She Sleeps,YOU ARE ALL YOU NEED,YOU ARE ALL YOU NEED,0.505,0.961,0.2,0.6,3.4728833333333333,1.0,4.8
+10,10,With Confidence,Love and Loathing,That Something,0.517,0.896,0.539,0.44,2.800666666666667,3.0,4.5
+11,11,Slaves,Beautiful Death,I'd Rather See Your Star Explode,0.322,0.92,0.324,0.57,3.741116666666666,3.0,2.5
+12,12,Too Close To Touch,Haven't Been Myself,Crooked Smile,0.482,0.946,0.523,0.42,3.60955,2.0,1.3
+13,13,Zombina & The Skeletones,I Was A Human Bomb For The FBI,Punk Rock Vampires: Destroy!,0.541,0.846,0.732,0.04,1.394,4.0,1.9
+14,14,Out Of My Eyes,Blue Cloud,Blue Cloud,0.344,0.904,0.18,0.31,4.44445,1.0,4.3
+15,15,[Amatory],6,Остановить время,0.514,0.959,0.149,0.38,3.9916666666666663,1.0,3.9
+16,16,Evanescence,Fallen,Bring Me To Life,0.331,0.943,0.296,0.81,3.93155,2.0,4.1
+17,17,While She Sleeps,YOU ARE ALL YOU NEED,YOU ARE ALL YOU NEED,0.505,0.961,0.2,0.6,3.4728833333333333,4.0,4.6
+18,18,While She Sleeps,YOU ARE ALL YOU NEED,YOU ARE ALL YOU NEED,0.505,0.961,0.2,0.6,3.4728833333333333,3.0,3.5
+19,19,Fight The Fade,Cut & Run,Cut & Run,0.354,0.877,0.29,0.56,3.248483333333333,2.0,3.8
+20,20,I Prevail,TRAUMA,Paranoid,0.558,0.793,0.457,0.63,2.409116666666667,4.0,2.7
+21,21,Shrezzers,Demure,Demure,0.365,0.94,0.318,0.48,4.205,5.0,3.5
+22,22,Kingdom Of Giants,Ground Culture,Virtue,0.579,0.913,0.367,0.28,3.511,5.0,2.2
+23,23,Storm The Sky,Permanence,Alive,0.455,0.916,0.281,0.39,4.097666666666667,1.0,3.0
+24,24,Catch Your Breath,Criminal,Criminal,0.503,0.941,0.253,0.39,2.9497166666666668,1.0,2.9
+25,25,Of Mice & Men,EARTHANDSKY,Taste of Regret,0.58,0.981,0.39,0.51,3.4712,1.0,3.0
+26,26,You Me At Six,SUCKAPUNCH,Beautiful Way,0.384,0.921,0.446,0.25,3.763116666666667,1.0,5.0
+27,27,October Ends,Lucid Dreams,Lucid Dreams,0.242,0.849,0.25,0.35,3.120033333333333,4.0,1.8
+28,28,Miss Fortune,A Spark To Believe,My Apologies,0.426,0.993,0.556,0.27,3.167333333333333,4.0,2.8
+29,29,Outline In Color,Learn to Let Go,Learn to Let Go,0.377,0.96,0.586,0.38,3.640183333333333,5.0,2.2
+30,30,Raizer,Speed,Speed,0.399,0.984,0.426,0.34,4.13715,5.0,2.4
+31,31,Nomy,The end of the world,House of the rising sun,0.491,0.891,0.152,0.4,4.84,1.0,1.9
+32,32,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,3.0,4.7
+33,33,The Offspring,"Rise And Fall, Rage And Grace","You're Gonna Go Far, Kid",0.55,0.917,0.601,0.81,2.963783333333333,3.0,2.9
+34,34,Like Moths To Flames,No Eternity In Gold,Selective Sacrifice,0.419,0.991,0.407,0.44,3.7093666666666665,5.0,1.9
+35,35,From Ashes to New,Scars That I'm Hiding (feat. Anders Fridén of In Flames),Scars That I'm Hiding (feat. Anders Fridén of In Flames),0.492,0.93,0.431,0.62,2.926716666666666,4.0,2.2
+36,36,Kingdom Of Giants,Passenger,Wayfinder,0.38,0.98,0.513,0.54,4.473983333333333,5.0,4.3
+37,37,Alazka,Dead End,Dead End,0.437,0.969,0.131,0.39,4.235083333333334,5.0,4.4
+38,38,Slaves,To Better Days,Like I Do,0.58,0.874,0.302,0.5,3.162166666666667,4.0,4.8
+39,39,Punk Goes,"Punk Goes Pop, Vol. 3",Airplanes,0.735,0.797,0.76,0.45,2.630216666666666,1.0,4.2
+40,40,Punk Goes,"Punk Goes Pop, Vol. 3",Airplanes,0.735,0.797,0.76,0.45,2.630216666666666,2.0,2.2
+41,41,Escape the Fate,I Am Human,Do You Love Me?,0.523,0.914,0.418,0.45,3.10465,4.0,2.0
+42,42,Escape the Fate,Walk On,Walk On,0.519,0.772,0.355,0.48,3.5696833333333333,5.0,2.4
+43,43,Polaris,The Death of Me,Masochist,0.49,0.941,0.264,0.57,4.132066666666667,5.0,4.4
+44,44,Bad Wolves,N.A.T.I.O.N.,Killing Me Slowly,0.345,0.89,0.276,0.65,3.9510833333333335,1.0,4.8
+45,45,Our Last Night,you broke me first,you broke me first,0.515,0.949,0.308,0.64,2.802416666666667,4.0,3.0
+46,46,A Day To Remember,You're Welcome,Resentment,0.496,0.955,0.143,0.63,3.7877833333333335,1.0,3.8
+47,47,dEMOTIONAL,Boiling Point,Boiling Point,0.514,0.942,0.477,0.53,2.9166666666666665,4.0,1.6
+48,48,Happy Hour,What You Need,What You Need,0.45,0.745,0.305,0.36,3.7,3.0,2.2
+49,49,Saliva,Your Disease (2021 Version),Your Disease - 2021 Version,0.367,0.941,0.678,0.49,4.00775,2.0,2.7
+50,50,Lumen,Без консервантов,Sid & Nancy,0.572,0.783,0.328,0.54,3.1382166666666667,4.0,4.4
+51,51,"Fear, and Loathing in Las Vegas",Shape of Trust,Shape of Trust,0.224,0.973,0.31,0.41,3.705766666666667,4.0,3.9
+52,52,[Amatory],Книга мертвых,Снег в аду,0.48,0.96,0.533,0.3,3.421116666666667,1.0,3.2
+53,53,dEMOTIONAL,Boiling Point,Boiling Point,0.514,0.942,0.477,0.53,2.9166666666666665,5.0,3.6
+54,54,Attack Attack!,All My Life,All My Life,0.467,0.911,0.315,0.58,3.071433333333333,1.0,3.6
+55,55,Sevendust,All I See Is War,Dirty,0.234,0.927,0.278,0.48,3.29465,2.0,4.1
+56,56,Of Mice & Men,Timeless,Anchor,0.452,0.873,0.226,0.61,3.9791666666666665,4.0,1.7
+57,57,Motionless In White,Graveyard Shift,Voices,0.499,0.937,0.569,0.66,3.733333333333333,2.0,2.4
+58,58,The Word Alive,MONOMANIA,NO WAY OUT,0.386,0.92,0.518,0.58,3.584216666666667,5.0,2.6
+59,59,Bad Omens,Finding God Before God Finds Me (Deluxe),Limits,0.312,0.968,0.3,0.57,3.464233333333333,1.0,1.9
+60,60,Deform,Мёртвая романтика,Мёртвая романтика,0.143,0.873,0.0608,0.2,6.502283333333334,2.0,3.1
+61,61,Five Finger Death Punch,And Justice for None (Deluxe),Trouble,0.413,0.99,0.363,0.52,3.203133333333333,2.0,1.3
+62,62,Days Of Jupiter,Secrets Brought To Life,Bleed,0.495,0.949,0.398,0.29,3.123333333333333,4.0,4.2
+63,63,Fame on Fire,Happier,Happier,0.511,0.876,0.443,0.45,3.53,3.0,4.0
+64,64,HAWK,Tolerance's Paradox,Alibi,0.386,0.964,0.494,0.35,3.6176,3.0,2.1
+65,65,Detach,D.R.A.M.A,Bridges,0.424,0.737,0.376,0.13,3.5004833333333334,3.0,1.9
+66,66,Bury Tomorrow,Cannibal,Cannibal,0.534,0.989,0.15,0.53,4.259116666666666,3.0,4.8
+67,67,Motionless In White,Graveyard Shift,Necessary Evil (feat. Jonathan Davis),0.579,0.946,0.4,0.55,3.800883333333333,1.0,1.9
+68,68,Annisokay,Aurora,Bonfire of the Millennials,0.469,0.849,0.263,0.45,3.7570833333333336,4.0,3.8
+69,69,Hyro The Hero,Flagged Channel,Live Your Fuckin Life,0.584,0.741,0.334,0.4,2.994666666666667,2.0,3.6
+70,70,Fit For A King,Dark Skies,The Price of Agony,0.349,0.95,0.401,0.56,4.7999833333333335,5.0,1.2
+71,71,Hollow Front,Wearing Thin,Wearing Thin,0.531,0.897,0.0678,0.53,4.369933333333333,3.0,3.8
+72,72,Élan Vital,Unravel,Unravel,0.462,0.871,0.362,0.34,3.9259333333333335,2.0,1.3
+73,73,Bring Me The Horizon,POST HUMAN: SURVIVAL HORROR,Teardrops,0.497,0.916,0.401,0.7,3.5834,3.0,2.0
+74,74,Spiritbox,Holy Roller (feat. Ryo Kinoshita),Holy Roller (feat. Ryo Kinoshita),0.438,0.967,0.132,0.55,2.886233333333333,1.0,2.1
+75,75,Fear Culture,Fake It,Fake It,0.524,0.955,0.334,0.28,3.288133333333333,1.0,2.1
+0,0,Picturesque,Back to Beautiful,Fake Fiction,0.289,0.948,0.529,0.43,3.64445,4.0,2.6
+1,1,Any Given Day,Overpower,Savior,0.466,0.973,0.0996,0.44,4.013333333333334,1.0,4.6
+2,2,I Prevail,TRAUMA,Bow Down,0.426,0.959,0.372,0.68,4.044666666666667,3.0,3.8
+3,3,Pierce The Veil,Selfish Machines,Bulletproof Love,0.452,0.964,0.464,0.65,3.9566666666666666,3.0,4.8
+4,4,"Our Hollow, Our Home",Hartsick,Loneshark,0.363,0.988,0.0857,0.48,3.725116666666666,1.0,1.5
+5,5,Wage War,Deadweight,Don't Let Me Fade Away,0.538,0.955,0.467,0.54,4.084216666666666,5.0,1.0
+6,6,Selena Gomez,13 Reasons Why (Season 2),Start Again (feat. Logic),0.564,0.722,0.276,0.64,2.76045,1.0,2.2
+7,7,Boys of Fall,Years & Acoustics,Drown,0.465,0.415,0.318,0.38,3.8085166666666663,1.0,4.7
+8,8,"Our Hollow, Our Home",Overcast,Overcast,0.39,0.977,0.127,0.47,3.7059166666666665,5.0,1.6
+9,9,Architects,For Those That Wish To Exist,Giving Blood,0.448,0.877,0.199,0.64,3.5344,3.0,5.0
+10,10,All Time Low,Everything Is Fine,Everything is Fine,0.39,0.908,0.52,0.4,3.627083333333333,3.0,1.1
+11,11,Palisades,Palisades,Let Down,0.576,0.813,0.251,0.57,3.6235666666666666,1.0,2.3
+12,12,Palisades,Palisades,Better Chemicals,0.553,0.916,0.34,0.41,3.1044,1.0,3.0
+13,13,Vulture Club|Hola Ghost,Christmassacrebleu,"Santa Claws, Kicks & Bites",0.267,0.951,0.563,0.0,2.80755,2.0,4.6
+14,14,Dissonants,Comforting Lies // Unpleasant Truths,Comforting Lies // Unpleasant Truths,0.251,0.977,0.16,0.22,3.771433333333333,2.0,1.4
+15,15,Wildways,Into The Wild,Faka Faka Yeah,0.502,0.989,0.123,0.29,3.5002166666666668,3.0,4.1
+16,16,Linkin Park,Hybrid Theory (Bonus Edition),In the End,0.556,0.864,0.4,0.85,3.6146666666666665,5.0,4.7
+17,17,zebrahead,MFZB,Hello Tomorrow,0.475,0.943,0.496,0.49,4.069333333333334,4.0,1.5
+18,18,Architects,For Those That Wish To Exist,Giving Blood,0.448,0.877,0.199,0.64,3.5344,4.0,2.4
+19,19,Architects,For Those That Wish To Exist,Giving Blood,0.448,0.877,0.199,0.64,3.5344,2.0,3.7
+20,20,Annisokay,Aurora,Under Your Tattoos,0.469,0.961,0.157,0.56,4.2045,2.0,3.3
+21,21,Palisades,Erase The Pain,Erase The Pain,0.466,0.864,0.481,0.58,3.29725,5.0,2.2
+22,22,Outline In Color,Goodbye to My Friends,Goodbye to My Friends,0.443,0.83,0.186,0.41,2.94,5.0,4.9
+23,23,Buried In Verona,"Vultures Above, Lions Below",Done for Good,0.448,0.973,0.22,0.28,4.193883333333333,3.0,1.3
+24,24,Ghost Atlas,Gold Soul Coma,Sacred Organs,0.418,0.945,0.283,0.44,5.56075,4.0,3.5
+25,25,Versus Me,(A)tension,(A)tension,0.463,0.967,0.446,0.39,3.739283333333333,2.0,2.1
+26,26,Wage War,Pressure,Who I Am,0.502,0.968,0.209,0.55,3.696,4.0,4.6
+27,27,The Hunna,I'd Rather Die Than Let You In,Young & Faded,0.614,0.825,0.168,0.41,2.858216666666667,4.0,4.6
+28,28,Flight Paths,Lucid Dreams,Lucid Dreams,0.507,0.82,0.642,0.4,3.66965,4.0,4.4
+29,29,Picturesque,Picturesque EP,Just Exist,0.371,0.959,0.54,0.27,3.7243,1.0,1.7
+30,30,Wind Walkers,The Lost Boys,New England Palm Trees,0.244,0.943,0.274,0.45,3.51875,5.0,4.2
+31,31,Soul Extract,Centigrade,Centigrade,0.322,0.854,0.15,0.41,5.754716666666667,4.0,1.5
+32,32,Bullet For My Valentine,Gravity (Deluxe Edition),Radioactive,0.527,0.695,0.271,0.61,3.218,2.0,3.1
+33,33,Falling In Reverse,Coming Home (Deluxe Edition),Loser,0.449,0.98,0.0533,0.55,4.224216666666667,1.0,2.0
+34,34,Bad Omens,Finding God Before God Finds Me (Deluxe),Never Know,0.381,0.921,0.129,0.52,3.5641833333333333,2.0,3.4
+35,35,Rise Against,Appeal To Reason,Savior,0.554,0.932,0.478,0.76,4.038,2.0,2.8
+36,36,Kingdom Of Giants,Passenger,Night Shift,0.524,0.972,0.265,0.48,3.95165,4.0,2.7
+37,37,Adelitas Way,Shine On,All In,0.431,0.96,0.41,0.5,2.91665,1.0,4.6
+38,38,Siamese,Home (feat. Drew York),Home (feat. Drew York),0.617,0.932,0.393,0.48,3.958933333333333,5.0,2.1
+39,39,Being As An Ocean,PROXY: An A.N.I.M.O. Story,Play Pretend,0.404,0.905,0.296,0.44,4.038733333333333,1.0,4.2
+40,40,Fame on Fire,LEVELS,Down,0.542,0.953,0.691,0.46,3.31285,5.0,3.6
+41,41,Punk Goes,"Punk Goes Pop, Vol. 3",In My Head,0.549,0.829,0.596,0.49,3.685333333333333,3.0,1.7
+42,42,Punk Goes,"Punk Goes Pop, Vol. 4",Super Bass,0.644,0.923,0.431,0.44,3.62845,4.0,1.9
+43,43,Falling In Reverse,Losing My Mind,Losing My Mind,0.544,0.894,0.41,0.59,4.2851333333333335,3.0,3.7
+44,44,Our Last Night,Ignorance Is Bliss,Ignorance Is Bliss,0.598,0.895,0.512,0.44,3.419566666666667,5.0,3.1
+45,45,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,2.0,4.8
+46,46,Fire From The Gods,American Sun,Right Now,0.494,0.916,0.433,0.58,3.7504333333333335,5.0,3.8
+47,47,Escape the Fate,Not My Problem (feat. Travis Barker),Not My Problem (feat. Travis Barker),0.565,0.94,0.68,0.62,3.4320666666666666,3.0,3.3
+48,48,I Prevail,TRAUMA,Hurricane,0.389,0.885,0.187,0.71,3.71955,1.0,1.1
+49,49,Dead by April,Heartbeat Failing,Heartbeat Failing,0.422,0.919,0.279,0.6,4.06,5.0,1.4
+50,50,Miss Fortune,The Day The Sun Died,The Day The Sun Died,0.313,0.929,0.256,0.42,3.6580666666666666,1.0,3.9
+51,51,Pop Evil,Set Me Free,Set Me Free,0.472,0.941,0.295,0.53,3.499283333333333,5.0,2.5
+52,52,Animal DzhaZ,Legendy russkogo roka: Animal DzhaZ,Tri poloski,0.548,0.622,0.184,0.4,4.355783333333333,5.0,2.4
+53,53,HYDE,DEFEAT,DEFEAT,0.46,0.963,0.206,0.44,3.4980333333333333,1.0,2.4
+54,54,Stigmata,Stigmata,Бог меня простит,0.487,0.891,0.151,0.3,3.884,2.0,2.3
+55,55,Dead by April,Heartbeat Failing,Heartbeat Failing,0.422,0.919,0.279,0.6,4.06,2.0,2.0
+56,56,Of Mice & Men,Obsolete,Obsolete,0.407,0.95,0.246,0.63,4.429166666666666,1.0,2.9
+57,57,Like A Storm,Catacombs,The Devil Inside,0.509,0.961,0.327,0.46,4.329783333333333,4.0,2.7
+58,58,Beartooth,The Past Is Dead,The Past Is Dead,0.44,0.95,0.51,0.63,3.59875,3.0,1.6
+59,59,Falling In Reverse,Losing My Life,Losing My Life,0.446,0.927,0.274,0.62,4.9836,5.0,3.2
+60,60,Silverstein,A Beautiful Place To Drown,Infinite,0.441,0.868,0.366,0.57,2.728666666666667,3.0,1.4
+61,61,Asking Alexandria,Like A House On Fire,They Don't Want What We Want (And They Don't Care),0.558,0.902,0.57,0.6,3.2565166666666667,1.0,1.3
+62,62,Evil Not Alone,V (Пятый),Весна в большом городе,0.54,0.96,0.538,0.14,3.78905,5.0,4.2
+63,63,Hollywood Undead,Five,California Dreaming,0.503,0.967,0.254,0.58,3.912916666666667,5.0,4.7
+64,64,The Raven Age,The Raven Age,Angel In Disgrace,0.433,0.996,0.063,0.47,5.466666666666667,2.0,4.3
+65,65,Our Last Night,Back To You,Back To You,0.606,0.905,0.508,0.56,3.4534333333333334,1.0,2.3
+66,66,Until I Wake,Sinking Under,Sinking Under,0.4,0.978,0.317,0.4,3.4429333333333334,2.0,4.5
+67,67,Tritia,The Restructured,What Are You Waiting,0.38,0.894,0.556,0.09,4.275,4.0,2.6
+68,68,While She Sleeps,FAKERS PLAGUE,FAKERS PLAGUE,0.42,0.876,0.117,0.55,5.896766666666666,5.0,2.9
+69,69,Asking Alexandria,Asking Alexandria,Into The Fire,0.375,0.965,0.292,0.62,3.95005,1.0,3.5
+70,70,Imminence,Turn the Light On (Deluxe Edition),To the Light - Japanese Bonus Track,0.356,0.953,0.205,0.45,3.6381833333333335,5.0,1.4
+71,71,Dropout Kings,AudioDope,Going Rogue (feat. Landon Tewers),0.632,0.893,0.444,0.37,3.1416666666666666,3.0,4.1
+72,72,As I Lay Dying,Shaped by Fire,My Own Grave,0.477,0.994,0.0397,0.63,4.221966666666667,5.0,3.9
+73,73,Novelists FR,Lost Cause,Lost Cause,0.423,0.926,0.221,0.55,4.808333333333334,5.0,1.6
+74,74,Concepts,Simple and Clean,Simple and Clean,0.424,0.925,0.415,0.3,2.435483333333333,1.0,3.2
+75,75,Architects,For Those That Wish To Exist,Animals,0.532,0.759,0.293,0.65,4.07275,4.0,4.2
+76,76,ERRA,ERRA,Snowblood,0.529,0.983,0.359,0.55,4.228,4.0,3.8
+77,77,Bury the Darkness,Gone But Not Forgotten,Gone But Not Forgotten,0.395,0.978,0.367,0.31,3.533333333333333,2.0,3.1
+0,0,Picturesque,Back to Beautiful,Fake Fiction,0.289,0.948,0.529,0.43,3.64445,5.0,2.5
+1,1,Any Given Day,Overpower,Savior,0.466,0.973,0.0996,0.44,4.013333333333334,1.0,4.6
+2,2,I Prevail,TRAUMA,Bow Down,0.426,0.959,0.372,0.68,4.044666666666667,1.0,4.8
+3,3,Pierce The Veil,Selfish Machines,Bulletproof Love,0.452,0.964,0.464,0.65,3.9566666666666666,5.0,2.3
+4,4,"Our Hollow, Our Home",Hartsick,Loneshark,0.363,0.988,0.0857,0.48,3.725116666666666,4.0,2.0
+5,5,Wage War,Deadweight,Don't Let Me Fade Away,0.538,0.955,0.467,0.54,4.084216666666666,3.0,1.4
+6,6,Selena Gomez,13 Reasons Why (Season 2),Start Again (feat. Logic),0.564,0.722,0.276,0.64,2.76045,3.0,2.8
+7,7,Boys of Fall,Years & Acoustics,Drown,0.465,0.415,0.318,0.38,3.8085166666666663,2.0,3.7
+8,8,"Our Hollow, Our Home",Overcast,Overcast,0.39,0.977,0.127,0.47,3.7059166666666665,1.0,2.2
+9,9,Architects,For Those That Wish To Exist,Giving Blood,0.448,0.877,0.199,0.64,3.5344,5.0,3.2
+10,10,All Time Low,Everything Is Fine,Everything is Fine,0.39,0.908,0.52,0.4,3.627083333333333,3.0,2.3
+11,11,Palisades,Palisades,Let Down,0.576,0.813,0.251,0.57,3.6235666666666666,4.0,4.4
+12,12,Palisades,Palisades,Better Chemicals,0.553,0.916,0.34,0.41,3.1044,5.0,4.2
+13,13,Vulture Club|Hola Ghost,Christmassacrebleu,"Santa Claws, Kicks & Bites",0.267,0.951,0.563,0.0,2.80755,3.0,4.4
+14,14,Dissonants,Comforting Lies // Unpleasant Truths,Comforting Lies // Unpleasant Truths,0.251,0.977,0.16,0.22,3.771433333333333,5.0,3.7
+15,15,Wildways,Into The Wild,Faka Faka Yeah,0.502,0.989,0.123,0.29,3.5002166666666668,1.0,1.6
+16,16,Linkin Park,Hybrid Theory (Bonus Edition),In the End,0.556,0.864,0.4,0.85,3.6146666666666665,1.0,2.1
+17,17,zebrahead,MFZB,Hello Tomorrow,0.475,0.943,0.496,0.49,4.069333333333334,3.0,3.4
+18,18,Architects,For Those That Wish To Exist,Giving Blood,0.448,0.877,0.199,0.64,3.5344,3.0,5.0
+19,19,Architects,For Those That Wish To Exist,Giving Blood,0.448,0.877,0.199,0.64,3.5344,3.0,4.3
+20,20,Annisokay,Aurora,Under Your Tattoos,0.469,0.961,0.157,0.56,4.2045,1.0,3.8
+21,21,Palisades,Erase The Pain,Erase The Pain,0.466,0.864,0.481,0.58,3.29725,1.0,1.8
+22,22,Outline In Color,Goodbye to My Friends,Goodbye to My Friends,0.443,0.83,0.186,0.41,2.94,1.0,4.3
+23,23,Buried In Verona,"Vultures Above, Lions Below",Done for Good,0.448,0.973,0.22,0.28,4.193883333333333,2.0,4.8
+24,24,Ghost Atlas,Gold Soul Coma,Sacred Organs,0.418,0.945,0.283,0.44,5.56075,3.0,3.8
+25,25,Versus Me,(A)tension,(A)tension,0.463,0.967,0.446,0.39,3.739283333333333,4.0,2.1
+26,26,Wage War,Pressure,Who I Am,0.502,0.968,0.209,0.55,3.696,3.0,1.8
+27,27,The Hunna,I'd Rather Die Than Let You In,Young & Faded,0.614,0.825,0.168,0.41,2.858216666666667,4.0,2.3
+28,28,Flight Paths,Lucid Dreams,Lucid Dreams,0.507,0.82,0.642,0.4,3.66965,4.0,2.9
+29,29,Picturesque,Picturesque EP,Just Exist,0.371,0.959,0.54,0.27,3.7243,3.0,4.6
+30,30,Wind Walkers,The Lost Boys,New England Palm Trees,0.244,0.943,0.274,0.45,3.51875,5.0,4.8
+31,31,Soul Extract,Centigrade,Centigrade,0.322,0.854,0.15,0.41,5.754716666666667,5.0,3.2
+32,32,Bullet For My Valentine,Gravity (Deluxe Edition),Radioactive,0.527,0.695,0.271,0.61,3.218,2.0,1.6
+33,33,Falling In Reverse,Coming Home (Deluxe Edition),Loser,0.449,0.98,0.0533,0.55,4.224216666666667,1.0,1.1
+34,34,Bad Omens,Finding God Before God Finds Me (Deluxe),Never Know,0.381,0.921,0.129,0.52,3.5641833333333333,3.0,4.5
+35,35,Rise Against,Appeal To Reason,Savior,0.554,0.932,0.478,0.76,4.038,4.0,1.9
+36,36,Kingdom Of Giants,Passenger,Night Shift,0.524,0.972,0.265,0.48,3.95165,5.0,2.3
+37,37,Adelitas Way,Shine On,All In,0.431,0.96,0.41,0.5,2.91665,4.0,1.3
+38,38,Siamese,Home (feat. Drew York),Home (feat. Drew York),0.617,0.932,0.393,0.48,3.958933333333333,3.0,2.6
+39,39,Being As An Ocean,PROXY: An A.N.I.M.O. Story,Play Pretend,0.404,0.905,0.296,0.44,4.038733333333333,4.0,1.1
+40,40,Fame on Fire,LEVELS,Down,0.542,0.953,0.691,0.46,3.31285,4.0,3.6
+41,41,Punk Goes,"Punk Goes Pop, Vol. 3",In My Head,0.549,0.829,0.596,0.49,3.685333333333333,5.0,1.1
+42,42,Punk Goes,"Punk Goes Pop, Vol. 4",Super Bass,0.644,0.923,0.431,0.44,3.62845,5.0,2.1
+43,43,Falling In Reverse,Losing My Mind,Losing My Mind,0.544,0.894,0.41,0.59,4.2851333333333335,1.0,1.1
+44,44,Our Last Night,Ignorance Is Bliss,Ignorance Is Bliss,0.598,0.895,0.512,0.44,3.419566666666667,4.0,4.9
+45,45,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,3.0,4.7
+46,46,Fire From The Gods,American Sun,Right Now,0.494,0.916,0.433,0.58,3.7504333333333335,3.0,1.0
+47,47,Escape the Fate,Not My Problem (feat. Travis Barker),Not My Problem (feat. Travis Barker),0.565,0.94,0.68,0.62,3.4320666666666666,5.0,1.5
+48,48,I Prevail,TRAUMA,Hurricane,0.389,0.885,0.187,0.71,3.71955,3.0,3.8
+49,49,Dead by April,Heartbeat Failing,Heartbeat Failing,0.422,0.919,0.279,0.6,4.06,1.0,3.2
+50,50,Miss Fortune,The Day The Sun Died,The Day The Sun Died,0.313,0.929,0.256,0.42,3.6580666666666666,1.0,3.8
+51,51,Pop Evil,Set Me Free,Set Me Free,0.472,0.941,0.295,0.53,3.499283333333333,3.0,2.7
+52,52,Animal DzhaZ,Legendy russkogo roka: Animal DzhaZ,Tri poloski,0.548,0.622,0.184,0.4,4.355783333333333,1.0,3.5
+53,53,HYDE,DEFEAT,DEFEAT,0.46,0.963,0.206,0.44,3.4980333333333333,5.0,1.1
+54,54,Stigmata,Stigmata,Бог меня простит,0.487,0.891,0.151,0.3,3.884,1.0,2.1
+55,55,Dead by April,Heartbeat Failing,Heartbeat Failing,0.422,0.919,0.279,0.6,4.06,5.0,2.4
+56,56,Of Mice & Men,Obsolete,Obsolete,0.407,0.95,0.246,0.63,4.429166666666666,3.0,4.9
+57,57,Like A Storm,Catacombs,The Devil Inside,0.509,0.961,0.327,0.46,4.329783333333333,2.0,4.5
+58,58,Beartooth,The Past Is Dead,The Past Is Dead,0.44,0.95,0.51,0.63,3.59875,1.0,1.1
+59,59,Falling In Reverse,Losing My Life,Losing My Life,0.446,0.927,0.274,0.62,4.9836,5.0,1.0
+60,60,Silverstein,A Beautiful Place To Drown,Infinite,0.441,0.868,0.366,0.57,2.728666666666667,1.0,2.8
+61,61,Asking Alexandria,Like A House On Fire,They Don't Want What We Want (And They Don't Care),0.558,0.902,0.57,0.6,3.2565166666666667,3.0,4.2
+62,62,Evil Not Alone,V (Пятый),Весна в большом городе,0.54,0.96,0.538,0.14,3.78905,2.0,1.9
+63,63,Hollywood Undead,Five,California Dreaming,0.503,0.967,0.254,0.58,3.912916666666667,1.0,3.3
+64,64,The Raven Age,The Raven Age,Angel In Disgrace,0.433,0.996,0.063,0.47,5.466666666666667,4.0,2.9
+65,65,Our Last Night,Back To You,Back To You,0.606,0.905,0.508,0.56,3.4534333333333334,4.0,3.7
+66,66,Until I Wake,Sinking Under,Sinking Under,0.4,0.978,0.317,0.4,3.4429333333333334,3.0,2.9
+67,67,Tritia,The Restructured,What Are You Waiting,0.38,0.894,0.556,0.09,4.275,5.0,2.8
+68,68,While She Sleeps,FAKERS PLAGUE,FAKERS PLAGUE,0.42,0.876,0.117,0.55,5.896766666666666,4.0,3.6
+69,69,Asking Alexandria,Asking Alexandria,Into The Fire,0.375,0.965,0.292,0.62,3.95005,1.0,1.0
+70,70,Imminence,Turn the Light On (Deluxe Edition),To the Light - Japanese Bonus Track,0.356,0.953,0.205,0.45,3.6381833333333335,4.0,1.2
+71,71,Dropout Kings,AudioDope,Going Rogue (feat. Landon Tewers),0.632,0.893,0.444,0.37,3.1416666666666666,2.0,2.6
+72,72,As I Lay Dying,Shaped by Fire,My Own Grave,0.477,0.994,0.0397,0.63,4.221966666666667,3.0,3.3
+73,73,Novelists FR,Lost Cause,Lost Cause,0.423,0.926,0.221,0.55,4.808333333333334,1.0,3.7
+74,74,Concepts,Simple and Clean,Simple and Clean,0.424,0.925,0.415,0.3,2.435483333333333,3.0,1.3
+75,75,Architects,For Those That Wish To Exist,Animals,0.532,0.759,0.293,0.65,4.07275,4.0,2.1
+76,76,ERRA,ERRA,Snowblood,0.529,0.983,0.359,0.55,4.228,1.0,3.6
+77,77,Bury the Darkness,Gone But Not Forgotten,Gone But Not Forgotten,0.395,0.978,0.367,0.31,3.533333333333333,3.0,2.2
+0,0,Picturesque,Back to Beautiful,Fake Fiction,0.289,0.948,0.529,0.43,3.64445,4.0,2.5
+1,1,Any Given Day,Overpower,Savior,0.466,0.973,0.0996,0.44,4.013333333333334,1.0,3.4
+2,2,I Prevail,TRAUMA,Bow Down,0.426,0.959,0.372,0.68,4.044666666666667,4.0,1.9
+3,3,Pierce The Veil,Selfish Machines,Bulletproof Love,0.452,0.964,0.464,0.65,3.9566666666666666,4.0,3.7
+4,4,"Our Hollow, Our Home",Hartsick,Loneshark,0.363,0.988,0.0857,0.48,3.725116666666666,5.0,3.7
+5,5,Wage War,Deadweight,Don't Let Me Fade Away,0.538,0.955,0.467,0.54,4.084216666666666,4.0,4.3
+6,6,Selena Gomez,13 Reasons Why (Season 2),Start Again (feat. Logic),0.564,0.722,0.276,0.64,2.76045,4.0,1.2
+7,7,Boys of Fall,Years & Acoustics,Drown,0.465,0.415,0.318,0.38,3.8085166666666663,3.0,2.2
+8,8,"Our Hollow, Our Home",Overcast,Overcast,0.39,0.977,0.127,0.47,3.7059166666666665,4.0,1.2
+9,9,Architects,For Those That Wish To Exist,Giving Blood,0.448,0.877,0.199,0.64,3.5344,3.0,4.2
+10,10,All Time Low,Everything Is Fine,Everything is Fine,0.39,0.908,0.52,0.4,3.627083333333333,4.0,3.1
+11,11,Palisades,Palisades,Let Down,0.576,0.813,0.251,0.57,3.6235666666666666,2.0,4.9
+12,12,Palisades,Palisades,Better Chemicals,0.553,0.916,0.34,0.41,3.1044,5.0,1.4
+13,13,Vulture Club|Hola Ghost,Christmassacrebleu,"Santa Claws, Kicks & Bites",0.267,0.951,0.563,0.0,2.80755,5.0,2.8
+14,14,Dissonants,Comforting Lies // Unpleasant Truths,Comforting Lies // Unpleasant Truths,0.251,0.977,0.16,0.22,3.771433333333333,2.0,4.7
+15,15,Wildways,Into The Wild,Faka Faka Yeah,0.502,0.989,0.123,0.29,3.5002166666666668,5.0,1.4
+16,16,Linkin Park,Hybrid Theory (Bonus Edition),In the End,0.556,0.864,0.4,0.85,3.6146666666666665,4.0,1.5
+17,17,zebrahead,MFZB,Hello Tomorrow,0.475,0.943,0.496,0.49,4.069333333333334,2.0,1.2
+18,18,Architects,For Those That Wish To Exist,Giving Blood,0.448,0.877,0.199,0.64,3.5344,2.0,2.4
+19,19,Architects,For Those That Wish To Exist,Giving Blood,0.448,0.877,0.199,0.64,3.5344,4.0,3.8
+20,20,Annisokay,Aurora,Under Your Tattoos,0.469,0.961,0.157,0.56,4.2045,1.0,4.1
+21,21,Palisades,Erase The Pain,Erase The Pain,0.466,0.864,0.481,0.58,3.29725,2.0,4.5
+22,22,Outline In Color,Goodbye to My Friends,Goodbye to My Friends,0.443,0.83,0.186,0.41,2.94,1.0,2.3
+23,23,Buried In Verona,"Vultures Above, Lions Below",Done for Good,0.448,0.973,0.22,0.28,4.193883333333333,5.0,3.0
+24,24,Ghost Atlas,Gold Soul Coma,Sacred Organs,0.418,0.945,0.283,0.44,5.56075,3.0,1.1
+25,25,Versus Me,(A)tension,(A)tension,0.463,0.967,0.446,0.39,3.739283333333333,5.0,3.5
+26,26,Wage War,Pressure,Who I Am,0.502,0.968,0.209,0.55,3.696,2.0,3.8
+27,27,The Hunna,I'd Rather Die Than Let You In,Young & Faded,0.614,0.825,0.168,0.41,2.858216666666667,3.0,2.7
+28,28,Flight Paths,Lucid Dreams,Lucid Dreams,0.507,0.82,0.642,0.4,3.66965,3.0,4.3
+29,29,Picturesque,Picturesque EP,Just Exist,0.371,0.959,0.54,0.27,3.7243,2.0,3.6
+30,30,Wind Walkers,The Lost Boys,New England Palm Trees,0.244,0.943,0.274,0.45,3.51875,3.0,4.0
+31,31,Soul Extract,Centigrade,Centigrade,0.322,0.854,0.15,0.41,5.754716666666667,3.0,3.3
+32,32,Bullet For My Valentine,Gravity (Deluxe Edition),Radioactive,0.527,0.695,0.271,0.61,3.218,5.0,1.9
+33,33,Falling In Reverse,Coming Home (Deluxe Edition),Loser,0.449,0.98,0.0533,0.55,4.224216666666667,2.0,2.7
+34,34,Bad Omens,Finding God Before God Finds Me (Deluxe),Never Know,0.381,0.921,0.129,0.52,3.5641833333333333,5.0,4.4
+35,35,Rise Against,Appeal To Reason,Savior,0.554,0.932,0.478,0.76,4.038,2.0,2.8
+36,36,Kingdom Of Giants,Passenger,Night Shift,0.524,0.972,0.265,0.48,3.95165,3.0,1.3
+37,37,Adelitas Way,Shine On,All In,0.431,0.96,0.41,0.5,2.91665,5.0,3.8
+38,38,Siamese,Home (feat. Drew York),Home (feat. Drew York),0.617,0.932,0.393,0.48,3.958933333333333,2.0,1.9
+39,39,Being As An Ocean,PROXY: An A.N.I.M.O. Story,Play Pretend,0.404,0.905,0.296,0.44,4.038733333333333,2.0,1.3
+40,40,Fame on Fire,LEVELS,Down,0.542,0.953,0.691,0.46,3.31285,2.0,3.2
+41,41,Punk Goes,"Punk Goes Pop, Vol. 3",In My Head,0.549,0.829,0.596,0.49,3.685333333333333,4.0,4.9
+42,42,Punk Goes,"Punk Goes Pop, Vol. 4",Super Bass,0.644,0.923,0.431,0.44,3.62845,2.0,3.9
+43,43,Falling In Reverse,Losing My Mind,Losing My Mind,0.544,0.894,0.41,0.59,4.2851333333333335,3.0,1.1
+44,44,Our Last Night,Ignorance Is Bliss,Ignorance Is Bliss,0.598,0.895,0.512,0.44,3.419566666666667,3.0,4.1
+45,45,The Amity Affliction,Everyone Loves You… Once You Leave Them,Soak Me In Bleach,0.256,0.91,0.196,0.51,3.7652666666666663,5.0,1.1
+46,46,Fire From The Gods,American Sun,Right Now,0.494,0.916,0.433,0.58,3.7504333333333335,5.0,4.1
+47,47,Escape the Fate,Not My Problem (feat. Travis Barker),Not My Problem (feat. Travis Barker),0.565,0.94,0.68,0.62,3.4320666666666666,1.0,1.7
+48,48,I Prevail,TRAUMA,Hurricane,0.389,0.885,0.187,0.71,3.71955,3.0,1.9
+49,49,Dead by April,Heartbeat Failing,Heartbeat Failing,0.422,0.919,0.279,0.6,4.06,2.0,4.7
+50,50,Miss Fortune,The Day The Sun Died,The Day The Sun Died,0.313,0.929,0.256,0.42,3.6580666666666666,3.0,2.4
+51,51,Pop Evil,Set Me Free,Set Me Free,0.472,0.941,0.295,0.53,3.499283333333333,2.0,3.9
+52,52,Animal DzhaZ,Legendy russkogo roka: Animal DzhaZ,Tri poloski,0.548,0.622,0.184,0.4,4.355783333333333,4.0,4.2
+53,53,HYDE,DEFEAT,DEFEAT,0.46,0.963,0.206,0.44,3.4980333333333333,5.0,2.0
+54,54,Stigmata,Stigmata,Бог меня простит,0.487,0.891,0.151,0.3,3.884,1.0,1.8
+55,55,Dead by April,Heartbeat Failing,Heartbeat Failing,0.422,0.919,0.279,0.6,4.06,5.0,4.3
+56,56,Of Mice & Men,Obsolete,Obsolete,0.407,0.95,0.246,0.63,4.429166666666666,3.0,3.0
+57,57,Like A Storm,Catacombs,The Devil Inside,0.509,0.961,0.327,0.46,4.329783333333333,4.0,4.9
+58,58,Beartooth,The Past Is Dead,The Past Is Dead,0.44,0.95,0.51,0.63,3.59875,3.0,4.9
+59,59,Falling In Reverse,Losing My Life,Losing My Life,0.446,0.927,0.274,0.62,4.9836,2.0,1.9
+60,60,Silverstein,A Beautiful Place To Drown,Infinite,0.441,0.868,0.366,0.57,2.728666666666667,1.0,3.2
+61,61,Asking Alexandria,Like A House On Fire,They Don't Want What We Want (And They Don't Care),0.558,0.902,0.57,0.6,3.2565166666666667,4.0,4.9
+62,62,Evil Not Alone,V (Пятый),Весна в большом городе,0.54,0.96,0.538,0.14,3.78905,3.0,3.4
+63,63,Hollywood Undead,Five,California Dreaming,0.503,0.967,0.254,0.58,3.912916666666667,4.0,3.5
+64,64,The Raven Age,The Raven Age,Angel In Disgrace,0.433,0.996,0.063,0.47,5.466666666666667,3.0,2.3
+65,65,Our Last Night,Back To You,Back To You,0.606,0.905,0.508,0.56,3.4534333333333334,3.0,3.1
+66,66,Until I Wake,Sinking Under,Sinking Under,0.4,0.978,0.317,0.4,3.4429333333333334,2.0,1.2
+67,67,Tritia,The Restructured,What Are You Waiting,0.38,0.894,0.556,0.09,4.275,4.0,1.8
+68,68,While She Sleeps,FAKERS PLAGUE,FAKERS PLAGUE,0.42,0.876,0.117,0.55,5.896766666666666,3.0,1.5
+69,69,Asking Alexandria,Asking Alexandria,Into The Fire,0.375,0.965,0.292,0.62,3.95005,3.0,3.1
+70,70,Imminence,Turn the Light On (Deluxe Edition),To the Light - Japanese Bonus Track,0.356,0.953,0.205,0.45,3.6381833333333335,4.0,3.9
+71,71,Dropout Kings,AudioDope,Going Rogue (feat. Landon Tewers),0.632,0.893,0.444,0.37,3.1416666666666666,4.0,3.5
+72,72,As I Lay Dying,Shaped by Fire,My Own Grave,0.477,0.994,0.0397,0.63,4.221966666666667,3.0,2.3
+73,73,Novelists FR,Lost Cause,Lost Cause,0.423,0.926,0.221,0.55,4.808333333333334,5.0,2.3
+74,74,Concepts,Simple and Clean,Simple and Clean,0.424,0.925,0.415,0.3,2.435483333333333,2.0,4.5
+75,75,Architects,For Those That Wish To Exist,Animals,0.532,0.759,0.293,0.65,4.07275,5.0,3.5
+76,76,ERRA,ERRA,Snowblood,0.529,0.983,0.359,0.55,4.228,1.0,3.2
+77,77,Bury the Darkness,Gone But Not Forgotten,Gone But Not Forgotten,0.395,0.978,0.367,0.31,3.533333333333333,3.0,1.8
