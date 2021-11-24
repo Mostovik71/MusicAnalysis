@@ -4,8 +4,8 @@ import pandas as pd
 import random
 import seaborn as sns
 from tabulate import tabulate
-CLIENT_ID = "3f131c5c52924d64bfd7bea065bedb7a"
-CLIENT_SECRET = "ba50aa7ff4ee4e448e221def07f7feee"
+CLIENT_ID = "smth"
+CLIENT_SECRET = "smth"
 token = spotipy.oauth2.SpotifyClientCredentials(client_id=CLIENT_ID, client_secret=CLIENT_SECRET)
 cache_token = token.get_access_token()
 sp = spotipy.Spotify(cache_token)
